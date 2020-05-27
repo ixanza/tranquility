@@ -91,7 +91,7 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the latest release of Serenity from [the release tab](https://github.com/ixanza/serenity/releases).
+Let's get to the actual installation. Grab the latest release of Serenity from [here](https://drive.google.com/open?id=1FnKO8IlmtZsn9_vkdi5ArmgZ7I76CW4h).
 
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
