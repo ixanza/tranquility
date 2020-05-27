@@ -1,6 +1,4 @@
 # Serenity
-
-- [Serenity](#serenity)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
