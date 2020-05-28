@@ -157,7 +157,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Creating your Character
 
-Upon entering the game you will be greeted with a notification from the Relic Notifications Mod. Hit OK and wait for another Pop up from it, usually takes about a minute. Then proceed with creating your character. Once you've named your character wait for all the messages in the top left to fade away then open your inventory and close it. This will start up Requiem. Once Requiem has finished its installation you may proceed with the next section.
+Upon entering the game you will be greeted with a notification from the Relic Notifications Mod. Hit OK and wait for another pop-up from it, usually takes about a minute. Then proceed with creating your character. Once you've named your character wait for all the messages in the top left to fade away then open your inventory and close it. This will start up Requiem. Once Requiem has finished its installation you may proceed with the next section.
 
 ## In-Game MCM Options
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
