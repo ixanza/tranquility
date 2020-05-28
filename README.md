@@ -17,8 +17,8 @@
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Getting an ENB](#getting-an-enb)
 - [Updating](#updating)
-- [In Game MCM Options](#in-game-mcm-options)
 - [Creating your Character](#creating-your-character)
+- [In Game MCM Options](#in-game-mcm-options)
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
   - [Tweaking Performance](#tweaking-performance)
@@ -91,7 +91,7 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the latest release of Serenity from [here](https://drive.google.com/open?id=1FnKO8IlmtZsn9_vkdi5ArmgZ7I76CW4h).
+Let's get to the actual installation. Grab the latest release of Serenity from [here](https://drive.google.com/open?id=1FnKO8IlmtZsn9_vkdi5ArmgZ7I76CW4h). Only grab the .wabbajack file, you can ignore the DynDOLOD and xLODGEN files. Those will be automatically downloaded later.
 
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
@@ -155,6 +155,10 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
+## Creating your Character
+
+Upon entering the game you will be greeted with a notification from the Relic Notifications Mod. Hit OK and wait for another Pop up from it, usually takes about a minute. Then proceed with creating your character. Once you've named your character wait for all the messages in the top left to fade away then open your inventory and close it. This will start up Requiem. Once Requiem has finished its installation you may proceed with the next section.
+
 ## In-Game MCM Options
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
@@ -174,10 +178,17 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 #### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
-  - Carriages: Enabled
-  - Inns: Enabled
-  - Player Houses: Enabled
+  - Carriages : Enabled
+  - Inns : Enabled
+  - Player Houses : Enabled
 
+#### Requiem
+- Compat :
+  - No non-hostile Bull Rush/Trample : Enabled
+- Atmosphere : 
+  - Heartbeat threshold : 10%
+  - Killmove health threshold : 0%
+  
 #### Quick Light
 - Quick Light → Brightness :
   - Brightness - Bright
@@ -203,10 +214,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 #### VioLens
 - Profile System → Menu Settings : 
   - Load : SERENITY
-  
-## Creating your Character
-
-Simply step up to the statue of mara and choose a start.
 
 ## FAQ
 
