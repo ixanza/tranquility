@@ -158,6 +158,19 @@ Once the game has loaded. Wait until there are no more messages on the top left 
  - System → Save/Load Configuration : 
   - Load from File : Click
 
+#### Honed Metal
+- General :
+  - Crafting Cost Multiplier : 0.85
+  - Tempering Cost Multiplier : 0.35
+  - Enchanting Cost Multiplier : 0.75
+  - Recharge Cost Multiplier : 0.85
+  - Materials Cost Multiplier : 1.10
+- Maintenance :
+  - Crafting Time : 0.5
+  - Enchanting Time : 0.5
+  - Recharging Time : 0.0
+  - Common Materials Acquisition Time : 0.02
+  
 #### LOTD Settings
 - LOTD Settings → General → Shippment Crate Locations : 
   - Carriages : Enabled
