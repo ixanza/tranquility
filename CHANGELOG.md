@@ -34,6 +34,7 @@
 - Storm Lightning
 - Relationship Dialog Overhaul
 - Realistic Water Two - ELFX Patch
+- HQ Cowhide
 
 **Changed**
 - Moved Requiem's added Merchant Chests around to fit JK's Whiterun Interiors
