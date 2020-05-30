@@ -133,13 +133,7 @@ Copy the all of the files from the `MO2/Game Folder Files` directory into your g
 
 #### Getting an ENB
 
-This list uses Cathedral Weathers so you want to get an ENB that is compatible. Here is a list of compatible ENBs that I can recommend
-- [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
-- [Soul Spectrum](https://www.nexusmods.com/skyrimspecialedition/mods/29675)
-- [Semirealis](https://www.nexusmods.com/skyrimspecialedition/mods/25163)
-- [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
-- [SkyrimSE Re-Engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
-- [NVT](https://www.nexusmods.com/skyrimspecialedition/mods/11203)
+This list uses Obsidian Weathers Weathers so you want to get an ENB that is compatible.
 
 Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory. 
 
@@ -165,12 +159,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 #### A Matter of Time
 - Presets :
   - Load user settings
-
-#### Cathedral Weather
-- Settings → General :
-  - Configuration Spell: Disabled
-- Settings → Weather :
-  - Seasonal Perspective: Enabled
 
 #### Follower Framework
  - System → Save/Load Configuration : 
@@ -204,12 +192,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Barter Menu : Disabled
   - Container Menu : Disabled
   - Crafting Menu : Disabled
-
-#### Storm Lightning
-- Preset → Load Preset : 
-  - Realistic : Enabled
-- Settings → Fork Lightning : 
-  - Minimum Fork Distance : 1
 
 #### VioLens
 - Profile System → Menu Settings : 
