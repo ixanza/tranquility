@@ -78,13 +78,7 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 #### Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
-
-1. Click on _High_
-2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
-3. Set _Antialiasing_ to _Off_
-4. Check _Windowed Mode_ and _Borderless_
-
+After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack
