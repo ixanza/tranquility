@@ -1,6 +1,6 @@
 # Changelog
 - [1.0.0: Initial Release](#100-initial-release)
-- [1.1.0: Update #1(#110-update-1)
+- [1.1.0: Update #1](#110-update-1)
 
 ## 1.1.0: Update #1
 
