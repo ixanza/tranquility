@@ -13,6 +13,7 @@
 - Hellish hounds v1.2
 - Infamous Ice Wraiths v1.4
 - Requiem - Black Mage Armor v2.1
+
 **Changed**
 - Fixed an ass load of NPC records not forwarding USSEP changes
 - Fixed cloaks distribution
