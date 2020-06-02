@@ -1,7 +1,8 @@
 # Changelog
-- [1.0.0: Initial Release](#100-initial-release)
+- [1.1.0: Update #2](#102-update-2---first-official-release)
 - [1.0.1: Update #1](#101-update-1)
-- [1.1.0: Update #2]
+- [1.0.0: Initial Release](#100-initial-release)
+
 
 ## 1.0.2: Update #2 - First Official Release
 **Released at**: `02.06.2020`
