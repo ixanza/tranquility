@@ -1,8 +1,22 @@
 # Changelog
 - [1.0.0: Initial Release](#100-initial-release)
-- [1.1.0: Update #1](#110-update-1)
+- [1.0.1: Update #1](#101-update-1)
+- [1.1.0: Update #2]
 
-## 1.1.0: Update #1
+## 1.0.2: Update #2 - First Official Release
+**Released at**: `02.06.2020`
+
+**Updated**
+- Nemesis v0.84
+- Enhanced Vanilla Trees v2
+- Hellish hounds v1.2
+- Infamous Ice Wraiths v1.4
+- Requiem - Black Mage Armor v2.1
+
+- Fixed an ass load of NPC records not forwarding USSEP changes
+- Fixed cloaks distribution
+
+## 1.0.1: Update #1
 
 **Released at**: `30.05.2020`
 
