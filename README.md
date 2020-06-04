@@ -1,4 +1,5 @@
 # Serenity
+![build-status](https://img.shields.io/endpoint?label=%20Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fserenity%2Fbadge.json)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
