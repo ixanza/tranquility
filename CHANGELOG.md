@@ -2,8 +2,6 @@
 
 ## 1.2.0: Update #3
 
-### Status
-
 ### Unreleased
 
 ### Added
