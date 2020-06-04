@@ -1,10 +1,42 @@
 # Changelog
-- [1.1.0: Update #2 - First Official Release](#102-update-2---first-official-release)
+- [1.2.0: Update #3(#110-update-3)
+- [1.1.0: Update #2 - First Official Release](#110-update-2---first-official-release)
 - [1.0.1: Update #1](#101-update-1)
 - [1.0.0: Initial Release](#100-initial-release)
 
+## 1.2.0: Update #3
+**Unreleased**
 
-## 1.0.2: Update #2 - First Official Release
+**Added**
+- Caliente's Beautiful Bodies Enhancer
+- The Ordinary Women - CBBE
+- Bijin Optimized Mesh Resources - CBBE
+- Bijin Skin - CBBE
+- Frankly HD Dawnguard Armor - CBBE
+- Frankly HD Nightingale Armor - CBBE
+- BodySlide & Outfit Studio
+- Feminine Argonian Textures - CBBE
+- Feminine Khajiit Textures - CBBE
+- CBPC - Physics with Collisions for SSE and VR
+- Immersive CBP Config
+
+**Removed**
+- UNP Blessed Body
+- The Ordinary Women - UNP
+- Bijin Optimied Mesh Resources - UNP
+- Bijin Skin - UNP
+- Feminine Argonian Textures - UNP
+- Feminine Khajiit Textures - UNP
+
+**Changed**
+- Kalilies NPCs - Reinstalled with CBBE Option
+- Bijin Npcs - Reinstalled with CBBE Option
+- Bijin Wives - Reinstalled with CBBE Option
+- Bijin Warmaidens - Reinstalled with CBBE Option
+- Seranaholic - Reinstalled with CBBE Option
+- Valerica - Reinstalled with CBBE Option
+
+## 1.1.0: Update #2 - First Official Release
 **Released at**: `02.06.2020`
 
 **Updated**
