@@ -6,39 +6,39 @@
 
 ### Added
 
-- Caliente's Beautiful Bodies Enhancer
-- The Ordinary Women - CBBE
 - Bijin Optimized Mesh Resources - CBBE
 - Bijin Skin - CBBE
-- Frankly HD Dawnguard Armor - CBBE
-- Frankly HD Nightingale Armor - CBBE
 - BodySlide & Outfit Studio
+- CBPC - Physics with Collisions for SSE and VR
+- Caliente's Beautiful Bodies Enhancer
 - Feminine Argonian Textures - CBBE
 - Feminine Khajiit Textures - CBBE
-- CBPC - Physics with Collisions for SSE and VR
+- Frankly HD Dawnguard Armor - CBBE
+- Frankly HD Nightingale Armor - CBBE
 - Immersive CBP Config
+- The Ordinary Women - CBBE
 
 ### Removed
 
-- UNP Blessed Body
-- The Ordinary Women - UNP
 - Bijin Optimied Mesh Resources - UNP
 - Bijin Skin - UNP
 - Feminine Argonian Textures - UNP
 - Feminine Khajiit Textures - UNP
+- The Ordinary Women - UNP
+- UNP Blessed Body
 
 ### Updated
 
--
+- Requiem - OUT-fitted - New Legion v2.10
 
 ### Changed
 
-- Kalilies NPCs - Reinstalled with CBBE Option
-- Bijin Npcs - Reinstalled with CBBE Option
-- Bijin Wives - Reinstalled with CBBE Option
-- Bijin Warmaidens - Reinstalled with CBBE Option
-- Seranaholic - Reinstalled with CBBE Option
-- Valerica - Reinstalled with CBBE Option
+- Bijin Npcs - Swapped to CBBE Body
+- Bijin Warmaidens - Swapped to CBBE Body
+- Bijin Wives - Swapped to CBBE Body
+- Kalilies NPCs - Swapped to CBBE Body
+- Seranaholic - Swapped to CBBE Body
+- Valerica - Swapped to CBBE Body
 
 ## 1.1.0: Update #2 - First Official Release
 
