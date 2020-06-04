@@ -1,13 +1,15 @@
 # Changelog
-- [1.2.0: Update #3](#110-update-3)
-- [1.1.0: Update #2 - First Official Release](#110-update-2---first-official-release)
-- [1.0.1: Update #1](#101-update-1)
-- [1.0.0: Initial Release](#100-initial-release)
+
+<!-- TOC -->autoauto- [Changelog](#changelog)auto    - [1.2.0: Update #3](#120-update-3)auto    - [1.1.0: Update #2 - First Official Release](#110-update-2---first-official-release)auto    - [1.0.1: Update #1](#101-update-1)auto    - [1.0.0: Initial Release](#100-initial-release)autoauto<!-- /TOC -->
 
 ## 1.2.0: Update #3
-**Unreleased**
+
+### Status
+
+### Unreleased
 
 ### Added
+
 - Caliente's Beautiful Bodies Enhancer
 - The Ordinary Women - CBBE
 - Bijin Optimized Mesh Resources - CBBE
@@ -21,6 +23,7 @@
 - Immersive CBP Config
 
 ### Removed
+
 - UNP Blessed Body
 - The Ordinary Women - UNP
 - Bijin Optimied Mesh Resources - UNP
@@ -29,9 +32,11 @@
 - Feminine Khajiit Textures - UNP
 
 ### Updated
-- 
+
+-
 
 ### Changed
+
 - Kalilies NPCs - Reinstalled with CBBE Option
 - Bijin Npcs - Reinstalled with CBBE Option
 - Bijin Wives - Reinstalled with CBBE Option
@@ -40,24 +45,28 @@
 - Valerica - Reinstalled with CBBE Option
 
 ## 1.1.0: Update #2 - First Official Release
-**Released at**: `02.06.2020`
 
-**Updated**
+### Released at: `02.06.2020`
+
+### Updated
+
 - Nemesis v0.84
 - Enhanced Vanilla Trees v2
 - Hellish hounds v1.2
 - Infamous Ice Wraiths v1.4
 - Requiem - Black Mage Armor v2.1
 
-**Changed**
+### Changed
+
 - Fixed an ass load of NPC records not forwarding USSEP changes
 - Fixed cloaks distribution
 
 ## 1.0.1: Update #1
 
-**Released at**: `30.05.2020`
+### Released at: `30.05.2020`
 
-**Added**
+### Added
+
 - Obsidian Weathers and Seasons
 - Obsidian Weathers MCM
 - Obsidian Weathers - True Storms Patch
@@ -73,7 +82,8 @@
 - Sakora's Makeup Kit
 - Better Female Eyebrows
 
-**Removed**
+### Removed
+
 - Enhanced Lights and FX
 - Unofficial ELFX SMIM Patch
 - ELE-ELFX Consistency Patch
@@ -87,17 +97,17 @@
 - Realistic Water Two - ELFX Patch
 - HQ Cowhide
 
-**Changed**
+### Changed
+
 - Moved Requiem's added Merchant Chests around to fit JK's Whiterun Interiors
 - Edited in game INI files to be a little better, game AO is incredibly better now
 - Moved Conflict Resolution for ELE from Requiem Patches to Serenity - CR
 - Fixed Oldrim Waterflow for a bunch of mods
 
-
 ## 1.0.0: Initial Release
 
 **Released at**: `27.05.2020`
 
-**Info**:
+### Info
 
 This is the initial release of Serenity.
