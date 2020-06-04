@@ -5,7 +5,7 @@
 - [1.0.0: Initial Release](#100-initial-release)
 
 ## 1.2.0: Update #3
-### Unreleased
+**Unreleased**
 
 ### Added
 - Caliente's Beautiful Bodies Enhancer
@@ -31,7 +31,7 @@
 ### Updated
 - 
 
-### Changed**
+### Changed
 - Kalilies NPCs - Reinstalled with CBBE Option
 - Bijin Npcs - Reinstalled with CBBE Option
 - Bijin Wives - Reinstalled with CBBE Option
