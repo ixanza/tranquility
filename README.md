@@ -177,7 +177,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Player Houses : Enabled
 
 #### Requiem
-- Compat :
+- Combat :
   - No non-hostile Bull Rush/Trample : Enabled
 - Atmosphere : 
   - Heartbeat threshold : 10%
