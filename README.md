@@ -37,7 +37,7 @@
 
 Serenity is my goal of having a vanilla Requiem experience in Skyrim Special Edition. The aim is to provide the feeling of requiem with the stability of Skyrim Special Edition as well as a slew of bug fixes, graphical improvements and Legacy of the Dragonborn integration. This is an ongoing project and changes will definitely be made along the way but the aim is to not stray away from the core Requiem experience. 
 
-Serenity uses the Loverslab 3.4 Requiem conversion and has some armor mods supported by the Requiem Out-fitted mod and contains DLC sized mods which are 
+Serenity uses the Reuqiem 3.4 and has some armor mods supported by the Requiem Out-fitted mod and contains DLC sized mods which are 
   - Wyrmstooth (with requiem patch from lilmoefow)
   - Vigilant (with requiem patch from lilmoefow)
   - Dragonborn (via Fozar's Dragonborn Patch)
