@@ -1,6 +1,13 @@
 # Changelog
 
-<!-- TOC -->autoauto- [Changelog](#changelog)auto    - [1.2.0: Update #3](#120-update-3)auto    - [1.1.0: Update #2 - First Official Release](#110-update-2---first-official-release)auto    - [1.0.1: Update #1](#101-update-1)auto    - [1.0.0: Initial Release](#100-initial-release)autoauto<!-- /TOC -->
+<!-- TOC -->
+
+- [1. : Update #3](#1--update-3)
+- [2. : Update #2 - First Official Release](#2--update-2---first-official-release)
+- [3. : Update #1](#3--update-1)
+- [4. : Initial Release](#4--initial-release)
+
+<!-- /TOC -->
 
 ## 1.2.0: Update #3
 
