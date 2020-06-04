@@ -102,7 +102,7 @@
 
 ## 1.0.0: Initial Release
 
-**Released at**: `27.05.2020`
+### Released at: `27.05.2020`
 
 ### Info
 
