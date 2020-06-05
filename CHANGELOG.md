@@ -17,6 +17,7 @@
 - Frankly HD Dawnguard Armor - CBBE
 - Frankly HD Nightingale Armor - CBBE
 - Immersive CBP Config
+- Keyboard Shortcuts Fix
 - Loading Screen Smoke Removed
 - Obsidian Weathers - Vigilant Integration
 - Smooth Sky Mesh SSE
