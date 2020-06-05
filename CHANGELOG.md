@@ -4,7 +4,7 @@
 
 ### Unreleased
 
-### Added
+### Changes
 
 - **Added**   Bijin Optimized Mesh Resources - CBBE
 - **Added**   Bijin Skin - CBBE
