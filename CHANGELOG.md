@@ -6,39 +6,36 @@
 
 ### Added
 
-- Bijin Optimized Mesh Resources - CBBE
-- Bijin Skin - CBBE
-- BodySlide & Outfit Studio
-- CBPC - Physics with Collisions for SSE and VR
-- Caliente's Beautiful Bodies Enhancer
-- Feminine Argonian Textures - CBBE
-- Feminine Khajiit Textures - CBBE
-- Frankly HD Dawnguard Armor - CBBE
-- Frankly HD Nightingale Armor - CBBE
-- Immersive CBP Config
-- The Ordinary Women - CBBE
-
-### Removed
-
-- Bijin Optimied Mesh Resources - UNP
-- Bijin Skin - UNP
-- Feminine Argonian Textures - UNP
-- Feminine Khajiit Textures - UNP
-- The Ordinary Women - UNP
-- UNP Blessed Body
-
-### Updated
-
-- Requiem - OUT-fitted - New Legion v2.10
-
-### Changed
-
-- Bijin Npcs - Swapped to CBBE Body
-- Bijin Warmaidens - Swapped to CBBE Body
-- Bijin Wives - Swapped to CBBE Body
-- Kalilies NPCs - Swapped to CBBE Body
-- Seranaholic - Swapped to CBBE Body
-- Valerica - Swapped to CBBE Body
+- **Added**   Bijin Optimized Mesh Resources - CBBE
+- **Added**   Bijin Skin - CBBE
+- **Added**   BodySlide & Outfit Studio
+- **Added**   CBPC - Physics with Collisions for SSE and VR
+- **Added**   Caliente's Beautiful Bodies Enhancer
+- **Added**   Feminine Argonian Textures - CBBE
+- **Added**   Feminine Khajiit Textures - CBBE
+- **Added**   Frankly HD Dawnguard Armor - CBBE
+- **Added**   Frankly HD Nightingale Armor - CBBE
+- **Added**   Immersive CBP Config
+- **Added**   Loading Screen Smoke Removed
+- **Added**   Obsidian Weathers - Vigilant Integration
+- **Added**   Smooth Sky Mesh SSE
+- **Added**   The Ordinary Women - CBBE
+- **Added**   Unplayable Faction Armors - VIGILANT Voiced English Addon Patch
+- **Removed** Bijin Optimied Mesh Resources - UNP - Swapped to CBBE Body
+- **Removed** Bijin Skin - UNP - Swapped to CBBE Body
+- **Removed** Feminine Argonian Textures - UNP - Swapped to CBBE Body
+- **Removed** Feminine Khajiit Textures - UNP - Swapped to CBBE Body
+- **Removed** The Ordinary Women - UNP - Swapped to CBBE Body
+- **Removed** UNP Blessed Body - Swapped to CBBE Body
+- **Updated** Requiem - OUT-fitted - New Legion v2.10
+- **Updated** Audio Overhaul for Skyrim SE v3.32
+- **Updated** Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch) v1.01
+- **Changed** Bijin Npcs - Swapped to CBBE Body
+- **Changed** Bijin Warmaidens - Swapped to CBBE Body
+- **Changed** Bijin Wives - Swapped to CBBE Body
+- **Changed** Kalilies NPCs - Swapped to CBBE Body
+- **Changed** Seranaholic - Swapped to CBBE Body
+- **Changed** Valerica - Swapped to CBBE Body
 
 ## 1.1.0: Update #2 - First Official Release
 
