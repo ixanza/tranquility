@@ -1,13 +1,14 @@
 # Changelog
 
-## 1.2.0: Update #3
+## 1.1.1: Update #3 - Caliente Edition
 
-### Unreleased
+### Released at: `05.06.2020`
 
 ### Added
 
 - Bijin Optimized Mesh Resources - CBBE
 - Bijin Skin - CBBE
+- Blocking Animation Pack SSE
 - BodySlide & Outfit Studio
 - CBPC - Physics with Collisions for SSE and VR
 - Caliente's Beautiful Bodies Enhancer
@@ -37,7 +38,7 @@
 - Audio Overhaul for Skyrim SE v3.32
 - Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch) v1.01
 
-### Changed
+### Changes
 
 - Bijin Npcs - Swapped to CBBE Body
 - Bijin Warmaidens - Swapped to CBBE Body
@@ -45,6 +46,7 @@
 - Kalilies NPCs - Swapped to CBBE Body
 - Seranaholic - Swapped to CBBE Body
 - Valerica - Swapped to CBBE Body
+- Combined the 2 MCM Automation into 1
 
 ## 1.1.0: Update #2 - First Official Release
 
