@@ -20,7 +20,7 @@
     - [Post-Installation](#post-installation)
       - [Copy Game Folder Files](#copy-game-folder-files)
       - [Getting an ENB](#getting-an-enb)
-        - [Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**](#note--please-check-that-vsync-is-set-to-disable-in-enblocalini-otherwise-you-will-be-stuck-compiling-shaders)
+        - [Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders](#note--please-check-that-vsync-is-set-to-disable-in-enblocalini-otherwise-you-will-be-stuck-compiling-shaders)
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
@@ -141,7 +141,7 @@ This list uses Obsidian Weathers Weathers so you want to get an ENB that is comp
 
 Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory.
 
-##### Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**
+##### Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders
 
 ## Updating
 
