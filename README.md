@@ -1,48 +1,58 @@
 # Serenity
+
 ![build-status](https://img.shields.io/endpoint?label=%20Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fserenity%2Fbadge.json)
 
-- [Preamble](#preamble)
-- [Installation](#installation)
-  - [Pre-Installation](#pre-installation)
-    - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-    - [Steam Config](#steam-config)
-      - [Disable the Steam Overlay](#disable-the-steam-overlay)
-    - [Change Steams Update Behavior](#change-steams-update-behavior)
-    - [Set the Game language to English](#set-the-game-language-to-english)
-    - [Clean Skyrim](#clean-skyrim)
-    - [Start Skyrim](#start-skyrim)
-  - [Using Wabbajack](#using-wabbajack)
-    - [Preparations](#preparations)
-    - [Downloading and Installing](#downloading-and-installing)
-      - [Problems with Wabbajack](#problems-with-wabbajack)
-  - [Post-Installation](#post-installation)
-    - [Copy Game Folder Files](#copy-game-folder-files)
-    - [Getting an ENB](#getting-an-enb)
-- [Updating](#updating)
-- [Creating your Character](#creating-your-character)
-- [In Game MCM Options](#in-game-mcm-options)
-- [FAQ](#faq)
-  - [Ultrawide Options](#ultrawide-options)
-  - [Tweaking Performance](#tweaking-performance)
-    - [Tweaking the ENB](#tweaking-the-enb)
+- [Serenity](#serenity)
+  - [Preamble](#preamble)
+  - [Installation](#installation)
+    - [Pre-Installation](#pre-installation)
+      - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+      - [Steam Config](#steam-config)
+        - [Disable the Steam Overlay](#disable-the-steam-overlay)
+      - [Change Steams Update Behavior](#change-steams-update-behavior)
+      - [Set the Game language to English](#set-the-game-language-to-english)
+      - [Clean Skyrim](#clean-skyrim)
+      - [Start Skyrim](#start-skyrim)
+    - [Using Wabbajack](#using-wabbajack)
+      - [Preparations](#preparations)
+      - [Downloading and Installing](#downloading-and-installing)
+        - [Problems with Wabbajack](#problems-with-wabbajack)
+    - [Post-Installation](#post-installation)
+      - [Copy Game Folder Files](#copy-game-folder-files)
+      - [Getting an ENB](#getting-an-enb)
+        - [Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**](#note--please-check-that-vsync-is-set-to-disable-in-enblocalini-otherwise-you-will-be-stuck-compiling-shaders)
+  - [Updating](#updating)
+  - [Creating your Character](#creating-your-character)
+  - [In-Game MCM Options](#in-game-mcm-options)
+    - [A Matter of Time](#a-matter-of-time)
+    - [Follower Framework](#follower-framework)
+    - [Honed Metal](#honed-metal)
+    - [LOTD Settings](#lotd-settings)
+    - [Requiem](#requiem)
+    - [Quick Light](#quick-light)
+    - [SkyUI](#skyui)
+    - [VioLens](#violens)
+  - [FAQ](#faq)
+    - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
-- [Removing the Modlist](#removing-the-modlist)
-- [Credits and Thanks](#credits-and-thanks)
-- [Contact](#contact)
-- [Contributing](#contributing)
-- [Changelog](#changelog)
+  - [Removing the Modlist](#removing-the-modlist)
+  - [Credits and Thanks](#credits-and-thanks)
+  - [Contact](#contact)
+  - [Contributing](#contributing)
+  - [Changelog](#changelog)
 
-# Preamble
+## Preamble
 
 ![serenity-banner](cover/Cover.png)
 
-Serenity is my goal of having a vanilla Requiem experience in Skyrim Special Edition. The aim is to provide the feeling of requiem with the stability of Skyrim Special Edition as well as a slew of bug fixes, graphical improvements and Legacy of the Dragonborn integration. This is an ongoing project and changes will definitely be made along the way but the aim is to not stray away from the core Requiem experience. 
+Serenity is my goal of having a vanilla Requiem experience in Skyrim Special Edition. The aim is to provide the feeling of requiem with the stability of Skyrim Special Edition as well as a slew of bug fixes, graphical improvements and Legacy of the Dragonborn integration. This is an ongoing project and changes will definitely be made along the way but the aim is to not stray away from the core Requiem experience.
 
-Serenity uses the Reuqiem 3.4 and has some armor mods supported by the Requiem Out-fitted mod and contains DLC sized mods which are 
-  - Wyrmstooth (with requiem patch from lilmoefow)
-  - Vigilant (with requiem patch from lilmoefow)
-  - Dragonborn (via Fozar's Dragonborn Patch)
-  - Legacy of the Dragonborn (with requiem patch from lilmoefow)
+Serenity uses the Reuqiem 3.4 and has some armor mods supported by the Requiem Out-fitted mod and contains DLC sized mods which are
+
+- Wyrmstooth (with requiem patch from lilmoefow)
+- Vigilant (with requiem patch from lilmoefow)
+- Dragonborn (via Fozar's Dragonborn Patch)
+- Legacy of the Dragonborn (with requiem patch from lilmoefow)
 
 ## Installation
 
@@ -129,9 +139,9 @@ Copy the all of the files from the `MO2/Game Folder Files` directory into your g
 
 This list uses Obsidian Weathers Weathers so you want to get an ENB that is compatible.
 
-Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory. 
+Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory.
 
-**Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**
+##### Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**
 
 ## Updating
 
@@ -148,17 +158,21 @@ Updating is like installing. You only have to make sure that you select the same
 Upon entering the game you will be greeted with a notification from the Relic Notifications Mod. Hit OK and wait for another pop-up from it, usually takes about a minute. Then proceed with creating your character. Once you've named your character wait for all the messages in the top left to fade away then open your inventory and close it. This will start up Requiem. Once Requiem has finished its installation you may proceed with the next section.
 
 ## In-Game MCM Options
+
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
-#### A Matter of Time
+### A Matter of Time
+
 - Presets :
   - Load user settings
 
-#### Follower Framework
- - System → Save/Load Configuration : 
+### Follower Framework
+
+- System → Save/Load Configuration :
   - Load from File : Click
 
-#### Honed Metal
+### Honed Metal
+
 - General :
   - Crafting Cost Multiplier : 0.85
   - Tempering Cost Multiplier : 0.35
@@ -171,28 +185,32 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Recharging Time : 0.0
   - Common Materials Acquisition Time : 0.02
   
-#### LOTD Settings
-- LOTD Settings → General → Shippment Crate Locations : 
+### LOTD Settings
+
+- LOTD Settings → General → Shippment Crate Locations :
   - Carriages : Enabled
   - Inns : Enabled
   - Player Houses : Enabled
 
-#### Requiem
+### Requiem
+
 - Combat :
   - No non-hostile Bull Rush/Trample : Enabled
-- Atmosphere : 
+- Atmosphere :
   - Heartbeat threshold : 10%
   - Killmove health threshold : 0%
   
-#### Quick Light
+### Quick Light
+
 - Quick Light → Brightness :
   - Brightness - Bright
 
-#### SkyUI
+### SkyUI
+
 - General → Item List :
   - Font Size : Small
   - Category Icon Theme : CELTIC
-- Advanced → SWF Version Checking : 
+- Advanced → SWF Version Checking :
   - Map Menu : Disabled
   - Favorites Menu : Disabled
   - Inventory Menu : Disabled
@@ -200,13 +218,15 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Container Menu : Disabled
   - Crafting Menu : Disabled
 
-#### VioLens
-- Profile System → Menu Settings : 
+### VioLens
+
+- Profile System → Menu Settings :
   - Load : SERENITY
 
 ## FAQ
 
 ### Ultrawide Options
+
 If you have an ultrawide monitor (21:9), the UI will be off. You will want to reinstall Dear Diary with the widescreen option. Pick any options on the FOMOD you want but ensure Extended UI, More Informative Console and Morehud is ticked
 
 ### Tweaking the Game Settings

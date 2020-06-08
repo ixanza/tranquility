@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.1.2
+
+### Relased at: `08.06.2020`
+
+### Updated
+
+- Realistic Water Two v3.03
+
+### Changes
+
+- Fixed Several Black Face Bugs from swapping to CBBE
+
 ## 1.1.1: Update #3 - Caliente Edition
 
 ### Released at: `05.06.2020`
