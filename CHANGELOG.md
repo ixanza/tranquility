@@ -10,21 +10,28 @@
 
 - Requiem - Legacy of the Dragonborn
 - Requiem - Legacy of the Dragonborn - Alternate Descriptions
-- Requiem - Armor Replacer
 
 ### Removed
 
 - Requiem - Legacy of the Dragonborn Patch by lilmoefow - Replaced with Babul's patch
 - Requiem - Alternate Descriptions - Replaced with Babul's LOTD Alternate Descriptions
 - Improved Closefaced Helmets - Too much patching for so little reward
-- Apophosis Dragon Priest Masks
+- Apophosis Dragon Priest Masks - Improved Closefaced Helmets Patch
 - Requiem - Improved Closeface Helmets Patch
+
+### Updated
+
+- Legacy of the Dragonborn - Relic Notifications v3.0.0
+- Embers HD v1.399B
+- Rustic Amulets v2.0
 
 ### Changes
 
 - Unmerged Requiem Patches - We aren't anywhere close to the plugin limit anyways
 - Unmerged Heads up Display
 - Added ELE Patch to Requiem Hall added by Requiem - Legacy of the Dragonborn
+- Nerfed pre-enchanted capes/cloaks provided by Cloaks of Skyrim
+- Nerfed Alternate start storage sack from camping in the woods (no more random stuff that can be incredibly OP)
 
 ## 1.1.2
 
