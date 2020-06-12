@@ -4,10 +4,18 @@
 
 ### This update requires a new save
 
-### Released at : `UNRELEASED`
+### Released at : `12.06.2020`
 
 ### Added
 
+- Dragons tongue by Mari
+- Ivy by Mari
+- Lavendar by Mari SE
+- Mountain flower by Mari SE
+- Nirnroot by Mari
+- Spiky grass by Mari
+- Thistle by Mari SE
+- Tundra cotton by Mari
 - Requiem - Legacy of the Dragonborn
 - Requiem - Legacy of the Dragonborn - Alternate Descriptions
 
@@ -21,9 +29,10 @@
 
 ### Updated
 
-- Legacy of the Dragonborn - Relic Notifications v3.0.0
+- Legacy of the Dragonborn - Relic Notifications v3.0.1
 - Embers HD v1.399B
 - Rustic Amulets v2.0
+- Bijin Optimized Mesh Resources - CBBE v4.22
 
 ### Changes
 
@@ -32,6 +41,7 @@
 - Added ELE Patch to Requiem Hall added by Requiem - Legacy of the Dragonborn
 - Nerfed pre-enchanted capes/cloaks provided by Cloaks of Skyrim
 - Nerfed Alternate start storage sack from camping in the woods (no more random stuff that can be incredibly OP)
+- Nerfed a bunch of free shit in JK's interiors (no more free daedra hearts)
 
 ## 1.1.2
 
