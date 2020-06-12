@@ -52,7 +52,7 @@ Serenity uses the Reuqiem 3.4 and has some armor mods supported by the Requiem O
 - Wyrmstooth (with requiem patch from lilmoefow)
 - Vigilant (with requiem patch from lilmoefow)
 - Dragonborn (via Fozar's Dragonborn Patch)
-- Legacy of the Dragonborn (with requiem patch from lilmoefow)
+- Legacy of the Dragonborn (with Requiem Patch and Museum Integration)
 
 ## Installation
 
