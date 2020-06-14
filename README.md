@@ -21,6 +21,7 @@
       - [Copy Game Folder Files](#copy-game-folder-files)
       - [Getting an ENB](#getting-an-enb)
         - [Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders](#note--please-check-that-vsync-is-set-to-disable-in-enblocalini-otherwise-you-will-be-stuck-compiling-shaders)
+  - [How to start up Serenity](#how-to-start-up-serenity)
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
@@ -142,6 +143,10 @@ This list uses Obsidian Weathers Weathers so you want to get an ENB that is comp
 Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory.
 
 ##### Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders
+
+## How to start up Serenity
+
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
 ## Updating
 
