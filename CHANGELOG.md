@@ -4,7 +4,7 @@
 
 ### This update requires a new save
 
-### Released at : `Unreleased`
+### Released at : `26.06.2020`
 
 ### Added
 
@@ -27,6 +27,7 @@
 - Requiem - Legacy of the Dragonborn v0.22
 - Requiem - Out-Fitted v2.20
 - Skyrim 3D High Hrothgar Steps v1.0.1
+- Skyrim Particle Patch for ENB SE
 - SSE Display Tweaks v0.4.3
 - SSE Engine Fixes v5.3.3
 - Unplayable Faction Armors SSE v1.05
@@ -36,6 +37,7 @@
 ### Fixed
 
 - Addressed invisible Steel Plate Armor mesh issue
+- Modified Dragon Frost Breath speed to match Requiem values
 - Removed custom Replica settings - now included in Requiem - Legacy of the Dragonborn
 
 ## 1.2.0
