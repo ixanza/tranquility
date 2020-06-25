@@ -8,6 +8,7 @@
 
 ### Added
 
+- Astral Aspect - 4k Standing Stones
 - JS Shrine of the Divines SE
 - Unplayable Faction Armors SSE - Legacy of the Dragonborn Patch
 - WiZkiD Lootable Firewood Piles SSEEdit script
@@ -20,18 +21,21 @@
 ### Updated
 
 - Grandiose Giants v1.2
+- I'm Walkin' Here v1.5
+- Legacy of the Dragonborn - Relic Notifications v3.0.2
 - Requiem - DBM - Alternative Descriptions v0.13
 - Requiem - Legacy of the Dragonborn v0.22
 - Requiem - Out-Fitted v2.20
 - Skyrim 3D High Hrothgar Steps v1.0.1
-- SSE Display Tweaks v0.4.2
+- SSE Display Tweaks v0.4.3
+- SSE Engine Fixes v5.3.3
 - Unplayable Faction Armors SSE v1.05
 - Wicked Werewolves v1.3
 - XP32 Maximum Skeleton Special Extended - XPMSSE v4.72
 
 ### Fixed
 
-- Addressed missing Steel Plate Armor issue
+- Addressed invisible Steel Plate Armor mesh issue
 - Removed custom Replica settings - now included in Requiem - Legacy of the Dragonborn
 
 ## 1.2.0
