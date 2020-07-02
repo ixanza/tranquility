@@ -1,5 +1,50 @@
 # Changelog
 
+## 2.0.0
+
+### This update requires a new save
+
+### Released at : `Unreleased`
+
+### Updated
+
+- Northfire Castle Volkihar v1
+- Requiem - The Roleplaying Overhaul v4.0.0
+
+### Removed
+
+#### These are mostly temporary while patches for these become available for Requiem 4.0
+
+- Better Falskaar and Wyrmstooth Roads
+- Black MAge Armor SE
+- Blackened Steel Armor and Weapon set
+- Common Clothes and Armor
+- Fossil Mining - With Legacy Support
+- Guards Armor Replacer SSE
+- LOTD Museum Shipment Crates Patch
+- Legacy of the Dragonborn
+- Legacy of the Dragonborn - Automatic MCM  Quest Tracker
+- Legacy of the Dragonborn Fate Card Retexture
+- Legacy of the Dragonborn Patches
+- Legacy of the Dragonborn SSE - Relic Notifications
+- More DBM Shipping Crates
+- New Legion
+- Nordic Wanderer Equipment
+- NordwarUA's Race Armor Expansion
+- Obsidian Weathers for Vigilant
+- Requiem - Dragonborn Patch
+- Requiem - Legacy of the Dragonborn Patch
+- Requiem - Out-fitted
+- Requiem - Vigilant Patch
+- Requiem - Wyrmstooth Patch
+- Skyrim SE Expanded Weaponry
+- Triss Armor Retextured SE
+- Unplayable Faction Armor
+- Vigilant
+- Vigilant - NPC Overhaul
+- Volkihar Knight - Vampire Armor
+- Wyrmstooth
+  
 ## 1.3.0
 
 ### This update requires a new save
