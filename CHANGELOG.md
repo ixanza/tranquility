@@ -16,7 +16,7 @@
 #### These are mostly temporary while patches for these become available for Requiem 4.0
 
 - Better Falskaar and Wyrmstooth Roads
-- Black MAge Armor SE
+- Black Mage Armor SE
 - Blackened Steel Armor and Weapon set
 - Common Clothes and Armor
 - Fossil Mining - With Legacy Support
