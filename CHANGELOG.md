@@ -1,10 +1,22 @@
 # Changelog
 
-## 2.0.0
+## 2.0.0 pre-2
+
+### Released at : `03.07.2020`
+
+### Updated
+
+- Requiem - The Roleplaying Overhaul v4.0.1
+
+### Fixed
+
+- Fixed Activators not working due to reqtificator
+
+## 2.0.0 pre-1
 
 ### This update requires a new save
 
-### Released at : `Unreleased`
+### Released at : `03.07.2020`
 
 ### Updated
 
