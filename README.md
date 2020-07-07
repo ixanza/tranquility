@@ -1,5 +1,7 @@
 # Serenity
+
 ![unique-installs](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Fmetrics%2Fbadge%2Fserenity%2Funique_installs_badge.json)
+
 ![build-status](https://img.shields.io/endpoint?label=%20Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fserenity%2Fbadge.json)
 
 - [Serenity](#serenity)
