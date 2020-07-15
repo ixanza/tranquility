@@ -11,13 +11,16 @@
 - Better Falskaar and Wyrmstooth Roads
 - Blackened Steel Armor and Weapon set
 - Fossil Mining - With Legacy Support
+- Deathbell by Mari
+- Nightshade by Mari
 - Guards Armor Replacer SSE
 - LOTD Museum Shipment Crates Paatch
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn - Automatic MCM Quest Tracker
 - Legacy of the Dragonborn Fate Card Retexture
 - Legacy of the Dragonborn Patches
-- Legacy of the Dragonborn SSE - Relic Notifications
+- Legacy of the Dragonborn SSE - Relic Noti~fications
+- Legacy of the Dragonborn - NPC Overhaul by 1N
 - More DBM Shipping Crates
 - New Legion
 - NordwarUA's Race Armor Expansion
@@ -37,7 +40,13 @@
 
 - Dyndolod v2.84
 - Dyndolod Resources v2.84
-- MoreHUD
+- Landscape Fixes for Grass Mods - JK's Towns v1.06
+- Requiem Patch Central v4.0
+- MoreHUD v1.0.17
+- xLODGEN v64
+- Dear Diary v2.2.2
+- SSE Engine Fixes v5.3.5
+- KS Hairdos SSE v1.7
 
 ## 2.0.0 pre-2
 
