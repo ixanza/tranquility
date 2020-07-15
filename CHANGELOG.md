@@ -1,5 +1,44 @@
 # Changelog
 
+## 2.0.0
+
+### This update requires a new save
+
+### Released at : `Unreleased`
+
+### Added
+
+- Better Falskaar and Wyrmstooth Roads
+- Blackened Steel Armor and Weapon set
+- Fossil Mining - With Legacy Support
+- Guards Armor Replacer SSE
+- LOTD Museum Shipment Crates Paatch
+- Legacy of the Dragonborn
+- Legacy of the Dragonborn - Automatic MCM Quest Tracker
+- Legacy of the Dragonborn Fate Card Retexture
+- Legacy of the Dragonborn Patches
+- Legacy of the Dragonborn SSE - Relic Notifications
+- More DBM Shipping Crates
+- New Legion
+- NordwarUA's Race Armor Expansion
+- Requiem - Legacy of the Dragonborn Patch
+- Requiem - Wyrmstooth Patch
+- Requiem - Blackened Steel Armor
+- Requiem - New Legion
+- Requiem - Guards Armor Replacer
+- Requiem - Skyrim SE Expanded Weaponry
+- Requiem - NordwarUA's Race Armor Expansion
+- Requiem - Unplayable Faction Armor
+- Requiem - Volkihar Knight
+- Volkihar Knight
+- Wyrmstooth
+
+### Updated
+
+- Dyndolod v2.84
+- Dyndolod Resources v2.84
+- MoreHUD
+
 ## 2.0.0 pre-2
 
 ### Released at : `03.07.2020`
