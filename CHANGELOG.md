@@ -19,7 +19,7 @@
 - Legacy of the Dragonborn - Automatic MCM Quest Tracker
 - Legacy of the Dragonborn Fate Card Retexture
 - Legacy of the Dragonborn Patches
-- Legacy of the Dragonborn SSE - Relic Noti~fications
+- Legacy of the Dragonborn SSE - Relic Notifications
 - Legacy of the Dragonborn - NPC Overhaul by 1N
 - More DBM Shipping Crates
 - New Legion
@@ -33,6 +33,7 @@
 - Requiem - NordwarUA's Race Armor Expansion
 - Requiem - Unplayable Faction Armor
 - Requiem - Volkihar Knight
+- Requiem - Wyrmstooth
 - Volkihar Knight
 - Wyrmstooth
 
