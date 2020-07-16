@@ -10,47 +10,50 @@
 
 - Better Falskaar and Wyrmstooth Roads
 - Blackened Steel Armor and Weapon set
-- Fossil Mining - With Legacy Support
 - Deathbell by Mari
-- Nightshade by Mari
+- Elsopa - Glorious HD Amulets SE
+- Fossil Mining - With Legacy Support
 - Guards Armor Replacer SSE
-- LOTD Museum Shipment Crates Paatch
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn - Automatic MCM Quest Tracker
+- Legacy of the Dragonborn - NPC Overhaul by 1N
 - Legacy of the Dragonborn Fate Card Retexture
 - Legacy of the Dragonborn Patches
 - Legacy of the Dragonborn SSE - Relic Notifications
-- Legacy of the Dragonborn - NPC Overhaul by 1N
+- LOTD Museum Shipment Crates Paatch
 - More DBM Shipping Crates
 - New Legion
-- Noric Wanderer
+- Nightshade by Mari
 - NordwarUA's Race Armor Expansion
-- Requiem - Legacy of the Dragonborn Patch
-- Requiem - Wyrmstooth Patch
+- Noric Wanderer
 - Requiem - Blackened Steel Armor
+- Requiem - Guards Armor Replacer
+- Requiem - Legacy of the Dragonborn Patch
 - Requiem - New Legion
 - Requiem - Nordic Wanderer
-- Requiem - Guards Armor Replacer
-- Requiem - Skyrim SE Expanded Weaponry
 - Requiem - NordwarUA's Race Armor Expansion
+- Requiem - Skyrim SE Expanded Weaponry
+- Requiem - Triss Armor Retextured
 - Requiem - Unplayable Faction Armor
 - Requiem - Volkihar Knight
 - Requiem - Wyrmstooth
+- Requiem - Wyrmstooth Patch
+- Triss Armor Retextured SE
 - Volkihar Knight
 - Wyrmstooth
 
 ### Updated
 
-- Dyndolod v2.84
-- Dyndolod Resources v2.84
-- Landscape Fixes for Grass Mods - JK's Towns v1.06
-- Requiem Patch Central v4.0
-- MoreHUD v1.0.17
-- xLODGEN v64
 - Dear Diary v2.2.2
-- SSE Engine Fixes v5.3.5
+- Dyndolod Resources v2.84
+- Dyndolod v2.84
 - KS Hairdos SSE v1.7
+- Landscape Fixes for Grass Mods - JK's Towns v1.06
+- MoreHUD v1.0.17
+- Requiem Patch Central v4.0
+- SSE Engine Fixes v5.3.5
 - Unplayable Faction Armors v1.01
+- xLODGEN v64
 
 ## 2.0.0 pre-2
 
