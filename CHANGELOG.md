@@ -23,11 +23,13 @@
 - Legacy of the Dragonborn - NPC Overhaul by 1N
 - More DBM Shipping Crates
 - New Legion
+- Noric Wanderer
 - NordwarUA's Race Armor Expansion
 - Requiem - Legacy of the Dragonborn Patch
 - Requiem - Wyrmstooth Patch
 - Requiem - Blackened Steel Armor
 - Requiem - New Legion
+- Requiem - Nordic Wanderer
 - Requiem - Guards Armor Replacer
 - Requiem - Skyrim SE Expanded Weaponry
 - Requiem - NordwarUA's Race Armor Expansion
@@ -48,6 +50,7 @@
 - Dear Diary v2.2.2
 - SSE Engine Fixes v5.3.5
 - KS Hairdos SSE v1.7
+- Unplayable Faction Armors v1.01
 
 ## 2.0.0 pre-2
 
