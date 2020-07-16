@@ -4,7 +4,7 @@
 
 ### This update requires a new save
 
-### Released at : `Unreleased`
+### Released at : `16/07/2020`
 
 ### Added
 
