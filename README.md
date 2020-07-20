@@ -52,8 +52,6 @@ Serenity is my goal of having a vanilla Requiem experience in Skyrim Special Edi
 Serenity uses the Requiem 3.4 and has some armor mods supported by the Requiem Out-fitted mod and contains DLC sized mods which are
 
 - Wyrmstooth (with requiem patch from lilmoefow)
-- Vigilant (with requiem patch from lilmoefow)
-- Dragonborn (via Fozar's Dragonborn Patch)
 - Legacy of the Dragonborn (with Requiem Patch and Museum Integration)
 
 ## Installation
@@ -161,7 +159,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Creating your Character
 
-Upon entering the game you will be greeted with a notification from the Relic Notifications Mod. Hit OK and wait for another pop-up from it, usually takes about a minute. Then proceed with creating your character. Once you've named your character wait for all the messages in the top left to fade away then open your inventory and close it. This will start up Requiem. Once Requiem has finished its installation you may proceed with the next section.
+Upon entering the game you will be greeted with a notification from the Relic Notifications Mod. Hit OK and wait for another pop-up from it, usually takes about a minute.  Once it's done you can proceed with creating your character. Once you've named your character wait for all the messages in the top left to fade away then open your inventory and close it. This will start up Requiem. Once Requiem has finished its installation you may proceed with the next section. While creating your character you may receive a pop up asking you if you want to scan now or later from Relic Notifications. Hit scan now to proceed.
 
 ## In-Game MCM Options
 
