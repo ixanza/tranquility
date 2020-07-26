@@ -1,10 +1,42 @@
 # Changelog
 
+## 2.1.0
+
+### This update requires a new save
+
+### Released at : `25.07.2020`
+
+### Added
+
+- Interesting NPCS SSE
+- Cuyima's Interesting NPCS
+- Interesting NPCS - Zora Fairchild Voice Boosted
+- Interesting NPCs - Zora Customizer
+- Legacy of the Dragonborn - The Curator's Companion
+- Legacy of the Dragonborn - Museum dome sunlight and shadows
+- Legacy of the Dragonborn - Volkihar Knight Patch
+- Legacy of the Dragonborn - Cleaner Display Glass
+
+### Removed
+
+- Legacy of the Dragonborn - Relic Notifications - Swapped to Curator's Companion
+- Legacy of the Dragonborn - Automatic MCM Quest Tracker - Swapped to Curator's Companion
+
+### Updated
+
+- Dear Diary v2.2.3
+- MoreHUD SE v3.8
+- CC's Enhanced Ore Veins v8.0.1
+
+### Fixes
+
+- Fixed screenshots not showing up due to paths
+
 ## 2.0.0
 
 ### This update requires a new save
 
-### Released at : `Unreleased`
+### Released at : `16.07.2020`
 
 ### Added
 
