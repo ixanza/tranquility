@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.1.1
+
+### Released at : `26.07.2020`
+
+### Fixes
+
+- Fixed Black Face Bug on 3DNPC Children
+
 ## 2.1.0
 
 ### This update requires a new save
