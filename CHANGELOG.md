@@ -33,6 +33,7 @@
 - Legacy of the Dragonborn - The Curator's Companion v1.04
 - Legacy of the Dragonborn - Museum dome sunlight and shadows v0.3
 - Legacy of the Dragonborn Patches (Official) v2.1
+- Unplayable Faction Armors v1.07
 - Volkihar Knight - Legacy of the Dragonborn Patch v1.2
 - Nether's Follower Framework v2.67
 
