@@ -1,5 +1,50 @@
 # Changelog
 
+## 2.1.2
+
+### Released at : `01/08/2020`
+
+### Added
+
+- Better Dyanmic Snow Patcher xEdit
+- Better Stealing
+- cookeh's conditional and random animations - CCARA DAR
+- Requiem - Dragonborn Patch
+- VIGILANT
+- VIGILANT Voiced - English Addon
+- Obsidian Weathers for Vigilant
+- Unplayable Faction Armors Vigilant Patch
+- Requiem - Vigilant Patch
+- Dynamic Animation Replacer
+- EVG Conditional Idles
+- EVG Animation Variance
+- JS Purses and Septims
+- Rudy HQ - More Lights for ENB SE - Moths
+- Rudy HQ - More LIghts for ENB SE - Deathbells and Nirnroots
+- Rudy HQ - More Lights for ENB SE - Bthardamz
+- Rudy HQ - More Lights for ENB SE - Soul Gems
+- Rudy HQ - More Lights for ENB SE - Chaurus Eggs and Sacs
+- Mortal Enemiez Patcher
+
+### Updated
+
+- Caliente's Beautiful Bodies Enhancer v1.5.8
+- Cathedral Assets Optimizer v5.0.1.4
+- Legacy of the Dragonborn - The Curator's Companion v1.04
+- Legacy of the Dragonborn - Museum dome sunlight and shadows v0.3
+- Legacy of the Dragonborn Patches (Official) v2.1
+- Volkihar Knight - Legacy of the Dragonborn Patch v1.2
+- Nether's Follower Framework v2.67
+
+### Removed
+
+- Ennead - Septims - Replaced with JS Purses and Septims
+- Requiem - Mortal Enemies - Replaced with Mortal Enemiez Patcher
+
+### Tweaks
+
+- Various INI tweaks to make the game look better
+
 ## 2.1.1
 
 ### Released at : `26.07.2020`
