@@ -35,13 +35,14 @@
   - [In-Game MCM Options](#in-game-mcm-options)
     - [All Geared up Deriv](#all-geared-up-deriv)
     - [A Matter of Time (Preference)](#a-matter-of-time-preference)
+    - [Enhanced Blood (Preference)](#enhanced-blood-preference)
     - [ESF: Companions](#esf-companions)
     - [Extended UI (Preference)](#extended-ui-preference)
     - [Follower Framework](#follower-framework)
     - [Honed Metal](#honed-metal)
     - [Immersive HUD (Preference)](#immersive-hud-preference)
     - [LOTD Settings](#lotd-settings)
-    - [LOTD : The Curator's Tracker (Preference)](#lotd--the-curators-tracker-preference)
+    - [LOTD: The Curator's Tracker (Preference)](#lotd-the-curators-tracker-preference)
     - [Lucien (Preference)](#lucien-preference)
     - [Requiem](#requiem-1)
     - [Quick Light](#quick-light)
@@ -63,7 +64,7 @@
 
 ![serenity-banner](cover/Cover.png)
 
-Serenity is my goal of having a vanilla Requiem experience in Skyrim Special Edition. The aim is to provide the feeling of requiem with the stability of Skyrim Special Edition as well as a slew of bug fixes, graphical improvements and Legacy of the Dragonborn integration. This is an ongoing project and changes will definitely be made along the way but the aim is to not stray away from the core Requiem experience. 
+Serenity is my goal of having a vanilla Requiem experience in Skyrim Special Edition. The aim is to provide the feeling of requiem with the stability of Skyrim Special Edition as well as a slew of bug fixes, graphical improvements and Legacy of the Dragonborn integration. This is an ongoing project and changes will definitely be made along the way but the aim is to not stray away from the core Requiem experience.
 
 ## Installation
 
@@ -155,7 +156,7 @@ This list uses Obsidian Weathers Weathers so you want to get an ENB that is comp
 
 Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory.
 
-**Note :**
+**Note:**
 Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders.
 
 ## Noteworthy Mods
@@ -225,7 +226,7 @@ In addition There is also NPC retextures for Interesting NPCs done by Cuyima as 
 
 [Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6308) adds around 100 new weapons into the game that is evenly distributed to all the enemies and NPCs.
 
-[Requiem - OUT-Fitted](https://www.nexusmods.com/skyrimspecialedition/mods/34496) is a fantastic mod by jap2112 that incorporates nearly a dozen mods to fit into the world of Requiem. Serenity is using all but one of the suite which covers :
+[Requiem - OUT-Fitted](https://www.nexusmods.com/skyrimspecialedition/mods/34496) is a fantastic mod by jap2112 that incorporates nearly a dozen mods to fit into the world of Requiem. Serenity is using all but one of the suite which covers:
 
 1. Common Clothes and Armors
 2. Guard Armor Replacer
@@ -265,52 +266,57 @@ Mods or sections with (Preference) next to their name is solely preferential and
 ### All Geared up Deriv
 
 - Player (Preference)
-  - Enable Mic Item Display : Disabled
-- NPC :
-  - Enable Weapons (Preference): Enabled
-  - Enable Misc Item Display : Disabled (There's been numerous reports of NPCs crashing with this Enabled. Hence, it's recommended to be Disabled)
+  - Enable Mic Item Display: `Disabled`
+- NPC:
+  - Enable Weapons (Preference): `Enabled`
+  - Enable Misc Item Display: `Disabled` (There's been numerous reports of NPCs crashing with this Enabled. Hence, it's recommended to be Disabled)
 
 ### A Matter of Time (Preference)
 
-- Presets :
+- Presets:
   - Load user settings
+
+### Enhanced Blood (Preference)
+
+- Screen Blood:
+  - Enabled: `Disabled`
 
 ### ESF: Companions
 
-- Presets :
+- Presets:
   - Apply the Reasonable - 24 Quests Preset
-- Joining → Thieves Guild Members :
-  - Thieves Guild Members Can Join : Enabled
-- Miscellaneous → Beast Blood :
-  - Aela Will Offer : Unlimited
+- Joining → Thieves Guild Members:
+  - Thieves Guild Members Can Join: `Enabled`
+- Miscellaneous → Beast Blood:
+  - Aela Will Offer: `Unlimited`
 
 ### Extended UI (Preference)
 
 - Stats Menu
-  - Hide Legendary UI Elements - Enabled
-  - Show attribute modifiers - Enabled
-  - Show skill modifiers - Enabled
+  - Hide Legendary UI Elements: `Enabled`
+  - Show attribute modifiers: `Enabled`
+  - Show skill modifiers: `Enabled`
 - Console
-  - Fullscreen : Enabled
+  - Fullscreen: Enabled
 
 ### Follower Framework
 
-- System → Save/Load Configuration :
-  - Load from File : Click
+- System → Save/Load Configuration:
+  - Load from File: `Click`
 
 ### Honed Metal
 
-- General :
-  - Crafting Cost Multiplier : 0.85
-  - Tempering Cost Multiplier : 0.35
-  - Enchanting Cost Multiplier : 0.75
-  - Recharge Cost Multiplier : 0.85
-  - Materials Cost Multiplier : 1.10
-- Maintenance :
-  - Crafting Time : 0.5
-  - Enchanting Time : 0.5
-  - Recharging Time : 0.0
-  - Common Materials Acquisition Time : 0.02
+- General:
+  - Crafting Cost Multiplier: `0.85`
+  - Tempering Cost Multiplier: `0.35`
+  - Enchanting Cost Multiplier: `0.75`
+  - Recharge Cost Multiplier: `0.85`
+  - Materials Cost Multiplier: `1.10`
+- Maintenance:
+  - Crafting Time: `0.5`
+  - Enchanting Time: `0.5`
+  - Recharging Time: `0.0`
+  - Common Materials Acquisition Time: `0.02`
 
 ### Immersive HUD (Preference)
 
@@ -318,15 +324,15 @@ Mods or sections with (Preference) next to their name is solely preferential and
   
 ### LOTD Settings
 
-- LOTD Settings → General → Shippment Crate Locations :
-  - Carriages : Enabled
-  - Inns : Enabled
-  - Player Houses : Enabled
+- LOTD Settings → General → Shippment Crate Locations:
+  - Carriages: `Enabled`
+  - Inns: `Enabled`
+  - Player Houses: `Enabled`
 
-### LOTD : The Curator's Tracker (Preference)
+### LOTD: The Curator's Tracker (Preference)
 
-- Settings → Mod Settings :
-  - Live Another Life Config : Live Another Life Start
+- Settings → Mod Settings:
+  - Live Another Life Config: `Live Another Life Start`
 
 ### Lucien (Preference)
 
@@ -334,33 +340,26 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 ### Requiem
 
-- Combat :
-  - No non-hostile Bull Rush/Trample : Enabled
-- Atmosphere :
-  - Heartbeat threshold : 10%
-  - Killmove health threshold : 0%
+- Combat:
+  - No non-hostile Bull Rush/Trample: `Enabled`
+- Atmosphere:
+  - Heartbeat threshold: `10%`
+  - Killmove health threshold: `0%`
   
 ### Quick Light
 
-- Quick Light → Brightness :
-  - Brightness - Bright
+- Quick Light → Brightness:
+  - Brightness - `Bright`
 
 ### SkyUI
 
-- General → Item List :
-  - Font Size : Small
-  - Category Icon Theme : CELTIC
-- Advanced → SWF Version Checking :
-  - Map Menu : Disabled
-  - Favorites Menu : Disabled
-  - Inventory Menu : Disabled
-  - Barter Menu : Disabled
-  - Container Menu : Disabled
-  - Crafting Menu : Disabled
+- General → Item List:
+  - Font Size: `Small`
+  - Category Icon Theme: `CELTIC`
 
 ### Thieves Guild Requirements
 
-**Note :**
+**Note:**
 This may be a little finicky when loading presets so you will have to follow the steps exactly
 
 1) Go to Misc Options
@@ -370,20 +369,20 @@ This may be a little finicky when loading presets so you will have to follow the
 
 ### VioLens
 
-- Profile System → Menu Settings :
-  - Load : SERENITY
+- Profile System → Menu Settings:
+  - Load: `SERENITY`
 
 ### XPMSSE (Preference)
 
-**Note :**
+**Note:**
 Using these settings I've found to have reduced save bloat by quite a bit.
 
-- Styles :
-  - Disable Style Cloak Spell : Enabled
-  - Style Fitting Animations (All) : Disabled
-  - Style Fitting Dual Wield Animations (All) : Disabled
-  - Style Fitting Shield Animations (All) : Disabled
-  - Style Fitting Mixed Animations (All) : Disabled
+- Styles:
+  - Disable Style Cloak Spell: `Enabled`
+  - Style Fitting Animations (All): `Disabled`
+  - Style Fitting Dual Wield Animations (All): `Disabled`
+  - Style Fitting Shield Animations (All): `Disabled`
+  - Style Fitting Mixed Animations (All): `Disabled`
 
 The rest can be set up however you like. I personally have Swords on back
 
