@@ -386,10 +386,10 @@ Using these settings I've found to have reduced save bloat by quite a bit.
 
 - Styles :
   - Disable Style Cloak Spell : Enabled
-- Style Fitting Animations (All) : Disabled
-- Style Fitting Dual Wield Animations (All) : Disabled
-- Style Fitting Shield Animations (All) : Disabled
-- Style Fitting Mixed Animations (All) : Disabled
+  - Style Fitting Animations (All) : Disabled
+  - Style Fitting Dual Wield Animations (All) : Disabled
+  - Style Fitting Shield Animations (All) : Disabled
+  - Style Fitting Mixed Animations (All) : Disabled
 
 The rest can be set up however you like. I personally have Swords on back
 
