@@ -13,6 +13,8 @@
 - Bijin - Your Bodyslide Mesh and Texture
 - Black Mage Armor
 - Common Clothes and Armor
+- Common Clothes (by FranklinZunge for SSE) (Bodyslide Files)
+- Bodyslide Conversions for 'Common Armors'
 - ESF Companions
 - Heavy Armory
 - Improved College Entry
@@ -65,6 +67,7 @@
 - aMidianBorn Book of Silence - Dragonborn DLC - Swapped to aMidianborn Book of Silence SE
 - aMidianBorn Book of Silence - Unique Items - Swapped to aMidianborn Book of Silence SE
 - aMidianBorn Book of Silence - Weapons - Swapped to aMidianborn Book of Silence SE
+- Apophosis Dragon Priest Marks - Swapped with Mask of the Dovah Sonaak
 - Bijin - Optimized Mesh Resource - Not needed anymore due to using our own meshes
 - Interesting NPCS - Zora Customizer - Prefer cuyima's version
 - Keyboard Shortcuts Fix - Became too annoying as it was hitting keypresses in game while minimised. Add this back if you like it's just an skse plugin
