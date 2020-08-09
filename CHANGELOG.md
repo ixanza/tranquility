@@ -1,5 +1,83 @@
 # Changelog
 
+## 2.2.0
+
+### Released at : `09/08/2020`
+
+### This update requires a new save
+
+### Added
+
+- AI Overhaul SSE
+- aMidianborn Book of Silence SE
+- Bijin - Your Bodyslide Mesh and Texture
+- Black Mage Armor
+- Common Clothes and Armor
+- ESF Companions
+- Heavy Armory
+- Improved College Entry
+- Improved Weapon Effects CORRECT Metal - Immersive Sounds Patch
+- INIGO
+- Lucien
+- Make Non-Exploitable Crossbow Slow Again For Requiem SSE
+- Mask of the Dovah Sonaak
+- Misc College of winterhold Tweaks
+- Missives
+- Missives - Worldspace Additions
+- Non-Exploitable Crossbow Reloading SE
+- Obscure's College of Winterhold
+- Obscure's College of Winterhold Tweaks
+- Protect your People - PyP - Better NPC Protection SE
+- Quests are in Skyrim
+- Quests are in Skyrim - Even Better Quest Objectives Patch
+- Requiem - AI Overhaul
+- Requiem - Black Mage Armor
+- Requiem - Bandoliers
+- Requiem - Mortal Enemies
+- Requiem - OUT-Fitted
+- Requiem - Triss Armor
+- Requiem - Vampire Collection
+- Thieves Guild Requirements SE
+- Triss Armor Retexture
+
+### Updated
+
+- High Poly Head v1.3
+- eeekie's Enhanced NPCs v1.7b
+- Mod Organizer 2 v2.3.1
+- Nether's Follower Framework v2.6.9
+- Racemenu v0.4.13
+- Realistic Water Two - ENB Water Fix
+- Requiem - Blackened Steel Armour and Weapon Set v4.0.0
+- Requiem - Expanded Skyrim Weaponry v4.0.0
+- Requiem - Guard Armor Replacer v4.0.0
+- Requiem - New Legion v4.0.0
+- Requiem - Nordic Wanderer v4.0.0
+- Requiem - Nordwars Race Armor Expansion v4.0.0
+- Requiem - Unplayable Faction Armor v4.0.0
+- SKSE v2.00.19
+
+### Removed
+
+- aMidianBorn Blades armor SSE Patch - Not needed anymore
+- aMidianborn Book of Silence - Armors - Swapped to aMidianborn Book of Silence SE
+- aMidianBorn Book of Silence - Creatures - Swapped to aMidianborn Book of Silence SE
+- aMidianBorn Book of Silence - Dragonborn DLC - Swapped to aMidianborn Book of Silence SE
+- aMidianBorn Book of Silence - Unique Items - Swapped to aMidianborn Book of Silence SE
+- aMidianBorn Book of Silence - Weapons - Swapped to aMidianborn Book of Silence SE
+- Bijin - Optimized Mesh Resource - Not needed anymore due to using our own meshes
+- Interesting NPCS - Zora Customizer - Prefer cuyima's version
+- Keyboard Shortcuts Fix - Became too annoying as it was hitting keypresses in game while minimised. Add this back if you like it's just an skse plugin
+
+### Tweaks & Fixes
+
+- Many leveled lists have been adjusted to accommodate the new weapon additions. Let me know how it goes.
+- Modified the Smithing tree to be less cluttered. Overall it will be the same in the end. Fozar's added perks for Stalhrim is now level 2 for Ebony Smithing and Nordic is now level 2 for Orcish Smithing. Morrowind Smithing technique has been moved near the start so the tree just looks better. None of the other requirements have been changed. Glass and Orcish will still require Morrowind Smithing and the descriptions have been changed to reflect this.
+- A few inconsistencies with VIGILANT and 3DNPC perks were fixed
+- Fixed a black face bug with Gormlaith during reading the Elder Scroll.
+- Overhauled the readme. Included a noteworthy mods section, added new MCM options.
+- Lucien and INIGO have been added to the NFF Ignore List by default.
+
 ## 2.1.2
 
 ### Released at : `01/08/2020`

@@ -18,22 +18,37 @@
       - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
-    - [Post-Installation](#post-installation)
-      - [Copy Game Folder Files](#copy-game-folder-files)
-      - [Getting an ENB](#getting-an-enb)
-        - [Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders](#note--please-check-that-vsync-is-set-to-disable-in-enblocalini-otherwise-you-will-be-stuck-compiling-shaders)
+  - [Post-Installation](#post-installation)
+    - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Getting an ENB](#getting-an-enb)
+  - [Noteworthy Mods](#noteworthy-mods)
+    - [Requiem](#requiem)
+    - [Quest and Encounter Mods](#quest-and-encounter-mods)
+    - [Expanded Cities Towns and Villages](#expanded-cities-towns-and-villages)
+    - [NPC Retextures](#npc-retextures)
+    - [Followers](#followers)
+    - [Audio and Weather](#audio-and-weather)
+    - [New Equippables](#new-equippables)
   - [How to start up Serenity](#how-to-start-up-serenity)
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
-    - [A Matter of Time](#a-matter-of-time)
+    - [All Geared up Deriv](#all-geared-up-deriv)
+    - [A Matter of Time (Preference)](#a-matter-of-time-preference)
+    - [ESF: Companions](#esf-companions)
+    - [Extended UI (Preference)](#extended-ui-preference)
     - [Follower Framework](#follower-framework)
     - [Honed Metal](#honed-metal)
+    - [Immersive HUD (Preference)](#immersive-hud-preference)
     - [LOTD Settings](#lotd-settings)
-    - [Requiem](#requiem)
+    - [LOTD : The Curator's Tracker (Preference)](#lotd--the-curators-tracker-preference)
+    - [Lucien (Preference)](#lucien-preference)
+    - [Requiem](#requiem-1)
     - [Quick Light](#quick-light)
     - [SkyUI](#skyui)
+    - [Thieves Guild Requirements](#thieves-guild-requirements)
     - [VioLens](#violens)
+    - [XPMSSE (Preference)](#xpmsse-preference)
   - [FAQ](#faq)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -52,7 +67,9 @@ Serenity is my goal of having a vanilla Requiem experience in Skyrim Special Edi
 Serenity uses Requiem 4.0.1 and has some armor mods supported by the Requiem Out-fitted mod and contains DLC sized mods which are
 
 - Wyrmstooth (with requiem patch from lilmoefow)
+- Dragonborn (Fozar's Patch, tweaked and modified to work for Requiem 4.0)
 - Legacy of the Dragonborn (with Requiem Patch and Museum Integration)
+- Vigilant
 
 ## Installation
 
@@ -99,17 +116,16 @@ Start the game and exit once you're in the main menu.
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
-Click on Browse Modlists, and download Serenity from the gallery. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Serenity`). The downloads path should automatically fill in the installation path.
-
 #### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Load the Modlist from Disk
-3. Adjust the download and installation paths
+2. Click on Browse Modlists, and download Serenity from the gallery.
+3. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Serenity`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
+6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
 ##### Problems with Wabbajack
 
@@ -127,21 +143,107 @@ This can happen when I update the modlist. Check if a new update is available an
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
-### Post-Installation
+**Windows is reporting that a virus has been detected**:
 
-#### Copy Game Folder Files
+Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+
+## Post-Installation
+
+### Copy Game Folder Files
 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
 Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
 
-#### Getting an ENB
+### Getting an ENB
 
 This list uses Obsidian Weathers Weathers so you want to get an ENB that is compatible.
 
 Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory.
 
-##### Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders
+**Note :**
+Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders.
+
+## Noteworthy Mods
+
+### Requiem
+
+[Requiem](https://www.nexusmods.com/skyrim/mods/19281) is a project with the goal of turning Skyrim into a better roleplaying experience by making game more immersive, semi-realistic and coherent, with the tend to find a compromiss between old school mechanics and more modern approaches.
+
+Requiem is the core mod behind Serenity. It overhauls the entire game with regards to Races, Combat, Standing Stones, Dragons, Perks, Difficulty and much much more. Requiem offers an unleveled world in where everything is static and doesn't level with the player.
+
+### Quest and Encounter Mods
+
+Serenity comes with a wide variety of new quest and encounters. A few are listed below.
+
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) is a very large mod that shapes the way how you play the game. The museum is a very robust house mod with the ability to display almost every item in the game and also has an extensive mod support which is utilised to some extent in Serenity. Serenity also comes with a Requiem display room for it thanks to [pamposzek](https://www.nexusmods.com/skyrimspecialedition/mods/36998).
+
+[Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576?tab=files) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. Missives has been extended to Solstheim as well as Wyrmstooth.
+
+[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendar and Daedra. It has also been patched to work well with Requiem. For a good time you want to be atleast level 30 before attempting this.
+
+[Wyrmstooth](https://archive.org/details/wyrmstooth1.18SSE) adds a new world and a series of quests involving killing a dragon for a bounty. It's a very well done quest mod.
+
+### Expanded Cities Towns and Villages
+
+Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289) along with all of the interior patches for it.
+
+### NPC Retextures
+
+I have to give credits to Darkladylexy from the popular [Lexy's Legacy of the Dragonborn Special Edition](https://lexyslotd.com) guide for her extremely well done choices of NPC mods. It is a combination of a lot of NPC mods with carefully picking which npc comes from which mod itself. For an overview of every single NPC that is retextured. Please see [this section on her guide](https://lexyslotd.com/guide/npc-retextures-page/)
+
+The NPC retextures are largely in this order except a select few NPCs
+
+1. WICO - Windsong Immersive Character Overhaul
+2. Followers Hirelings and Housecarls
+3. Metalsabers Beautiful Orcs of Skyrim
+4. The Ordinary Women
+5. Pandorable's NPCs
+6. Kalilies NPCs
+7. Fresh Faces
+8. Pandorable's NPCs - Dawnguard
+9. Pandorable's NPCs - Dragonborn
+10. Bijin Warmaidens
+11. Bijin Wives
+12. Bijin NPCs
+13. Seranaholic
+14. Valerica
+15. eeekie's Enhanced NPCs
+16. RS Children Overhaul
+
+For an overview of every single NPC that is retextured. Please see [this section on her guide](https://lexyslotd.com/guide/npc-retextures-page/).
+
+In addition There is also NPC retextures for Interesting NPCs done by Cuyima as well as an NPC retexture for Legacy of the Dragonborn done by 1NGR.
+
+### Followers
+
+[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
+
+[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
+
+### Audio and Weather
+
+[Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) and [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) offer an amazing base for skyrim's ambiance and foley.
+
+### New Equippables
+
+[Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369) provides cloaks to various NPCs. For the purpose of balance and not to be overpowered with Requiem, the regular cloaks cannot be enchanted and the pre-enchanted cloaks have been toned down a level or two.
+
+[Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6308) adds around 100 new weapons into the game that is evenly distributed to all the enemies and NPCs.
+
+[Requiem - OUT-Fitted](https://www.nexusmods.com/skyrimspecialedition/mods/34496) is a fantastic mod by jap2112 that incorporates nearly a dozen mods to fit into the world of Requiem. Serenity is using all but one of the suite which covers :
+
+1. Common Clothes and Armors
+2. Guard Armor Replacer
+3. New Legion
+4. Expanded Skyrim Weaponry
+5. Blackened Steel Armor and Weapons
+6. Unplayable Faction Armor
+7. NordwarUA's Race Armor Expansion
+8. Nordic Wanderer
+9. Black Mage Armor
+10. Triss Armor Retextured
+11. Volkihar Knight - Vampire Armor
 
 ## How to start up Serenity
 
@@ -164,11 +266,38 @@ Upon entering the game you will be greeted with a notification from the Relic No
 ## In-Game MCM Options
 
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
+Mods or sections with (Preference) next to their name is solely preferential and do not affect the balance of the game.
 
-### A Matter of Time
+### All Geared up Deriv
+
+- Player (Preference)
+  - Enable Mic Item Display : Disabled
+- NPC :
+  - Enable Weapons (Preference): Enabled
+  - Enable Misc Item Display : Disabled (There's been numerous reports of NPCs crashing with this Enabled. Hence, it's recommended to be Disabled)
+
+### A Matter of Time (Preference)
 
 - Presets :
   - Load user settings
+
+### ESF: Companions
+
+- Presets :
+  - Apply the Reasonable - 24 Quests Preset
+- Joining → Thieves Guild Members :
+  - Thieves Guild Members Can Join : Enabled
+- Miscellaneous → Beast Blood :
+  - Aela Will Offer : Unlimited
+
+### Extended UI (Preference)
+
+- Stats Menu
+  - Hide Legendary UI Elements - Enabled
+  - Show attribute modifiers - Enabled
+  - Show skill modifiers - Enabled
+- Console
+  - Fullscreen : Enabled
 
 ### Follower Framework
 
@@ -188,6 +317,10 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Enchanting Time : 0.5
   - Recharging Time : 0.0
   - Common Materials Acquisition Time : 0.02
+
+### Immersive HUD (Preference)
+
+- Set this up however you like. There are some default options already tweaked
   
 ### LOTD Settings
 
@@ -195,6 +328,15 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Carriages : Enabled
   - Inns : Enabled
   - Player Houses : Enabled
+
+### LOTD : The Curator's Tracker (Preference)
+
+- Settings → Mod Settings :
+  - Live Another Life Config : Live Another Life Start
+
+### Lucien (Preference)
+
+- If you use a player name thats in this selection, Lucien will call you by this name
 
 ### Requiem
 
@@ -222,16 +364,41 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Container Menu : Disabled
   - Crafting Menu : Disabled
 
+### Thieves Guild Requirements
+
+**Note :**
+This may be a little finicky when loading presets so you will have to follow the steps exactly
+
+1) Go to Misc Options
+2) Click Load Preset
+3) Click on Main Quest, Radiant Quests and Misc Options again
+4) Click Load Preset again. The settings will now stick.
+
 ### VioLens
 
 - Profile System → Menu Settings :
   - Load : SERENITY
 
+### XPMSSE (Preference)
+
+**Note :**
+Using these settings I've found to have reduced save bloat by quite a bit.
+
+- Styles :
+  - Disable Style Cloak Spell : Enabled
+- Style Fitting Animations (All) : Disabled
+- Style Fitting Dual Wield Animations (All) : Disabled
+- Style Fitting Shield Animations (All) : Disabled
+- Style Fitting Mixed Animations (All) : Disabled
+
+The rest can be set up however you like. I personally have Swords on back
+
 ## FAQ
 
 ### Ultrawide Options
 
-If you have an ultrawide monitor (21:9), the UI will be off. You will want to reinstall Dear Diary with the widescreen option. Pick any options on the FOMOD you want but ensure Extended UI, More Informative Console and Morehud is ticked
+If you have an ultrawide monitor (21:9), the UI will be off. You will want to reinstall Dear Diary with the widescreen option. Pick any options on the FOMOD you want but ensure Extended UI, More Informative Console and Morehud is ticked.
+You will also want to install the SkyHud - High Resolution Widescreen Fix from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
 
 ### Tweaking the Game Settings
 
