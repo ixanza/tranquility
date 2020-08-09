@@ -52,7 +52,8 @@
   - [FAQ](#faq)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
-  - [Removing the Modlist](#removing-the-modlist)
+    - [Zoomed in Display](#zoomed-in-display)
+    - [Removing the Modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
   - [Contributing](#contributing)
@@ -401,7 +402,17 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 - `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
-## Removing the Modlist
+### Zoomed in Display
+
+This can be caused by Window's Display Scaling feature. This usually is set to above 100% when using very large (32 inch++) sized monitors and TVs. There are two solutions to this
+
+- Set the display scaling back to 100% in the Screen Resolution Settings for Windows
+- Edit the mod SSE Display Tweaks.
+  - Under [Render]
+    - Set Fullscreen to True
+    - Set Borderless to False
+
+### Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
