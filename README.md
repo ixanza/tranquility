@@ -49,7 +49,7 @@
     - [Thieves Guild Requirements](#thieves-guild-requirements)
     - [VioLens](#violens)
     - [XPMSSE (Preference)](#xpmsse-preference)
-  - [FAQ](#faq)
+  - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
@@ -387,7 +387,7 @@ Using these settings I've found to have reduced save bloat by quite a bit.
 
 The rest can be set up however you like. I personally have Swords on back
 
-## FAQ
+## Other Post Installation FAQ
 
 ### Ultrawide Options
 
