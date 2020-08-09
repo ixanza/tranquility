@@ -20,8 +20,9 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem. I highly recommend opening the console and clicking on the object that has a bug. If your bug is location based, use the book from [Where in Special Edition am I](https://www.nexusmods.com/skyrimspecialedition/mods/30907) mod.
+If applicable, add screenshots to help explain your problem. I highly recommend opening the console and clicking on the object that has a bug. If your bug is location based, take a screenshot of `You are Here` MCM Option from DynDOLOD as well as a screenshot of the world map.
 
 **Modlist version**
+Do not say latest
 
 **Did you add any additional mods?**
