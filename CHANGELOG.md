@@ -1,8 +1,57 @@
 # Changelog
 
+## 2.3.0
+
+### Released at: `Unreleased`
+
+### This update requires a new save as per instructed by The Curator's Companion
+
+### Added
+
+- Bandoliers - Bags and Pouches
+- Cleaned Skyrim SE Textures
+- Cathedral Weathers
+- Cathedral Weathers MCM
+- Real Rain
+- Lucid Rain
+- Wonders of Weather
+- Storm Lightning for SSE and VR
+- Relationship Dialog Overhaul
+- Serana Dialog Addon
+- SD Farmhouse Fences LE
+
+### Updated
+
+- Legacy of the Dragonborn v5.3.2
+- Legacy of the Dragonborn - The Curator's Companion v1.1.0
+- LOTD Museum Shipment Crates Patch v1.2
+- Racemenu v4.1.4
+- Rustic Clothing v3.0
+- SSE Engine Fixes v5.4.0
+
+### Removed
+
+- Marvelous Mudcrabs - Apparently they can reach much farther than intended
+- Obsidian Weathers- Replaced with Cathedral Weathers and addons
+- Obsidian Weathers MCM - Replaced with Cathedral Weathers and addons
+- Smooth Sky Mesh - Replaced with Cathedral Weathers and addons
+- Fences of Skyrim - No more flickering fences - Replaced with SD Farmhouse Fences LE
+- Obsidian Weathers - True Storms Compatibility - Replaced with Cathedral Weathers and addons
+- Obsidian Weathers - VIGILANT Integration - Replaced with Cathedral Weathers and addons
+- True Storms - Replaced with Cathedral Weathers and addons
+- Cresty's Distant Mists - Replaced with Cathedral Weathers and addons
+- Salty Slaughterfish - They're too huge and can be easily cheesed when they're not in the water
+- Tyrannical Trolls - Can get stuck in tight places
+- LOTD Museum Shipment Crates Patch - Apparently addressed in LOTD update
+- Unofficial Performance Optimized Textures - Replaced with Cleaned Skyrim SE Textures
+
+### Tweaks
+
+- Better Stealing now only works up to 200 gold compared to 500
+
 ## 2.2.0
 
-### Released at : `09/08/2020`
+### Released at: `09/08/2020`
 
 ### This update requires a new save
 
@@ -83,7 +132,7 @@
 
 ## 2.1.2
 
-### Released at : `01/08/2020`
+### Released at: `01/08/2020`
 
 ### Added
 
@@ -129,7 +178,7 @@
 
 ## 2.1.1
 
-### Released at : `26.07.2020`
+### Released at: `26.07.2020`
 
 ### Fixes
 
@@ -139,7 +188,7 @@
 
 ### This update requires a new save
 
-### Released at : `25.07.2020`
+### Released at: `25.07.2020`
 
 ### Added
 
@@ -171,7 +220,7 @@
 
 ### This update requires a new save
 
-### Released at : `16.07.2020`
+### Released at: `16.07.2020`
 
 ### Added
 
@@ -224,7 +273,7 @@
 
 ## 2.0.0 pre-2
 
-### Released at : `03.07.2020`
+### Released at: `03.07.2020`
 
 ### Updated
 
@@ -238,7 +287,7 @@
 
 ### This update requires a new save
 
-### Released at : `03.07.2020`
+### Released at: `03.07.2020`
 
 ### Updated
 
@@ -283,7 +332,7 @@
 
 ### This update requires a new save
 
-### Released at : `26.06.2020`
+### Released at: `26.06.2020`
 
 ### Added
 
@@ -323,7 +372,7 @@
 
 ### This update requires a new save
 
-### Released at : `12.06.2020`
+### Released at: `12.06.2020`
 
 ### Added
 
