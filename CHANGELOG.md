@@ -2,52 +2,78 @@
 
 ## 2.3.0
 
-### Released at: `Unreleased`
+### Released at: `21/08/2020`
 
 ### This update requires a new save as per instructed by The Curator's Companion
 
 ### Added
 
 - Bandoliers - Bags and Pouches
-- Cleaned Skyrim SE Textures
+- Bellyache's Animal and Creatures SSE
 - Cathedral Weathers
 - Cathedral Weathers MCM
-- Real Rain
+- Charge Dialog Fix
+- Cleaned Skyrim SE Textures
+- ENB Binaries
+- Fast Travel Cost
+- Flesh FX
+- Immersive Dawnguard Dayspring Canyon
 - Lucid Rain
-- Wonders of Weather
-- Storm Lightning for SSE and VR
+- Pandorable's NPCs - Dragonborn Salt and Wind Textures
+- Power of three Papyrus Extender
+- Real Rain
 - Relationship Dialog Overhaul
-- Serana Dialog Addon
+- Requiem - NPC Statefix
+- Rudy ENB for Cathedral Weathers
 - SD Farmhouse Fences LE
+- Serana Dialog Addon
+- Storm Lightning for SSE and VR
+- Volkihar Knight CBBE Bodyslide
+- Wonders of Weather
 
 ### Updated
 
-- Legacy of the Dragonborn v5.3.2
-- Legacy of the Dragonborn - The Curator's Companion v1.1.0
+- Bodyslide and Outfit Studio v5.1.0
+- Caliente's Beautiful Bodies Enhancer v1.6.1
+- Cathedral Assets Optimizer v5.0.15
+- cookeh's conditional and random animations - CCARA DAR v2.0.5
+- Dear Diary v2.2.4
+- Embers HD v1.4
+- JS Dragon Claw Patches
+- Legacy of the Dragonborn - The Curator's Companion v1.1.1
+- Legacy of the Dragonborn v5.3.3
 - LOTD Museum Shipment Crates Patch v1.2
+- MoreHUD Inventory Edition v1.0.18
+- Nether's Follower Framework v2.7
 - Racemenu v4.1.4
 - Rustic Clothing v3.0
+- Rustic Dragon Corpse - Swapped to 4K version
+- Simple Horse v1.21
+- SSE Display Tweaks v0.4.5
 - SSE Engine Fixes v5.4.0
 
 ### Removed
 
+- Cresty's Distant Mists - Replaced with Cathedral Weathers and addons
+- Fences of Skyrim - No more flickering fences - Replaced with SD Farmhouse Fences LE
+- LOTD Museum Shipment Crates Patch - Apparently addressed in LOTD update
 - Marvelous Mudcrabs - Apparently they can reach much farther than intended
 - Obsidian Weathers- Replaced with Cathedral Weathers and addons
-- Obsidian Weathers MCM - Replaced with Cathedral Weathers and addons
-- Smooth Sky Mesh - Replaced with Cathedral Weathers and addons
-- Fences of Skyrim - No more flickering fences - Replaced with SD Farmhouse Fences LE
 - Obsidian Weathers - True Storms Compatibility - Replaced with Cathedral Weathers and addons
 - Obsidian Weathers - VIGILANT Integration - Replaced with Cathedral Weathers and addons
-- True Storms - Replaced with Cathedral Weathers and addons
-- Cresty's Distant Mists - Replaced with Cathedral Weathers and addons
+- Obsidian Weathers MCM - Replaced with Cathedral Weathers and addons
 - Salty Slaughterfish - They're too huge and can be easily cheesed when they're not in the water
+- Smooth Sky Mesh - Replaced with Cathedral Weathers and addons
+- True Storms - Replaced with Cathedral Weathers and addons
 - Tyrannical Trolls - Can get stuck in tight places
-- LOTD Museum Shipment Crates Patch - Apparently addressed in LOTD update
 - Unofficial Performance Optimized Textures - Replaced with Cleaned Skyrim SE Textures
 
 ### Tweaks
 
 - Better Stealing now only works up to 200 gold compared to 500
+- LOTS of leveled list tweaks. Let me know how it goes.
+- Created a new LOTD Consistency Patch. All Weapons and Armors should now be at requiem levels. All Replicas are now at requiem levels. All replicas can be tempered and enchanted and used as regular weapons.
+- MCMs have been fully automated. You can make a character, start up Requiem and Curator's Companion and start the game straight away without configuring menus for 5-15 minutes. Enjoy!
 
 ## 2.2.0
 

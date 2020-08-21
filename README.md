@@ -20,7 +20,7 @@
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
-    - [Getting an ENB](#getting-an-enb)
+    - [ENB](#enb)
   - [Noteworthy Mods](#noteworthy-mods)
     - [Requiem](#requiem)
     - [Quest and Encounter Mods](#quest-and-encounter-mods)
@@ -33,23 +33,6 @@
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
-    - [All Geared up Deriv](#all-geared-up-deriv)
-    - [A Matter of Time (Preference)](#a-matter-of-time-preference)
-    - [Enhanced Blood (Preference)](#enhanced-blood-preference)
-    - [ESF: Companions](#esf-companions)
-    - [Extended UI (Preference)](#extended-ui-preference)
-    - [Follower Framework](#follower-framework)
-    - [Honed Metal](#honed-metal)
-    - [Immersive HUD (Preference)](#immersive-hud-preference)
-    - [LOTD Settings](#lotd-settings)
-    - [LOTD: The Curator's Tracker (Preference)](#lotd-the-curators-tracker-preference)
-    - [Lucien (Preference)](#lucien-preference)
-    - [Requiem](#requiem-1)
-    - [Quick Light](#quick-light)
-    - [SkyUI](#skyui)
-    - [Thieves Guild Requirements](#thieves-guild-requirements)
-    - [VioLens](#violens)
-    - [XPMSSE (Preference)](#xpmsse-preference)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -146,18 +129,23 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ### Copy Game Folder Files
 
-Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
+Copy the all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
 
-Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
+### ENB
 
-### Getting an ENB
+Serenity comes with a slightly modified version of [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
 
-This list uses Obsidian Weathers Weathers so you want to get an ENB that is compatible.
+If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
-Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory.
+A few other ENB suggestions are:
+
+- [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
+- [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
+- [Serio's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30506)
+- [Soul Spectrum ENB](https://www.nexusmods.com/skyrimspecialedition/mods/29675)
 
 **Note:**
-Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders.
+Please check that vsync is set to disable in enblocal.ini otherwise you will either be stuck compiling shaders or a black screen, or the menu with no options.
 
 ## Noteworthy Mods
 
@@ -205,10 +193,11 @@ The NPC retextures are largely in this order except a select few NPCs
 14. Valerica
 15. eeekie's Enhanced NPCs
 16. RS Children Overhaul
+17. Cuyima Interesting NPCs
+18. High Poly Inigo
+19. Legacy of the Dragonborn NPC Overhaul
 
 For an overview of every single NPC that is retextured. Please see [this section on her guide](https://lexyslotd.com/guide/npc-retextures-page/).
-
-In addition There is also NPC retextures for Interesting NPCs done by Cuyima as well as an NPC retexture for Legacy of the Dragonborn done by 1NGR.
 
 ### Followers
 
@@ -260,131 +249,14 @@ Upon entering the game you will be greeted with a notification from the Relic No
 
 ## In-Game MCM Options
 
-Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
-Mods or sections with (Preference) next to their name is solely preferential and do not affect the balance of the game.
+All the required MCM options have been automated for you. Enjoy the game or tweak the following to your liking:
 
-### All Geared up Deriv
-
-- Player (Preference)
-  - Enable Mic Item Display: `Disabled`
-- NPC:
-  - Enable Weapons (Preference): `Enabled`
-  - Enable Misc Item Display: `Disabled` (There's been numerous reports of NPCs crashing with this Enabled. Hence, it's recommended to be Disabled)
-
-### A Matter of Time (Preference)
-
-- Presets:
-  - Load user settings
-
-### Enhanced Blood (Preference)
-
-- Screen Blood:
-  - Enabled: `Disabled`
-
-### ESF: Companions
-
-- Presets:
-  - Apply the Reasonable - 24 Quests Preset
-- Joining → Thieves Guild Members:
-  - Thieves Guild Members Can Join: `Enabled`
-- Miscellaneous → Beast Blood:
-  - Aela Will Offer: `Unlimited`
-
-### Extended UI (Preference)
-
-- Stats Menu
-  - Hide Legendary UI Elements: `Enabled`
-  - Show attribute modifiers: `Enabled`
-  - Show skill modifiers: `Enabled`
-- Console
-  - Fullscreen: Enabled
-
-### Follower Framework
-
-- System → Save/Load Configuration:
-  - Load from File: `Click`
-
-### Honed Metal
-
-- General:
-  - Crafting Cost Multiplier: `0.85`
-  - Tempering Cost Multiplier: `0.35`
-  - Enchanting Cost Multiplier: `0.75`
-  - Recharge Cost Multiplier: `0.85`
-  - Materials Cost Multiplier: `1.10`
-- Maintenance:
-  - Crafting Time: `0.5`
-  - Enchanting Time: `0.5`
-  - Recharging Time: `0.0`
-  - Common Materials Acquisition Time: `0.02`
-
-### Immersive HUD (Preference)
-
-- Set this up however you like. There are some default options already tweaked
-  
-### LOTD Settings
-
-- LOTD Settings → General → Shippment Crate Locations:
-  - Carriages: `Enabled`
-  - Inns: `Enabled`
-  - Player Houses: `Enabled`
-
-### LOTD: The Curator's Tracker (Preference)
-
-- Settings → Mod Settings:
-  - Live Another Life Config: `Live Another Life Start`
-
-### Lucien (Preference)
-
-- If you use a player name thats in this selection, Lucien will call you by this name
-
-### Requiem
-
-- Combat:
-  - No non-hostile Bull Rush/Trample: `Enabled`
-- Atmosphere:
-  - Heartbeat threshold: `10%`
-  - Killmove health threshold: `0%`
-  
-### Quick Light
-
-- Quick Light → Brightness:
-  - Brightness - `Bright`
-
-### SkyUI
-
-- General → Item List:
-  - Font Size: `Small`
-  - Category Icon Theme: `CELTIC`
-
-### Thieves Guild Requirements
-
-**Note:**
-This may be a little finicky when loading presets so you will have to follow the steps exactly
-
-1) Go to Misc Options
-2) Click Load Preset
-3) Click on Main Quest, Radiant Quests and Misc Options again
-4) Click Load Preset again. The settings will now stick.
-
-### VioLens
-
-- Profile System → Menu Settings:
-  - Load: `SERENITY`
-
-### XPMSSE (Preference)
-
-**Note:**
-Using these settings I've found to have reduced save bloat by quite a bit.
-
-- Styles:
-  - Disable Style Cloak Spell: `Enabled`
-  - Style Fitting Animations (All): `Disabled`
-  - Style Fitting Dual Wield Animations (All): `Disabled`
-  - Style Fitting Shield Animations (All): `Disabled`
-  - Style Fitting Mixed Animations (All): `Disabled`
-
-The rest can be set up however you like. I personally have Swords on back
+- iHud
+- AllGUD
+- SkyUI
+- Lucien (If you set a nickname that's supported he can call you by that name)
+- Requiem (If you want to enable fast travel. The mod Fast Travel Costs is installed to make it balanced)
+- XP32 Skeleton Styles
 
 ## Other Post Installation FAQ
 
