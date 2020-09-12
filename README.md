@@ -29,6 +29,7 @@
     - [Followers](#followers)
     - [Audio and Weather](#audio-and-weather)
     - [New Equippables](#new-equippables)
+  - [Serenity Plus](#serenity-plus)
   - [How to start up Serenity](#how-to-start-up-serenity)
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
@@ -228,6 +229,22 @@ For an overview of every single NPC that is retextured. Please see [this section
 9. Black Mage Armor
 10. Triss Armor Retextured
 11. Volkihar Knight - Vampire Armor
+
+## Serenity Plus
+
+Starting with the 2.4.0 version of Serenity, I've included a second profile called Serenity Plus, this includes some overhauls on top of requiem that I will not be including into Serenity as it modifies how base Requiem work. The aim of Serenity has always been to lure newer requiem players so they can understand the mechanics. Serenity Plus however things I add to my requiem experience to make it either harder or more fresh. This will flesh out more in the coming updates. 
+
+For now Serenity Plus contains these additions on top of Serenity
+
+- Requiem - Craftable Items
+- Requiem - Destruction Spell Pack
+- Requiem - Enchantment Tweaks
+- Requiem - Enemy Regeneration Tweak
+- Requiem - Illusion Redone
+- Requiem - Immersive Divine Blessings
+- Requiem - Minor Arcana SSE
+- Requiem - Unarmed Combat Enhancer
+- The Actual Vampiric Thirst for SSE
 
 ## How to start up Serenity
 

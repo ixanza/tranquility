@@ -1,5 +1,97 @@
 # Changelog
 
+## 2.4.0
+
+### Released at: `12/09/2020`
+
+### This update requires a new save
+
+## Both Profiles
+
+### Added
+
+- Actor Limit Fix
+- Ave's Interesting NPCs Jewelry
+- CC's HQ Alduin's Wall
+- Detailing the Eldrich - Higher-Res Apocrypha - Temple of Miraak - Black Books
+- ENB Light
+- ENB Particle Lights - Dwemer Lanterns
+- Guard Dialog Overhaul SE
+- High Poly Gleamblossoms
+- Hood Plus Hair for Seranaholic 1.8.2
+- Hunters not Bandits
+- Ice Cave Parallax Improved
+- JK's Interior's Patch Collection
+- Lanterns of Skyrim II + Tamriel Master Lights Add-on
+- Legacy of the Dragonborn - Interesting NPCs Patch
+- Ljoss ENB
+- Noble Skyrim - Snow Reflection Fix
+- Rally's Blackreach and Glowing Mushrooms
+- Rally's Hanging Moss
+- Real Ice
+- Requiem - Sithis Armor
+- Rude Imperial Soldier Escort Fix
+- SD's Horncandles SE
+- Sithis Armour
+- Sithis Armour - Mastercraft Edition
+- Vigilant - Book Covers
+
+### Updated
+
+- AI Overhaul SSE v1.6.2
+- cookeh's conditional and random animations v2.0.7
+- DROPS by Ramccoid - Updated to SSE Version
+- DynDOLOD Resources v2.85
+- DynDOLOD v2.85
+- Embers HD v1.41
+- ENBSeries v445
+- High Poly Head v1.4 (thanks again Sh1ny for the links)
+- Legacy of the Dragonborn - NPC Overhaul by 1N v1.15
+- Legacy of the Dragonborn - The Curator's Companion v2.0.0
+- Legacy of the Dragonborn Patches - v2.2
+- Mystriousdawn's HD Skyrim Overhaul v2.5
+- Requiem - AI Overhaul SSE Patch v1.1
+- Requiem - Guards Armor Replacer v4.10
+- RUSTIC Furniture v3.0
+- Serana Dialog Addon v1.8.1
+- SSE Engine Fixes v5.4.1
+- VIGILANT Voiced - English Addon v3.0
+
+### Removed
+
+- CBPC Physics with Collisions
+- Guard Dialog Overhaul Redux - Replaced with Guard Dialog Overhaul SE
+- Immersive CBP Config
+- Majestic Mountains - Pilgrim's Delight Patch - Not needed anymore
+- Powerofthree's Papyrus Extender - We don't use anything that needs this
+- Rudy ENB for Cathedral Weathers - WHY YOU GOTTA HIDE YOUR MOD FOR FOUR DAYS MAN? Replaced with Ljoss
+- Skyrim SE v1.5.73 Shader Bundle - Not needed with new ENBSeries
+- Windhelm Bridge Tweaks- Crashes when walking towards windhelm from Riften
+
+### Fixes
+
+- Addressed issue with Companions not sending you on other quests (Farkas only sending you to clear out areas and not doing hired muscle as an example)
+- Removed Honed Metal from Miscellaneous Merged as it wasn't working properly
+
+## Plus Profile
+
+### Added
+
+- Enhanced Skyrim Factions - The Companions Guild REQUIREMENTS ONLY Version
+- Requiem - Craftable Items
+- Requiem - Destruction Spell Pack
+- Requiem - Enchantment Tweaks
+- Requiem - Enemy Regeneration Tweak
+- Requiem - Illusion Redone
+- Requiem - Immersive Divine Blessings
+- Requiem - Minor Arcana SSE
+- Requiem - Unarmed Combat Enhancer
+- The Actual Vampiric Thirst for SSE
+
+### Removed
+
+- Enhanced Skyrim Factions - The Companions Guild - Swapped to Requirements only version to let Minor Arcana handle the rest
+
 ## 2.3.0
 
 ### Released at: `21/08/2020`
