@@ -134,13 +134,13 @@ Copy the all of the files from the `Installation Folder/Game Folder Files` direc
 
 ### ENB
 
-Serenity comes with a slightly modified version of [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
+Serenity comes with [Ljoss ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30971) included.
 
 If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
 A few other ENB suggestions are:
 
-- [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
+- [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
 - [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 - [Serio's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30506)
 - [Soul Spectrum ENB](https://www.nexusmods.com/skyrimspecialedition/mods/29675)
@@ -229,6 +229,7 @@ For an overview of every single NPC that is retextured. Please see [this section
 9. Black Mage Armor
 10. Triss Armor Retextured
 11. Volkihar Knight - Vampire Armor
+12. Sithis Armour- Special Edition- Mastercraft Version
 
 ## Serenity Plus
 
