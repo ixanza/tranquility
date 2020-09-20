@@ -1,12 +1,47 @@
 # Changelog
 
+## 2.5.0
+
+### Released at : `Unreleased`
+
+### Both Profiles
+
+**Added** Dawnguard Arsenal SSE
+**Added** Expressive Facial Animations
+**Added** Expressive Facegen Morphs
+**Added** Hvergelmir Brows **Added** For High Poly Head
+**Added** Legacy Safehouse Plus
+**Added** Mannequin Management
+**Added** NPC AI Process Position Fix **Added** SSE
+**Added** Witchplate Armor
+**Added** Ulag's Legacy
+**Added** DX's Faction Crossbows
+**Added** Interesting NPCs Visual Overhaul
+**Updated** AI Overhaul SSE v1.6.3
+**Updated** JKs Interiors Patch COllection v1.7.2
+**Updated** Legacy of the Dragonborn **Updated** The Curator's Companion v2.1
+**Updated** Serana Dialog Addon v1.8.2
+**Updated** Kalilies NPCs v2.31
+**Updated** Hood Plus Hair for Seranaholic v182.1.6
+**Removed** Honed Metal (Temporarily removed due to a repeatable unsolvable crash)
+**Removed** Honed Metal Voiced
+**Other** Swapped to the Loose Version of Interesting NPCs, this may cause longer start up times but this fixes the issues with Ange the Song Bearer crashing the game when you ask her to play you a song.
+**Other** Removed Ordinary Women Headparts from being playable as they can cause CTD
+
+### Plus Profile
+
+**Added** Requiem - Expanded Grimoire
+**Removed** Requiem - Destruction Tweaks - Not compatible with Expanded Grimoire
+**Other** Fixed Steel Shin Boots and Steel Imperial Bracers having the old non New Legion model causing it clip to New Legion Armors
+**Other** Fixed Guard Dialog Overhaul SPIKE keywords being removed by the CR
+
 ## 2.4.0
 
 ### Released at: `12/09/2020`
 
 ### This update requires a new save
 
-## Both Profiles
+### Both Profiles
 
 ### Added
 
