@@ -44,8 +44,17 @@ If the mod you added has these records : Armor, Weapon, Container, Door, Leveled
 
 Download this custom plugins.txt file
 
-Serenity : [Plugins2.txt](https://drive.google.com/file/d/1kXnpNCc7zw_M0zOxXuhMLVXPvL17yeZD/view?usp=sharing)
-Serenity Plus : [Plugins.txt](https://drive.google.com/file/d/1Hw5rOgABxCUfv-1DLerkQXyraON8yCGw/view?usp=sharing)
+- Serenity : [Plugins2.txt](https://drive.google.com/file/d/1kXnpNCc7zw_M0zOxXuhMLVXPvL17yeZD/view?usp=sharing)
+- Serenity Plus : [Plugins.txt](https://drive.google.com/file/d/1Hw5rOgABxCUfv-1DLerkQXyraON8yCGw/view?usp=sharing)
 
-Add in the ESP of the mod you added
+Add in the ESP of the mod you added in relation to the load order on the right pane of ModOrganizer2
 
+![EditingPlugins](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Editing%20Plugins.png)
+
+Then in Mod Organizer 2, Run the Reqtificator from the dropdown and click run. When it asks you for the plugins.txt, point it to this text file you downloaded and edited. It should now run fine.
+
+If any of the mods you added modify NPCs, you will have to re-run Synthesis. Synthesis is a tool created by Noggog to perform what we normally do with zEdit but faster.
+
+Select Synthesis from the dropdown menu and click Run. If the window that opens is blank, you will want to add External Patcher Programs by clicking this button.
+
+Then you want to browse and head to `Serenity\tools\Synthesis\Patchers` and select one exe file (eg. Face Fixer). Repeat this for all the EXE files in that folder.
