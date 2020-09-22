@@ -2,45 +2,62 @@
 
 ## 2.5.0
 
-### Released at : `Unreleased`
+### Released at : `22/09/2020`
 
 ### Both Profiles
 
-- **Added** Dawnguard Arsenal SSE
-- **Added** Expressive Facial Animations
-- **Added** Expressive Facegen Morphs
-- **Added** Hvergelmir Brows **Added** For High Poly Head
-- **Added** Legacy Safehouse Plus
-- **Added** Mannequin Management
-- **Added** NPC AI Process Position Fix **Added** SSE
-- **Added** Witchplate Armor
-- **Added** Ulag's Legacy
-- **Added** DX's Faction Crossbows
-- **Added** Interesting NPCs Visual Overhaul
+### Added
 
-- **Updated** AI Overhaul SSE v1.6.3
-- **Updated** JKs Interiors Patch Collection v1.7.2
-- **Updated** Legacy of the Dragonborn
-- **Updated** The Curator's Companion v2.1
-- **Updated** Serana Dialog Addon v1.8.2
-- **Updated** Kalilies NPCs v2.31
-- **Updated** Hood Plus Hair for Seranaholic v182.1.6
-- **Updated** Skyrim Particle Patch for ENB
+- Blocksteal Redux
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold
+- Dawnguard Arsenal SSE
+- Expressive Facial Animations
+- Expressive Facegen Morphs
+- Hvergelmir BrowsFor High Poly Head
+- Legacy Safehouse Plus
+- Mannequin Management
+- NPC AI Process Position FixSSE
+- Witchplate Armor
+- Ulag's Legacy
+- DX's Faction Crossbows
+- Interesting NPCs Visual Overhaul
 
-- **Removed** Honed Metal (Temporarily removed due to a repeatable unsolvable crash)
-- **Removed** Honed Metal Voiced
+### Updated
 
-- **Other** Swapped to the Loose Version of Interesting NPCs, this may cause longer start up times but this fixes the issues with Ange the Song Bearer crashing the game when you ask her to play you a song.
-- **Other** Removed Ordinary Women Headparts from being playable as they can cause CTD
+- AI Overhaul SSE v1.6.3
+- JKs Interiors Patch Collection v1.7.2
+- Legacy of the Dragonborn - The Curator's Companion v2.1.2
+- Serana Dialog Addon v1.8.3
+- Kalilies NPCs v2.31
+- Mod Organizer 2 v.2.3.2
+- Hood Plus Hair for Seranaholic v182.1.6
+- Skyrim Particle Patch for ENB
+
+### Removed
+
+- Honed Metal (Temporarily removed due to a repeatable unsolvable crash)
+- Honed Metal Voiced
+
+### Changes
+
+- Swapped to the Loose Version of Interesting NPCs, this may cause longer start up times but this fixes the issues with Ange the Song Bearer crashing the game when you ask her to play you a song.
+- Removed Ordinary Women Headparts from being playable as they can cause CTD
 
 ### Plus Profile
 
-- **Added** Requiem - Expanded Grimoire
+### Added
 
-- **Removed** Requiem - Destruction Tweaks - Not compatible with Expanded Grimoire
+- Requiem - Expanded Grimoire (Note - Silver weapon buff from Bound Weapons has been removed as they make vampires and werewolves unable to use them otherwise)
 
-- **Other** Fixed Steel Shin Boots and Steel Imperial Bracers having the old non New Legion model causing it clip to New Legion Armors
-- **Other** Fixed Guard Dialog Overhaul SPIKE keywords being removed by the CR
+### Removed
+
+- Requiem - Destruction Tweaks - Not compatible with Expanded Grimoire
+
+### Changes
+
+- Fixed Guard Dialog Overhaul SPIKE keywords being removed by the CR
+- Removed the Daedric tag from Forsworn Arrows. No more being smited just for being shot at
+- Removed Forsworn gauntlets from Murbul's outfit to prevent her being cursed
 
 ## 2.4.0
 
