@@ -6,9 +6,9 @@ If you plan to make modifications to Serenity be it adding or removing mods, you
 
 SSEEdit is included in the installation of Serenity and can be accessed via the dropdown menu in Mod Organizer.
 
-If you quickly want to make sure a mod is compatible with Serenity, install it and activate it. On the right pane, move it above RealisticWaterTwo.esp. Then open up SSEEdit Show Conflicts and wait until everything loads up. Once everything loads up you will be seeing a lot of red things on the left side. 
+If you quickly want to make sure a mod is compatible with Serenity, install it and activate it. On the right pane, move it above RealisticWaterTwo.esp. Then open up SSEEdit Show Conflicts and wait until everything loads up. Once everything loads up you will be seeing a lot of red things on the left side.
 
-![SSEEditShowConflicts](tutorial images\SSEEdit Show Conflicts.png)
+![SSEEditShowConflicts](tutorial images/SSEEdit%20Show%20Conflicts.png)
 
 Scroll down to the mod you added and expand the categories. Landscape/Worldspace edits can usually be ignored unless you're adding a mod that is meant to make sweeping changes to landscapes/worldspace.
 
