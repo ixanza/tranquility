@@ -6,11 +6,46 @@ If you plan to make modifications to Serenity be it adding or removing mods, you
 
 SSEEdit is included in the installation of Serenity and can be accessed via the dropdown menu in Mod Organizer.
 
-If you quickly want to make sure a mod is compatible with Serenity, install it and activate it. On the right pane, move it above RealisticWaterTwo.esp. Then open up SSEEdit Show Conflicts and wait until everything loads up. Once everything loads up you will be seeing a lot of red things on the left side.
+## Adding mods
 
-![SSEEditShowConflicts](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Saving%20the%20Plugin.png)
+If you quickly want to make sure a mod is compatible with Serenity, install it and activate it. If it is just a simple texture/mesh replacer or an SKSE Plugin, it should be compatibel out of the box. If it has an ESP you will want to check further On the right pane, move the ESP above RealisticWaterTwo.esp. Then open up SSEEdit Show Conflicts and wait until everything loads up. Once everything loads up you will be seeing a lot of red things on the left side.
+
+![SSEEditShowConflicts](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/SSEEdit%20Show%20Conflicts.png)
 
 Scroll down to the mod you added and expand the categories. Landscape/Worldspace edits can usually be ignored unless you're adding a mod that is meant to make sweeping changes to landscapes/worldspace.
 
-If you see conflicts with leveled lists and containers, what you want to do is make an override and then forward records by clicking and dragging specific records over to the new override. This will make sure all the mods play nicely with each other.
+If you see conflicts with leveled lists and containers like the one below, what you want to do is make an override like so
+
+![CopyingAsOverride](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Copying%20as%20Override.png)
+
+In the window that pops up, scroll all the way down and pick New file (ESL) as below
+
+![ChoosingAFileType](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Choosing%20a%20Filetype.png)
+
+Then give it a name
+
+![NamingTheFile](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Naming%20the%20file.png)
+
+Now you want to scroll down to where the conflict is
+
+![FindingTheConflict](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Finding%20the%20Conflict.png)
+
+And drag it over to the new file you made
+
+![CopyingTheConflictOver](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Copying%20the%20Conflict%20Over.png)
+
+Once you've done making modifications, hit X on the top right and save the plugin
+
+![SavingThePlugin](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Saving%20the%20Plugin.png)
+
+The new plugin will now be in Overwrite. Create a mod with it or leave it there. Just don't delete it.
+
+If the mod you added has these records : Armor, Weapon, Container, Door, Leveled List, Leveled Item and/or NPC, you will have to re-run the Reqtificator. Normally this will be an easy task but due to Serenity being over the 255 plugin limit you will have to perform a workaround.
+
+Download this custom plugins.txt file
+
+Serenity : [Plugins2.txt](https://drive.google.com/file/d/1kXnpNCc7zw_M0zOxXuhMLVXPvL17yeZD/view?usp=sharing)
+Serenity Plus : [Plugins.txt](https://drive.google.com/file/d/1Hw5rOgABxCUfv-1DLerkQXyraON8yCGw/view?usp=sharing)
+
+Add in the ESP of the mod you added
 
