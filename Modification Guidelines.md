@@ -51,10 +51,27 @@ Add in the ESP of the mod you added in relation to the load order on the right p
 
 ![EditingPlugins](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Editing%20Plugins.png)
 
-Then in Mod Organizer 2, Run the Reqtificator from the dropdown and click run. When it asks you for the plugins.txt, point it to this text file you downloaded and edited. It should now run fine.
-
-If any of the mods you added modify NPCs, you will have to re-run Synthesis. Synthesis is a tool created by Noggog to perform what we normally do with zEdit but faster.
+Then in Mod Organizer 2, Run the Reqtificator from the dropdown and click run. When it asks you for the plugins.txt, point it to this text file you downloaded and edited. It should now run fine. If any of the mods you added modify NPCs, you will have to re-run Synthesis. Synthesis is a tool created by Noggog to perform what we normally do with zEdit but faster.
 
 Select Synthesis from the dropdown menu and click Run. If the window that opens is blank, you will want to add External Patcher Programs by clicking this button.
 
-Then you want to browse and head to `Serenity\tools\Synthesis\Patchers` and select one exe file (eg. Face Fixer). Repeat this for all the EXE files in that folder.
+![AddingPatchesSynthesisPart1](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/AddingPatchesSynthesisPart1.png)
+
+Then you want to browse and head to `Serenity\tools\Synthesis\Patchers` and select one exe file (eg. Face Fixer). Repeat this for all the EXE files in that folder. Once you've added everything, click on the small Play-like looking button at the bottom left to run the Patcher. This should take about 30 seconds. Once its done you can click X and you're done with Synthesis.
+
+**Note** as of writing this guide there is a bug with Synthesis where it doesn't save the resulting plugin with the correct header. As such the game will not start. To remedy this, run CreationKit from the dropdown,
+
+Once its loaded up click on Open, Find Synthesis.esp
+
+![OpeningAFileInCreationKit1](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Opening%20a%20File%20in%20Creation%20Kit%201.png)
+
+Click on it and click Set as Active File. Then Press Ok
+![OpeningAFileInCreationKit2](https://raw.githubusercontent.com/ixanza/serenity/master/tutorial%20images/Opening%20a%20File%20in%20Creation%20Kit%202.png)
+
+Once it loads up. Just hit the Save Icon and then close CreationKit.
+
+And that is pretty much how to add mods to Serenity.
+
+### Removing Mods
+
+Johanlh over on Noir has an incredible tutorial on how to remove mods if you so desire. Please check it out on the [Noir Readme](https://github.com/giraldiego/NOIR/blob/master/SETUP.md#remove-tso-music-or-any-other-mod).
