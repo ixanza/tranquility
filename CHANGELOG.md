@@ -58,6 +58,7 @@
 - Fixed Guard Dialog Overhaul SPIKE keywords being removed by the CR
 - Removed the Daedric tag from Forsworn Arrows. No more being smited just for being shot at
 - Removed Forsworn gauntlets from Murbul's outfit to prevent her being cursed
+- Fixed Vampires not getting the silver debuff from Immersive Divine Blessings
 
 ## 2.4.0
 
