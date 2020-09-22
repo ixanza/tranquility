@@ -4,7 +4,7 @@
 
 ### Released at : `22/09/2020`
 
-### Both Profiles
+## Both Profiles
 
 ### Added
 
@@ -43,7 +43,7 @@
 - Swapped to the Loose Version of Interesting NPCs, this may cause longer start up times but this fixes the issues with Ange the Song Bearer crashing the game when you ask her to play you a song.
 - Removed Ordinary Women Headparts from being playable as they can cause CTD
 
-### Plus Profile
+## Plus Profile
 
 ### Added
 
