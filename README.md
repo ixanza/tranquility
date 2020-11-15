@@ -5,6 +5,7 @@
 
 - [Serenity](#serenity)
   - [Preamble](#preamble)
+  - [System Requirements](#system-requirements)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -29,7 +30,6 @@
     - [Followers](#followers)
     - [Audio and Weather](#audio-and-weather)
     - [New Equippables](#new-equippables)
-  - [Serenity Plus](#serenity-plus)
   - [How to start up Serenity](#how-to-start-up-serenity)
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
@@ -48,7 +48,18 @@
 
 ![serenity-banner](cover/Cover.png)
 
-Serenity is my goal of having a vanilla Requiem experience in Skyrim Special Edition. The aim is to provide the feeling of requiem with the stability of Skyrim Special Edition as well as a slew of bug fixes, graphical improvements and Legacy of the Dragonborn integration. This is an ongoing project and changes will definitely be made along the way but the aim is to not stray away from the core Requiem experience.
+Serenity is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.1 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhanced longetivity and replayability while keeping the game fair, balanced and looking great. Serenity is targetted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase.
+
+## System Requirements
+
+Serenity is a mid to high end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p
+
+I made this list with my specs in mind and I am able to get 60FPS in riverwood and whiterun outdoors with Silent Horizon's ENB using the Game Ambient Occlusion settings with these specs
+
+CPU: Ryzen 7 3700x
+GPU: MSI Gaming X Trio Nvidia RTX 2070 Super
+RAM: 4x8 3200Mhz G-Skill RAM
+SSD: Crucial M1 1TB NVME SSD
 
 ## Installation
 
@@ -134,16 +145,14 @@ Copy the all of the files from the `Installation Folder/Game Folder Files` direc
 
 ### ENB
 
-Serenity comes with [Ljoss ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30971) included.
+Serenity comes with [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543) included.
 
-If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Obsidian Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
 A few other ENB suggestions are:
 
-- [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
-- [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
-- [Serio's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30506)
-- [Soul Spectrum ENB](https://www.nexusmods.com/skyrimspecialedition/mods/29675)
+- [Rudy ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
+- [Re-engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
 
 **Note:**
 Please check that vsync is set to disable in enblocal.ini otherwise you will either be stuck compiling shaders or a black screen, or the menu with no options.
@@ -155,6 +164,16 @@ Please check that vsync is set to disable in enblocal.ini otherwise you will eit
 [Requiem](https://www.nexusmods.com/skyrim/mods/19281) is a project with the goal of turning Skyrim into a better roleplaying experience by making game more immersive, semi-realistic and coherent, with the tend to find a compromiss between old school mechanics and more modern approaches.
 
 Requiem is the core mod behind Serenity. It overhauls the entire game with regards to Races, Combat, Standing Stones, Dragons, Perks, Difficulty and much much more. Requiem offers an unleveled world in where everything is static and doesn't level with the player.
+
+Serenity comes with a few modifications to Requiem. This includes but is not limited to:
+
+- Unarmed Tweaks via [Requiem - Unarmed Combat Enhancer](https://www.nexusmods.com/skyrim/mods/75779)
+- Magic Tweaks via [Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+- NPC and Enemy Tweaks via [Requiem - Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/25843)
+- Miscellaneous NPC Tweaks and NPC Vampire expansion via [Requiem - Small Tweaks](https://www.nexusmods.com/skyrim/mods/92679)
+- Religious overhaul via [Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)
+- Vampire overhaul via [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)
+- Dragonborn Expansion is available through [Requiem - Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/34829)
 
 ### Quest and Encounter Mods
 
@@ -187,16 +206,18 @@ The NPC retextures are largely in this order except a select few NPCs
 7. Fresh Faces
 8. Pandorable's NPCs - Dawnguard
 9. Pandorable's NPCs - Dragonborn
-10. Bijin Warmaidens
-11. Bijin Wives
-12. Bijin NPCs
-13. Seranaholic
-14. Valerica
-15. eeekie's Enhanced NPCs
-16. RS Children Overhaul
-17. Cuyima Interesting NPCs
-18. High Poly Inigo
-19. Legacy of the Dragonborn NPC Overhaul
+10. Pandorable's Lethal Ladies
+11. Bijin Warmaidens
+12. Bijin Wives
+13. Bijin NPCs
+14. Seranaholic
+15. Valerica
+16. eeekie's Enhanced NPCs
+17. Toccata as Elisif
+18. RS Children Overhaul
+19. Cuyima Interesting NPCs
+20. High Poly Inigo
+21. Legacy of the Dragonborn NPC Overhaul
 
 For an overview of every single NPC that is retextured. Please see [this section on her guide](https://lexyslotd.com/guide/npc-retextures-page/).
 
@@ -230,22 +251,6 @@ For an overview of every single NPC that is retextured. Please see [this section
 10. Triss Armor Retextured
 11. Volkihar Knight - Vampire Armor
 12. Sithis Armour- Special Edition- Mastercraft Version
-
-## Serenity Plus
-
-Starting with the 2.4.0 version of Serenity, I've included a second profile called Serenity Plus, this includes some overhauls on top of requiem that I will not be including into Serenity as it modifies how base Requiem work. The aim of Serenity has always been to lure newer requiem players so they can understand the mechanics. Serenity Plus however things I add to my requiem experience to make it either harder or more fresh. This will flesh out more in the coming updates. 
-
-For now Serenity Plus contains these additions on top of Serenity
-
-- Requiem - Craftable Items
-- Requiem - Destruction Spell Pack
-- Requiem - Enchantment Tweaks
-- Requiem - Enemy Regeneration Tweak
-- Requiem - Illusion Redone
-- Requiem - Immersive Divine Blessings
-- Requiem - Minor Arcana SSE
-- Requiem - Unarmed Combat Enhancer
-- The Actual Vampiric Thirst for SSE
 
 ## How to start up Serenity
 

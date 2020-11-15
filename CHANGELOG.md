@@ -1,5 +1,116 @@
 # Changelog
 
+## 3.0.0
+
+### Released at: `16/11/2020`
+
+### This update definitely requires a new game. Don't even ask why. Just read the changelog
+
+### Added
+
+- Aspens Ablaze
+- BeastHHBB - Beast Hair Horn Beard and Brow - Vanilla based character creation options and NPC replacer for Khajiit and Argonians
+- Blacksmith Forge Water Fix xEdit Script
+- Crosshair-aligned Crossbow
+- DX Dark Armour
+- DX Druid Armour
+- DX Necromancer Armour
+- FloraFixer - Mutagen Patcher and Data
+- Grass Terrain Remade
+- High Poly Vanilla Hair
+- Honed Metal
+- Honed Metal Voiced
+- Immersive Fallen Trees Patch
+- Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-M'rissi)
+- No Grass in Objects
+- Obisdian Weathers and Systems
+- Obsidian Weathers - True Storms Patch
+- Obsidian Weathers - VIGILANT Integration
+- Pandorable's Lethal Ladies
+- Pride of Valhalla
+- Remiros' Dragonborn Alcohol HD
+- Requiem - GIST Patch
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor
+- Sacred Trees
+- Scion - A Vampire Overhaul
+- Septentrional Landscapes SE
+- Smooth Sky Mesh SSE
+- Snowberries by Mari
+- Thrones of Skyrim
+- Tocatta as Elisif
+- True Storms - Thunder and Rain Redone
+- Vampire Facial Reclamation
+- Water for ENB
+- Word Wall Randomizer (zEdit Patcher)
+- Word Wall Transparency Fix for ENB
+
+### Updated
+
+- AI Overhaul SSE v1.6.4
+- Ave's Interesting NPCs Jewelry Replacer v1.0.1
+- Better Dynamic Majestic Mountains v10
+- BodySlide and Outfit Studio v5.2.0
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold v2.1
+- Deathbell by Mari v1.2
+- DynDOLOD v2.86
+- Eeekie's Enhanced NPCs v2.0.1
+- Elegant Beauty Stunning Eyes Remastered v2.1
+- ENBSeries v448
+- ETHEREAL CLOUDS - Special Edition v3.0
+- Farmhouse Chimneys SE v4.0.5
+- Improved College Entry v2.8
+- JContainers SE v4.1.13
+- JK's Interiors Patch Collection v2.0.1
+- JKs Skyrim - AI Overhaul SSE Patch v1.1.2
+- Legacy of the Dragonborn - Interesting NPCs Patch v1.2
+- Legacy of the Dragonborn - The Curators Companion v4.0.0
+- Legacy of the Dragonborn Patches (Official) v2.4
+- Legacy of the Dragonborn SSE v5.4.2
+- Majestic Mountains - Cathedral Concept v3.2
+- More DBM Shipping Crates v1.1
+- Nether's Follower Framework v2.7
+- Net Script Framework v14
+- NPC AI Process Position Fix v2.12
+- Racemenu v0.4.16
+- Requiem - Craftable Items v4.1.1
+- Requiem - Dragonborn Patch v4.0.0
+- Requiem - Expanded Grimoire v2.0.3
+- Requiem_npc_statefix v3.1
+- Requiem_VampireCollection v2.1a
+- Rudy HQ - More Lights for ENB SE - Bthardamz v1.0a
+- Rudy HQ - More Lights for ENB SE - Chaurus Eggs and Sacs v1.0a
+- Rudy HQ - More Lights for ENB SE - Deathbells and Nirnroots v1.0b
+- Rudy HQ - More Lights for ENB SE - Soul Gems v1.0a
+- Rudy HQ - More Lights for ENB SE - Torchbugs and Moths v1.0b
+- Serana Dialogue Addon v2.0.2
+- Seranaholic v1.84
+- SSE Display Tweaks v0.4.7
+- Synthesis v0.10.16
+
+### Removed
+
+- 360 Movement Behaviour - Moving at full speed going backwards in combat is really OP
+- Bijin Skin - Replaced with Pride of Valhalla
+- Cathedral Weathers - Replaced with Obsidian Weathers
+- Cathedral Weathers MCM - Replaced with Obsidian Weathers
+- Expresive Facegen Morphs - Has some issues with male facegen and High Poly Head
+- Lucid Rain - Replaced with Obsidian Weathers
+- Nether's Follower Framework - Look. I don't play with followers. All my balance tweaks are meant for at most 1 follower. Nether's lets you get up to 10 followers with the minimum being 2. I'm just not about that life. You can already break this by having Lucien and Inigo. And both of them don't use this either. Plus it wasn't working well with requiem's follower lockpicking stuff
+- Obsidian Mountain Fogs - Not needed with Obsidian Weathers
+- PrivateProfileRedirector SE - Faster game start (INI file cacher) - This seems to affect ENBs and making their weathers not update
+- Realistic Aspen Trees - Replaced with Aspens Ablaze
+- Realistic Water Two - Replaced with Water for ENB
+- Real Rain - Replaced with Obsidian Weathers
+- Requiem - Illusion Redone - Conflicts with the new Expanded Grimoire Update
+- Vampiric Thirst - Replaced with Scion
+
+### Custom Tweaks and Fixes
+
+- Both Mace and Sword of the Crusader is no longer treated as daedric
+- Fix crash caused by NPC blackfaces
+- Nerfed INIGO's bow to iron tier allow displaying it in LOTD without it being too overpowered. Did the same with Griffith's Daedric Gauntlets.
+- Removed non plus profile. I don't play it. I don't want to offer support for it. I like my additional shit added onto it
+
 ## 2.5.0
 
 ### Released at : `22/09/2020`
@@ -43,7 +154,7 @@
 - Swapped to the Loose Version of Interesting NPCs, this may cause longer start up times but this fixes the issues with Ange the Song Bearer crashing the game when you ask her to play you a song.
 - Removed Ordinary Women Headparts from being playable as they can cause CTD
 
-## Plus Profile
+## 2.5.0 Plus Profile
 
 ### Added
 
@@ -133,7 +244,7 @@
 - Addressed issue with Companions not sending you on other quests (Farkas only sending you to clear out areas and not doing hired muscle as an example)
 - Removed Honed Metal from Miscellaneous Merged as it wasn't working properly
 
-## Plus Profile
+## 2.4.0 Plus Profile
 
 ### Added
 
