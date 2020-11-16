@@ -1,5 +1,17 @@
 # Changelog
 
+## 3.0.1
+
+### Released at: `16/11/2020`
+
+### Added
+
+- Requiem - Mortal Enemies - Vanilla Movement
+
+### Custom Tweaks and Fixes
+
+- Fixed Dark face on Serana and Rinori Imaryn
+
 ## 3.0.0
 
 ### Released at: `16/11/2020`
