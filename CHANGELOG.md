@@ -13,7 +13,13 @@
 - Serana Re-Imagined
 - Hood Plus Hair for Serana Re-Imagined
 - Cathedral or Obsidian Weathers Storm Sky Fix for ENB
-- Bandolier - Bags and Pouches for NPC -Names Update-
+- Bandolier - Bags and Pouches for NPC
+- Dawnguard Don't Hunt Cured Vampires
+- Eye Normal Map Fix SSE
+- Skyrim Ultimate Eyemeshes Ruhmastered
+- Eyes AO Clipping Fix
+- ENB Brow Fix
+- Double Sided Vertex Human Mouth Fix SSE
 
 ### Updated
 
