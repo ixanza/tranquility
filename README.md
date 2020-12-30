@@ -145,13 +145,14 @@ Copy the all of the files from the `Installation Folder/Game Folder Files` direc
 
 ### ENB
 
-Serenity comes with [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543) included.
+Serenity comes with [Rudy ENB for Obsidian weathers](https://www.nexusmods.com/skyrimspecialedition/mods/4796) included.
 
 If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Obsidian Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
 A few other ENB suggestions are:
 
 - [Rudy ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
+- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 - [Re-engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
 
 **Note:**
@@ -170,7 +171,7 @@ Serenity comes with a few modifications to Requiem. This includes but is not lim
 - Unarmed Tweaks via [Requiem - Unarmed Combat Enhancer](https://www.nexusmods.com/skyrim/mods/75779)
 - Magic Tweaks via [Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
 - NPC and Enemy Tweaks via [Requiem - Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/25843)
-- Miscellaneous NPC Tweaks and NPC Vampire expansion via [Requiem - Small Tweaks](https://www.nexusmods.com/skyrim/mods/92679)
+- Miscellaneous NPC Tweaks and NPC Vampire expansion via [Requiem - Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Religious overhaul via [Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)
 - Vampire overhaul via [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)
 - Dragonborn Expansion is available through [Requiem - Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/34829)
@@ -180,6 +181,8 @@ Serenity comes with a few modifications to Requiem. This includes but is not lim
 Serenity comes with a wide variety of new quest and encounters. A few are listed below.
 
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) is a very large mod that shapes the way how you play the game. The museum is a very robust house mod with the ability to display almost every item in the game and also has an extensive mod support which is utilised to some extent in Serenity. Serenity also comes with a Requiem display room for it thanks to [pamposzek](https://www.nexusmods.com/skyrimspecialedition/mods/36998).
+
+[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) adds over 250 fully voiced NPCs, 25+ followers, 15+ marriage candidates and 50+ quests to fully flesh out the world of Skyrim. Every hold will feel more lively with more NPCs walking and talking with each other. For Balance reasons,all follower recruitment dialog has been disabled until you complete the Dragon Rising quest
 
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576?tab=files) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. Missives has been extended to Solstheim as well as Wyrmstooth.
 
@@ -223,7 +226,7 @@ For an overview of every single NPC that is retextured. Please see [this section
 
 ### Followers
 
-[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
+[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak. For balance reasons, all interaction dialog has been disabled until after the completion of Dragon Rising
 
 [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
 

@@ -2,67 +2,84 @@
 
 ## 3.1.0
 
-### Released at: `Unreleased`
+### Released at: `30/12/2020`
 
 ### This update requires a new game
 
 ### Added
 
-- Requiem - Minor Arcana (Requiem 4.0.1)
-- Perseids Inns and Taverns - Realistic Room Rental
-- Serana Re-Imagined
-- Hood Plus Hair for Serana Re-Imagined
-- Cathedral or Obsidian Weathers Storm Sky Fix for ENB
 - Bandolier - Bags and Pouches for NPC
+- Cathedral or Obsidian Weathers Storm Sky Fix for ENB
+- Cloaks Of Skyrim Retextured SE
 - Dawnguard Don't Hunt Cured Vampires
-- Eye Normal Map Fix SSE
-- Skyrim Ultimate Eyemeshes Ruhmastered
-- Eyes AO Clipping Fix
-- ENB Brow Fix
 - Double Sided Vertex Human Mouth Fix SSE
+- ENB Brow Fix
+- Eye Normal Map Fix SSE
+- Eyes AO Clipping Fix
+- Hood Plus Hair for Serana Re-Imagined
+- Perseids Inns and Taverns - Realistic Room Rental
+- Requiem - Minor Arcana (Requiem 4.0.1)
+- Serana Re-Imagined
+- Skyrim Ultimate Eyemeshes Ruhmastered
+- WoW Dragon Mounds CTD Fix
 
 ### Updated
 
-- No Grass in Objects v6
-- Unofficial Skyrim Special Edition Patch v4.24b
-- Dear Diary v2.2.5
 - Alternate Start - Live Another Life - SSE v4.1.4
-- Legacy of the Dragonborn SSE v5.4.4
-- Legacy of The Dragonborn - museum dome sunlight and shadows v0.4
-- Requiem - Dragonborn Patch v4.0.2
-- Requiem - Expanded Grimoire v2.1.1
-- Lanterns Of Skyrim II v3.0.0
+- Better Dynamic Ash v1.01
+- Better Dynamic Snow v3.0
+- Better Falskaar and Wyrmstooth Map With Roads - Updated to SSE Version
+- Dear Diary v2.2.5
+- DynDOLOD v2.87
+- ENBSeries v452
 - Enhanced Vanilla Trees SE v2.1.0
 - EVG Conditional Idles v1.4
 - Guard Dialogue Overhaul SE v2.14
-- Serana Dialogue Add-On v2.1.1
-- Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0j
-- Legacy of the Dragonborn Patches (Official) v2.4.1
+- Lanterns Of Skyrim II v3.0.0
+- Legacy of The Dragonborn - museum dome sunlight and shadows v0.4
 - Legacy of the Dragonborn - The Curators Companion v4.1.0
+- Legacy of the Dragonborn Patches (Official) v2.4.1
+- Legacy of the Dragonborn SSE v5.4.4
+- MAPS - Updated to RUSTIC MAPS
+- No Grass in Objects v6
+- Requiem - Dragonborn Patch v4.0.2
+- Requiem - Expanded Grimoire v2.1.1
 - Requiem Patch Central v4.02
-- Better Dynamic Snow v3.0
-- Better Dynamic Ash v1.01
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0j
+- Serana Dialogue Add-On v2.2.1
+- Synthesis v0.12.4
+- Unofficial Skyrim Special Edition Patch v4.24b
 
 ### Removed
 
-- NPC AI Process Positioner Fix - Can cause crashes while sleeping in random locations
-- Inn Room Costs - Mod was hidden and will probably never come back
-- Requiem - Minor Arcana SSE - Replaced with Requiem Minor Arcana (Requiem 4.0.1)
-- EVG Animation Variance - Seems to cause crashes with AllGUD
-- Better Dynamic Snow - xEdit Patcher Sciprt - Not needed with Better Dynamic Snow 3.0
 - Better Dynamic Majestic Mountains - Not Needed with Better Dynamic Snow 3.0
-- Requiem - ESF Companions Patch - We're not using the full version, this was made for the full version
+- Better Dynamic Snow - xEdit Patcher Sciprt - Not needed with Better Dynamic Snow 3.0
+- Cloaks of Skyrim Ultra HD - Replaced with Cloaks of Skyrim Retextured SE
+- Cloaks of the Nords - Replaced with Cloaks of Skyrim Retextured SE
+- EVG Animation Variance - Seems to cause crashes with AllGUD
 - Flora Fixer - May cause save game bloat due to how many scripts it attaches to plants
 - Honed Metal - Causes unecessary crashes with the list
-- Seranaholic - Replaced with Serana Re-Imagined
+- Honed Metal Voiced - Removed Honed Metal
 - Hood Plus Hair for Seranaholic - Replaced with Serana Re-Imageind
+- Inn Room Costs - Mod was hidden and will probably never come back
+- NPC AI Process Positioner Fix - Can cause crashes while sleeping in random locations
+- Requiem - ESF Companions Patch - We're not using the full version, this was made for the full version
+- Requiem - Minor Arcana SSE - Replaced with Requiem Minor Arcana (Requiem 4.0.1)
+- Seranaholic - Replaced with Serana Re-Imagined
 
 ### Custom Tweaks and Fixes
 
-- Reinstalled Eeekie's Enhanced NPCs - This should fix Tolfdir's Anime hair and Brynjolf's weird hair
+- Disabled the Modesty and Shield covering animations from EVG Conditional Idles
+- Enabled Fearless and Steadfast Enemies in Requiem by Default. This should help with enemies yielding and immediately going back to full HP
+- Fixed gloves from NordWarUA's mods (GAR, New Legion) from going missing with a few types of armors (thanks to NoirC for providing the fixed meshes, you're awesome)
+- Fixed Silver Hand Light Armor having too much Armor Rating
+- Followers such as Inigo and everyone from Interesting NPCs now require you to complete Dragon Rising before you can interact with them or recruit them. This is a needed balancing act as people were just cheesing bleak falls barrow with Gorr. Lucien is still recritable as he's as useless as you are
 - Made Valerica and Ezra Never Nude
 - Reinstalled CBBE with Never Nude option as the underwear model was kinda weird
+- Reinstalled Eeekie's Enhanced NPCs - This should fix Tolfdir's Anime hair and Brynjolf's weird hair
+- Repacked Interesting NPCs into a BSA. Should help a bit with load times
 - Should have Fixed 3DNPC Quest Azzarian's Gold from breaking due to Vigilant
+- Sword of the Ancient Tongues is no longer treated as daedric. Now treated as elven for balance and not to smite you when you receive it
 
 ## 3.0.1
 
