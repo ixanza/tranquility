@@ -48,7 +48,7 @@
 
 ![serenity-banner](cover/Cover.png)
 
-Serenity is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.1 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhanced longetivity and replayability while keeping the game fair, balanced and looking great. Serenity is targetted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase.
+Serenity is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.1 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targetted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase.
 
 ## System Requirements
 
