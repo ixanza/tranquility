@@ -1,9 +1,9 @@
-# Serenity
+# Serenity 2
 
 ![unique-installs](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Fmetrics%2Fbadge%2Fserenity%2Funique_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=%20Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fserenity%2Fbadge.json)
 
-- [Serenity](#serenity)
+- [Serenity 2](#serenity-2)
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
   - [Installation](#installation)
@@ -26,7 +26,6 @@
     - [Requiem](#requiem)
     - [Quest and Encounter Mods](#quest-and-encounter-mods)
     - [Expanded Cities Towns and Villages](#expanded-cities-towns-and-villages)
-    - [NPC Retextures](#npc-retextures)
     - [Followers](#followers)
     - [Audio and Weather](#audio-and-weather)
     - [New Equippables](#new-equippables)
@@ -34,6 +33,7 @@
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
+    - [Optional Survival Config](#optional-survival-config)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -145,18 +145,15 @@ Copy the all of the files from the `Installation Folder/Game Folder Files` direc
 
 ### ENB
 
-Serenity comes with [Rudy ENB for Obsidian weathers](https://www.nexusmods.com/skyrimspecialedition/mods/4796) included.
+Serenity comes with [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113) included.
 
-If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Obsidian Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
 A few other ENB suggestions are:
 
-- [Rudy ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
+- [Serio's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30506)
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 - [Re-engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
-
-**Note:**
-Please check that vsync is set to disable in enblocal.ini otherwise you will either be stuck compiling shaders or a black screen, or the menu with no options.
 
 ## Noteworthy Mods
 
@@ -168,12 +165,10 @@ Requiem is the core mod behind Serenity. It overhauls the entire game with regar
 
 Serenity comes with a few modifications to Requiem. This includes but is not limited to:
 
-- Unarmed Tweaks via [Requiem - Unarmed Combat Enhancer](https://www.nexusmods.com/skyrim/mods/75779)
 - Magic Tweaks via [Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
 - NPC and Enemy Tweaks via [Requiem - Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/25843)
 - Miscellaneous NPC Tweaks and NPC Vampire expansion via [Requiem - Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Religious overhaul via [Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)
-- Vampire overhaul via [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)
 - Dragonborn Expansion is available through [Requiem - Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/34829)
 
 ### Quest and Encounter Mods
@@ -186,43 +181,9 @@ Serenity comes with a wide variety of new quest and encounters. A few are listed
 
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576?tab=files) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. Missives has been extended to Solstheim as well as Wyrmstooth.
 
-[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendar and Daedra. It has also been patched to work well with Requiem. For a good time you want to be atleast level 30 before attempting this.
-
-[Wyrmstooth](https://archive.org/details/wyrmstooth1.18SSE) adds a new world and a series of quests involving killing a dragon for a bounty. It's a very well done quest mod.
-
 ### Expanded Cities Towns and Villages
 
 Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289) along with all of the interior patches for it.
-
-### NPC Retextures
-
-I have to give credits to Darkladylexy from the popular [Lexy's Legacy of the Dragonborn Special Edition](https://lexyslotd.com) guide for her extremely well done choices of NPC mods. It is a combination of a lot of NPC mods with carefully picking which npc comes from which mod itself. For an overview of every single NPC that is retextured. Please see [this section on her guide](https://lexyslotd.com/guide/npc-retextures-page/)
-
-The NPC retextures are largely in this order except a select few NPCs
-
-1. WICO - Windsong Immersive Character Overhaul
-2. Followers Hirelings and Housecarls
-3. Metalsabers Beautiful Orcs of Skyrim
-4. The Ordinary Women
-5. Pandorable's NPCs
-6. Kalilies NPCs
-7. Fresh Faces
-8. Pandorable's NPCs - Dawnguard
-9. Pandorable's NPCs - Dragonborn
-10. Pandorable's Lethal Ladies
-11. Bijin Warmaidens
-12. Bijin Wives
-13. Bijin NPCs
-14. Seranaholic
-15. Valerica
-16. eeekie's Enhanced NPCs
-17. Toccata as Elisif
-18. RS Children Overhaul
-19. Cuyima Interesting NPCs
-20. High Poly Inigo
-21. Legacy of the Dragonborn NPC Overhaul
-
-For an overview of every single NPC that is retextured. Please see [this section on her guide](https://lexyslotd.com/guide/npc-retextures-page/).
 
 ### Followers
 
@@ -239,21 +200,6 @@ For an overview of every single NPC that is retextured. Please see [this section
 [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369) provides cloaks to various NPCs. For the purpose of balance and not to be overpowered with Requiem, the regular cloaks cannot be enchanted and the pre-enchanted cloaks have been toned down a level or two.
 
 [Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6308) adds around 100 new weapons into the game that is evenly distributed to all the enemies and NPCs.
-
-[Requiem - OUT-Fitted](https://www.nexusmods.com/skyrimspecialedition/mods/34496) is a fantastic mod by jap2112 that incorporates nearly a dozen mods to fit into the world of Requiem. Serenity is using all but one of the suite which covers:
-
-1. Common Clothes and Armors
-2. Guard Armor Replacer
-3. New Legion
-4. Expanded Skyrim Weaponry
-5. Blackened Steel Armor and Weapons
-6. Unplayable Faction Armor
-7. NordwarUA's Race Armor Expansion
-8. Nordic Wanderer
-9. Black Mage Armor
-10. Triss Armor Retextured
-11. Volkihar Knight - Vampire Armor
-12. Sithis Armour- Special Edition- Mastercraft Version
 
 ## How to start up Serenity
 
@@ -283,6 +229,10 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 - Lucien (If you set a nickname that's supported he can call you by that name)
 - Requiem (If you want to enable fast travel. The mod Fast Travel Costs is installed to make it balanced)
 - XP32 Skeleton Styles
+
+### Optional Survival Config
+
+Included in Serenity is SunHelm Survival. It is already tweaked for Requiem Compatibility as well as a few game tweaks I use. It is disabled by default and will turn on when you sleep or if you manually activate it. If you're not a fan of this, just disable it in the MCM option. **DO NOT UNINSTALL THE MOD**
 
 ## Other Post Installation FAQ
 
@@ -316,7 +266,6 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- lilmoefow - for the requiem patches over on the requiem discord
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 
