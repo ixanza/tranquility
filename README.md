@@ -20,7 +20,6 @@
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-    - [Copy Game Folder Files](#copy-game-folder-files)
     - [ENB](#enb)
   - [Noteworthy Mods](#noteworthy-mods)
     - [Requiem](#requiem)
@@ -139,10 +138,6 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ## Post-Installation
 
-### Copy Game Folder Files
-
-Copy the all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
-
 ### ENB
 
 Serenity comes with [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113) included.
@@ -227,12 +222,11 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 - AllGUD
 - SkyUI
 - Lucien (If you set a nickname that's supported he can call you by that name)
-- Requiem (If you want to enable fast travel. The mod Fast Travel Costs is installed to make it balanced)
 - XP32 Skeleton Styles
 
 ### Optional Survival Config
 
-Included in Serenity is SunHelm Survival. It is already tweaked for Requiem Compatibility as well as a few game tweaks I use. It is disabled by default and will turn on when you sleep or if you manually activate it. If you're not a fan of this, just disable it in the MCM option. **DO NOT UNINSTALL THE MOD**
+Included in Serenity is SunHelm Survival. It is already tweaked for Requiem Compatibility as well as a few game tweaks I use. It is disabled by default and will prompt to turn on when you sleep or if you manually activate it. If you're not a fan of this, just disable it in the MCM option. **DO NOT UNINSTALL THE MOD**
 
 ## Other Post Installation FAQ
 
