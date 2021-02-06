@@ -11,7 +11,7 @@
 
 **Download Changes**:
 
-- Added [Reshade 4.7.7z](https://wabbajack.b-cdn.net/Reshade 4.7.7z_e73b517d-799a-4dcb-b83b-83adf9ad7090)
+- Added [Reshade 4.7.7z](<https://wabbajack.b-cdn.net/Reshade 4.7.7z_e73b517d-799a-4dcb-b83b-83adf9ad7090>)
 - Added [Rudy ENB SE for Cathedral Weathers](http://nexusmods.com/skyrimspecialedition/mods/39113)
 - Added [A Lovely Letter Alternate Routes](http://nexusmods.com/skyrimspecialedition/mods/21916)
 - Added [ACC - Autorun Console Commands](http://nexusmods.com/skyrimspecialedition/mods/24919)
