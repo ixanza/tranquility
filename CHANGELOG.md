@@ -64,7 +64,6 @@
 - Added [CC's Castle Volkihar Reborn](http://nexusmods.com/skyrimspecialedition/mods/10729)
 - Added [Charred Logs for KD - Realistic Fireplaces SE](http://nexusmods.com/skyrimspecialedition/mods/29376)
 - Added [Choose Your Own Arch-Mage](http://nexusmods.com/skyrimspecialedition/mods/30887)
-- Added [Data_Video_BGS_Logo.bik]()
 - Added [Dawnguard Fortress Improved](http://nexusmods.com/skyrimspecialedition/mods/9221)
 - Added [Dawnguard Map Markers](http://nexusmods.com/skyrimspecialedition/mods/20931)
 - Added [Deadly Spell Impacts](http://nexusmods.com/skyrimspecialedition/mods/12939)
