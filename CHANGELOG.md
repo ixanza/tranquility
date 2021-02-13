@@ -1,5 +1,64 @@
 # Changelog
 
+## Serenity 2 v0.2.0
+
+**Build at:** `2/13/2021 2:18:49 PM`
+
+**Info**:
+
+- Download Size change: -90MB (Total: 58.8GB)
+- Install Size change: -565.8MB (Total: 80.3GB)
+
+**Download Changes**:
+
+- Added [3DNPC - Art and Sacrifice Aggression Bug Fix](http://nexusmods.com/skyrimspecialedition/mods/45496)
+- Added [aMidianBorn Armor Variants Lite](http://nexusmods.com/skyrimspecialedition/mods/45160)
+- Added [Autorun](http://nexusmods.com/skyrimspecialedition/mods/45451)
+- Added [Blended Roads - Medieval Bridges](http://nexusmods.com/skyrimspecialedition/mods/8834)
+- Added [Butterflies Land True](http://nexusmods.com/skyrimspecialedition/mods/29434) - Fixes #20
+- Added [Buyable Golden Claw](http://nexusmods.com/skyrimspecialedition/mods/24689)
+- Added [Dynamic Animation Replacer](http://nexusmods.com/skyrimspecialedition/mods/33746)
+- Added [Enhanced Reanimation](http://nexusmods.com/skyrimspecialedition/mods/43500)
+- Added [Horses for Followers](http://nexusmods.com/skyrimspecialedition/mods/45500)
+- Added [Lost of T'Skyrim - ENB Particle Lights - Dwemer Lanterns - Ancient Dwemer Metal Patch](http://nexusmods.com/skyrimspecialedition/mods/9951)
+- Added [Lost of T'Skyrim - Ennead Banners - RUGNAROK Patch](http://nexusmods.com/skyrimspecialedition/mods/9951)
+- Added [Lost of T'Skyrim - Rudy HQ - Bthardamz - Dwemer Ichor Barrel Patch](http://nexusmods.com/skyrimspecialedition/mods/9951)
+- Added [Patches by Phoenix and Umgak - Radiant Requirements TPF Preset](http://nexusmods.com/skyrimspecialedition/mods/26092)
+- Added [Radiant Requirements MCM](http://nexusmods.com/skyrimspecialedition/mods/45427)
+- Added [Requiem - aMidianBorn Armor Variants Lite Patch - AOS Patch](http://nexusmods.com/skyrimspecialedition/mods/45568)
+- Added [Requiem - aMidianBorn Armor Variants Lite Patch - Heavy Armoury Patch](http://nexusmods.com/skyrimspecialedition/mods/45568)
+- Added [Requiem - aMidianBorn Armor Variants Lite Patch - ISC Patch](http://nexusmods.com/skyrimspecialedition/mods/45568)
+- Added [Requiem - aMidianBorn Armor Variants Lite Patch](http://nexusmods.com/skyrimspecialedition/mods/45568)
+- Added [Requiem - small tweaks SE - Better Forgotten Vale](http://nexusmods.com/skyrimspecialedition/mods/42633)
+- Added [Requiem - small tweaks SE - NPC Statefix](http://nexusmods.com/skyrimspecialedition/mods/42633)
+- Added [Requiem - small tweaks SE - Vampire Collection](http://nexusmods.com/skyrimspecialedition/mods/42633)
+- Added [Requiem - Unarmed Combat Enhancer](http://nexusmods.com/skyrimspecialedition/mods/42541)
+- Added [Skyrim Reputation - Fixed and Patched](http://nexusmods.com/skyrimspecialedition/mods/42538)
+- Added [Skyrim Reputation](http://nexusmods.com/skyrimspecialedition/mods/22374)
+- Added [Sleek Wolf Armor for Males and Females (CBBE)](http://nexusmods.com/skyrimspecialedition/mods/44812)
+- Added [Sleek Wolf Armor for Males and Females (CBBE) - Armor Variants Lite Patch](http://nexusmods.com/skyrimspecialedition/mods/44812)
+- Added [Smooth Combat - Non Combat Animation System](http://nexusmods.com/skyrimspecialedition/mods/45221)
+- Added [Viewable Faction Ranks](http://nexusmods.com/skyrimspecialedition/mods/17924)
+- Added [Word Wall Transparency Fix for ENB](http://nexusmods.com/skyrimspecialedition/mods/41463)
+- Updated [Andrealphus' Gameplay Tweaks - Stones of Barenziah - Solstheim](http://nexusmods.com/skyrimspecialedition/mods/27939)
+- Updated [Enhanced Blood Textures SE - Blood Alpha Transparency](http://nexusmods.com/skyrimspecialedition/mods/2357)
+- Updated [LeanWolf's Better-Shaped Weapons SE](http://nexusmods.com/skyrimspecialedition/mods/2017) - Fixes #18
+- Updated [Non-Exploitable Crossbow Reloading SE](http://nexusmods.com/skyrimspecialedition/mods/29869)
+- Updated [OnHit Animations Framework - SSE](http://nexusmods.com/skyrimspecialedition/mods/42574)
+- Updated [Patches by Phoenix and Umgak - AllGUD Conditions Fix](http://nexusmods.com/skyrimspecialedition/mods/26092)
+- Removed [ACC - Autorun Console Commands](http://nexusmods.com/skyrimspecialedition/mods/24919)
+- Removed [Requiem - Minor Arcana (Requiem 4.0.1)](http://nexusmods.com/skyrim/mods/105528)
+
+**Tweaks**:
+
+- Fixed Markarth Heavy guards using Riften's chestplate
+- Fixed word wall transparency
+- Nerfed a few LOTD items, Cyrus Sabre no longer 100% chance to stagger, now its 25%
+- Regenerated DynDOLOD
+- Regenerated LODGEN
+- Regenerated Facegen for Vampire Collection
+- Regenerated Synthesis
+
 ## Serenity 2 v0.1.0
 
 **Build at:** `2/6/2021 5:14:11 PM`
