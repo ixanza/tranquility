@@ -1,5 +1,55 @@
 # Changelog
 
+## Serenity 2 v0.3.0
+
+**Build at:** `2/13/2021 2:18:49 PM`
+
+**Info**:
+
+- Download Size change: -1.5GB (Total: 60.3GB)
+- Install Size change: -5.6GB (Total: 85.9GB)
+
+**Download Changes**:
+
+- Added [Dynamic Volumetric Lighting and Sun Shadows](http://nexusmods.com/skyrimspecialedition/mods/44483)
+- Added [ElSopa - Campfire HD SE](http://nexusmods.com/skyrimspecialedition/mods/24511)
+- Added [Fossil Mining Map Markers (SSE Port)](http://nexusmods.com/skyrimspecialedition/mods/33596)
+- Added [Iconic's Remastered Paragon Gems Retexture](http://nexusmods.com/skyrimspecialedition/mods/45734)
+- Added [JK's Blue Palace](http://nexusmods.com/skyrimspecialedition/mods/45324)
+- Added [KS Hairdos SSE](http://nexusmods.com/skyrimspecialedition/mods/6817)
+- Added [Legacy of The Dragonborn museum dome improved](http://nexusmods.com/skyrimspecialedition/mods/45655)
+- Added [Legacy of the Dragonborn Plaques Retexture](http://nexusmods.com/skyrimspecialedition/mods/45904)
+- Added [Mr. Dragonfly ENB Particle Light](http://nexusmods.com/skyrimspecialedition/mods/45664)
+- Added [Particle Lights For ENB SE - Paragon Gems](http://nexusmods.com/skyrimspecialedition/mods/45761)
+- Added [Patches by Phoenix and Umgak - Revamped Assets Skyrim - Weapon Racks Patch](http://nexusmods.com/skyrimspecialedition/mods/26092)
+- Added [Rally's Solstheim Shrines](http://nexusmods.com/skyrimspecialedition/mods/45867)
+- Added [Requiem - Expanded Grimoire - Special Feats Patch](http://nexusmods.com/skyrimspecialedition/mods/39214)
+- Added [Requiem - Noxcrab's Tweaks - Illusion Redone](http://nexusmods.com/skyrimspecialedition/mods/42591)
+- Added [Requiem - small tweaks SE - Knockdown Tweaks](http://nexusmods.com/skyrimspecialedition/mods/42633)
+- Added [Requiem - Special Feats](http://nexusmods.com/skyrimspecialedition/mods/42588)
+- Added [Salt and Wind - Rough Hair for KS Hairdos SE](http://nexusmods.com/skyrimspecialedition/mods/16582)
+- Added [Smooth Magic Casting Animation](http://nexusmods.com/skyrimspecialedition/mods/45799)
+- Added [SSE Gameplay Tweaks](http://nexusmods.com/skyrimspecialedition/mods/41953)
+- Removed [JK's Warmaiden's - ELFX Patch](http://nexusmods.com/skyrimspecialedition/mods/33685)
+- Updated [BeastHHBB - Beast Hair Horn Beard and Brow - Vanilla based character creation options and NPC replacer for Khajiit and Argonians](http://nexusmods.com/skyrimspecialedition/mods/38480)
+- Updated [Cathedral - 3D Mountain Flowers](http://nexusmods.com/skyrimspecialedition/mods/41312)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Flinching - Script Free Edition](http://nexusmods.com/skyrimspecialedition/mods/42550)
+- Updated [Guard Dialogue Overhaul SE](http://nexusmods.com/skyrimspecialedition/mods/22075)
+- Updated [Horses for Followers](http://nexusmods.com/skyrimspecialedition/mods/45500)
+- Updated [JK's Interiors Patch Collection](http://nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [Requiem - Unarmed Combat Enhancer](http://nexusmods.com/skyrimspecialedition/mods/42541)
+- Updated [Rudy ENB SE for Cathedral Weathers](http://nexusmods.com/skyrimspecialedition/mods/39113)
+- Updated [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.14.1/Synthesis.zip)
+
+**Tweaks and Fixes**:
+
+- Added Horse ownership to the horses at Talos Pale Pass. No more free horses (fixes #21)
+- Disabled Eating food during combat. Potions are still usable (configurable within SSE Display Tweaks Mod)
+- You can now stack unused training levels. Not using your training opportunity will add 5 more to the next level (configurable within SSE Display Tweaks Mod)
+- Gold used for training can no longer be pickpocketed back from trainers (configurable within SSE Display Tweaks Mod)
+- Bound Sword, Dagger, War Axe, Mace and Light Bow are now novice tier spells. The 2Handed Bound weapons are still apprentice level
+
 ## Serenity 2 v0.2.0
 
 **Build at:** `2/13/2021 2:18:49 PM`
