@@ -1,5 +1,89 @@
 # Changelog
 
+## Serenity 2 v1.0.0
+
+**Build at:** `2/13/2021 2:18:49 PM`
+
+**Info**:
+
+- Download Size change: 762.3MB (Total: 59.5GB)
+- Install Size change: 1.5GB (Total: 84.4GB)
+
+**Download Changes**:
+
+- Added [3D Junipers - Trees and Berries](http://nexusmods.com/skyrimspecialedition/mods/43852)
+- Added [4K SMIM Whiterun Bench](http://nexusmods.com/skyrimspecialedition/mods/32164)
+- Added [Adamantium Helm of Tohan - A Morrowind Artifact for Skyrim SSE](http://nexusmods.com/skyrimspecialedition/mods/45847)
+- Added [Argonians Enhanced](http://nexusmods.com/skyrimspecialedition/mods/4830)
+- Added [Authentic Eyes](http://nexusmods.com/skyrimspecialedition/mods/36063)
+- Added [Beard stubble](http://nexusmods.com/skyrimspecialedition/mods/42809)
+- Added [Beastly Smiles](http://nexusmods.com/skyrimspecialedition/mods/15933)
+- Added [Better beast race scars](http://nexusmods.com/skyrimspecialedition/mods/29180)
+- Added [Boreal Boats LE](http://nexusmods.com/skyrim/mods/100562)
+- Added [Cathedral Landscapes - Fixed Bridge Meshes](http://nexusmods.com/skyrimspecialedition/mods/45970)
+- Added [CC's Remastered Murals](http://nexusmods.com/skyrimspecialedition/mods/45241)
+- Added [Expressive Facial Animation -Female Edition-](http://nexusmods.com/skyrimspecialedition/mods/19181)
+- Added [Expressive Facial Animation -Male Edition-](http://nexusmods.com/skyrimspecialedition/mods/19532)
+- Added [Forsworn and Blackblood and Boethiah Tattoos 2k](http://nexusmods.com/skyrim/mods/76486)
+- Added [HD Dead Trees and Driftwoods](http://nexusmods.com/skyrimspecialedition/mods/35308)
+- Added [High Poly Vanilla Hair](http://nexusmods.com/skyrimspecialedition/mods/41863)
+- Added [Immersive Mouth and Teeth - Skyrim Version](http://nexusmods.com/skyrimspecialedition/mods/12335)
+- Added [Immersive Mouth and Teeth for Orcs](http://nexusmods.com/skyrimspecialedition/mods/27343)
+- Added [Just Fangs From BVFE - Modder's Resource](http://nexusmods.com/skyrimspecialedition/mods/33779)
+- Added [Legacy of the Dragonborn CBBE Patch](http://nexusmods.com/skyrimspecialedition/mods/44045)
+- Added [Lost of T'Skyrim](http://nexusmods.com/skyrimspecialedition/mods/9951)
+- Added [Males Of Skyrim by zzjay  -  with Better Male Feet and High poly hands - SE](http://nexusmods.com/skyrimspecialedition/mods/37485)
+- Added [Mild Complexions](http://nexusmods.com/skyrimspecialedition/mods/28510)
+- Added [Mild Hair Colors](http://nexusmods.com/skyrimspecialedition/mods/27013)
+- Added [Night Eyes - Xanza's Edit.7z](https://wabbajack.b-cdn.net/Night Eyes - Xanza's Edit.7z_56bc76ad-42ca-4221-b9ca-c22592de037f)
+- Added [Northborn Scars](http://nexusmods.com/skyrimspecialedition/mods/720)
+- Added [PAINTERLY - a High Res Vanilla Warpaint Retexture](http://nexusmods.com/skyrim/mods/67147)
+- Added [Particle Lights For ENB SE - Bugs in a Jar](http://nexusmods.com/skyrimspecialedition/mods/43609)
+- Added [Patches by Phoenix and Umgak - Xenius Character Enhancement - Dirt Masks](http://nexusmods.com/skyrimspecialedition/mods/26092)
+- Added [Real Ice ALL-IN-ONE Installer by morpheas768-5388-V3.7z](https://wabbajack.b-cdn.net/Real Ice ALL-IN-ONE Installer by morpheas.7z_5cb41056-261f-45b2-a5c7-5b34a0e1abca)
+- Added [Shrine of Azura HD](http://nexusmods.com/skyrimspecialedition/mods/44698)
+- Added [Skeever Tail HD](http://nexusmods.com/skyrimspecialedition/mods/25319)
+- Added [Skyland - Solitude](http://nexusmods.com/skyrimspecialedition/mods/24252)
+- Added [Smooth Random Sprint Animation](http://nexusmods.com/skyrimspecialedition/mods/46193)
+- Added [Solitude Mesh Fixes](http://nexusmods.com/skyrimspecialedition/mods/29621)
+- Added [Static Mesh improvement Mod - SMIM - Quality Addon](http://nexusmods.com/skyrimspecialedition/mods/44388)
+- Added [SUEMR SSE with Bijin AIO 2019 Support](http://nexusmods.com/skyrimspecialedition/mods/18147)
+- Added [The Gifts of Akatosh](http://nexusmods.com/skyrimspecialedition/mods/9865)
+- Added [Thunderbolt - HD Lightning](http://nexusmods.com/skyrimspecialedition/mods/46024)
+- Added [Ultimate Combat and Creatures Behaviour compatibility for Nemesis](http://nexusmods.com/skyrimspecialedition/mods/45966)
+- Added [Vanilla hair - Salt and Wind](http://nexusmods.com/skyrimspecialedition/mods/45147)
+- Added [Winterhold Statue - Animated with ENB Lights](http://nexusmods.com/skyrimspecialedition/mods/29478)
+- Added [Wiseman303's Flora Fixes - Revamped - SMIM Patch](http://nexusmods.com/skyrimspecialedition/mods/28197)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Dynamic Volumetric Lighting and Sun Shadows](http://nexusmods.com/skyrimspecialedition/mods/44483)
+- Updated [Flinching - Script Free Edition](http://nexusmods.com/skyrimspecialedition/mods/42550)
+- Updated [Improved Dwemer Glass](http://nexusmods.com/skyrimspecialedition/mods/44553)
+- Updated [JK's The Bannered Mare.](http://nexusmods.com/skyrimspecialedition/mods/33845)
+- Updated [Meridia's Luxon Beacon Replacer](http://nexusmods.com/skyrimspecialedition/mods/34782)
+- Updated [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z)
+- Updated [Patches by Phoenix and Umgak - Revamped Assets Skyrim - Weapon Racks Patch](http://nexusmods.com/skyrimspecialedition/mods/26092)
+- Updated [Serana's Hood Fix](http://nexusmods.com/skyrimspecialedition/mods/20243)
+- Updated [Smooth Magic Casting Animation](http://nexusmods.com/skyrimspecialedition/mods/45799)
+- Updated [xLODGen.73.7z](https://mega.nz/file/NYISFJCB#NnHFAwR8ohPqbSQ_PtohCti5dj4QT7Dcu6MGTwWP8rU)
+- Removed [4K Nordic Murals](http://nexusmods.com/skyrimspecialedition/mods/32379)
+- Removed [Blended Roads](http://nexusmods.com/skyrimspecialedition/mods/8834)
+- Removed [Cathedral Player and NPC Overhaul - HMB II](http://nexusmods.com/skyrimspecialedition/mods/24174)
+- Removed [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Removed [Enhanced Landscapes - Oaks Standalone SSE - Marsh Pines - Dilon Vul](http://nexusmods.com/skyrimspecialedition/mods/27367)
+- Removed [Expressive Facegen Morphs SE](http://nexusmods.com/skyrimspecialedition/mods/35785)
+- Removed [HQ Solitude](http://nexusmods.com/skyrimspecialedition/mods/23937)
+- Removed [Voltage](http://nexusmods.com/skyrimspecialedition/mods/15565)
+- Removed [Wabbajack.Theme.for.MO2.7z](https://github.com/wabbajack-tools/mod-lists/releases/download/1.0.0/Wabbajack.Theme.for.MO2.7z)
+
+**Custom Tweaks and Fixes:**
+
+- Swapped all Requiem Stew recipes to use water bottles from Sunhelm
+- Replaced all Requiem placed water bottles with water bottles from Sunhelm
+- Added breakdown recipes for aMidianBorn Armor Variants Lite
+- Regenerated FaceGen
+- Regenerated LODS
+- Regenerated Synthesis
+
 ## Serenity 2 v0.3.0
 
 **Build at:** `2/13/2021 2:18:49 PM`
