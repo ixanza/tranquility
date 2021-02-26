@@ -1,6 +1,5 @@
 # Serenity 2
 
-![unique-installs](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Fmetrics%2Fbadge%2Fserenity%2Funique_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=%20Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fserenity%2Fbadge.json)
 
 - [Serenity 2](#serenity-2)
@@ -47,7 +46,7 @@
 
 ![serenity-banner](cover/Cover.png)
 
-Serenity is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.1 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targetted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase.
+Serenity 2 is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.1 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targetted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase.
 
 ## System Requirements
 
@@ -161,10 +160,11 @@ Requiem is the core mod behind Serenity. It overhauls the entire game with regar
 Serenity comes with a few modifications to Requiem. This includes but is not limited to:
 
 - Magic Tweaks via [Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
-- NPC and Enemy Tweaks via [Requiem - Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/25843)
 - Miscellaneous NPC Tweaks and NPC Vampire expansion via [Requiem - Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Religious overhaul via [Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)
 - Dragonborn Expansion is available through [Requiem - Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/34829)
+- Unarmed Enhancement from the mod [Requiem - Unarmed Combat Enhancement](https://www.nexusmods.com/skyrimspecialedition/mods/42541)
+- New Feats from [Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
 
 ### Quest and Encounter Mods
 
@@ -192,6 +192,8 @@ Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimsp
 
 ### New Equippables
 
+[aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160) adds some armor variety from CaBal120's extra armor textures
+
 [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369) provides cloaks to various NPCs. For the purpose of balance and not to be overpowered with Requiem, the regular cloaks cannot be enchanted and the pre-enchanted cloaks have been toned down a level or two.
 
 [Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6308) adds around 100 new weapons into the game that is evenly distributed to all the enemies and NPCs.
@@ -212,7 +214,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Creating your Character
 
-Upon entering the game you will be greeted with a notification from the Relic Notifications Mod. Hit OK and wait for another pop-up from it, usually takes about a minute.  Once it's done you can proceed with creating your character. Once you've named your character wait for all the messages in the top left to fade away then open your inventory and close it. This will start up Requiem. Once Requiem has finished its installation you may proceed with the next section. While creating your character you may receive a pop up asking you if you want to scan now or later from Relic Notifications. Hit scan now to proceed.
+Upon entering the game you will be greeted with a notification from the Curator's Companion Mod. Hit OK and wait for another pop-up from it, usually takes about a minute.  Once it's done you can proceed with creating your character. Once you've named your character wait for all the messages in the top left to fade away then open your inventory and close it. This will start up Requiem. Once Requiem has finished its installation you may proceed with the game
 
 ## In-Game MCM Options
 
@@ -232,8 +234,18 @@ Included in Serenity is SunHelm Survival. It is already tweaked for Requiem Comp
 
 ### Ultrawide Options
 
-If you have an ultrawide monitor (21:9), the UI will be off. You will want to reinstall Dear Diary with the widescreen option. Pick any options on the FOMOD you want but ensure Extended UI, More Informative Console and Morehud is ticked.
-You will also want to install the SkyHud - High Resolution Widescreen Fix from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
+If you have an ultrawide monitor (21:9), the UI will be off and look weird. You will want to install a set of mods meant to help with widescreen monitors
+
+1) Head over to [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778)
+2) Grab Complete Widescreen Fix for SkyUI 5.2 SE Alpha- 2560x1080 from the main files section
+3) Under Optional File grab
+   1) Better Dialogue Control Widescreen Fix
+   2) Better MessageBox Control Widescreen Fix
+   3) Campfire 1.12.1 and Frostall 3.4.1SE - Unofficial SSE Widescreen Fix
+   4) Extended UI - Widescreen Fix
+   5) Even Wider Rescaled MCM Menu for SkyUI - Widescreen Fix
+   6) SkyHud - High Resolution Widescreen Fix
+4) Install all of these mods and let them load at the bottom. You should now have a working UI with widescreen support
 
 ### Tweaking the Game Settings
 
@@ -262,10 +274,11 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+- Phoenix from [The Phoenix Flavour](thephoenixflavour.com/) - Serenity is largely built upon her amazing guide
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/ixanza/serenity/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and on my own discord [Xanza's Emporium](https://discord.gg/867QtkVuUa), I would advise checking the [Issues](https://github.com/ixanza/serenity/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Contributing
 
