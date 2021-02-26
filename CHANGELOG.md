@@ -31,7 +31,7 @@
 - Added [Immersive Mouth and Teeth for Orcs](http://nexusmods.com/skyrimspecialedition/mods/27343)
 - Added [Just Fangs From BVFE - Modder's Resource](http://nexusmods.com/skyrimspecialedition/mods/33779)
 - Added [Legacy of the Dragonborn CBBE Patch](http://nexusmods.com/skyrimspecialedition/mods/44045)
-- Added [Lost of T'Skyrim](http://nexusmods.com/skyrimspecialedition/mods/9951)
+- Added [Lost of T'Skyrim - High Poly Smelter - Embers HD Patch](http://nexusmods.com/skyrimspecialedition/mods/9951)
 - Added [Males Of Skyrim by zzjay  -  with Better Male Feet and High poly hands - SE](http://nexusmods.com/skyrimspecialedition/mods/37485)
 - Added [Mild Complexions](http://nexusmods.com/skyrimspecialedition/mods/28510)
 - Added [Mild Hair Colors](http://nexusmods.com/skyrimspecialedition/mods/27013)
