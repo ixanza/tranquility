@@ -1,5 +1,13 @@
 # Changelog
 
+## Serenity 2 v1.0.1
+
+Build at: `2/14/2021 10:23:49 AM`
+
+**Custom Tweaks and Fixes**:
+
+- Fixed Boats and some wood not being properly converted from LE
+
 ## Serenity 2 v1.0.0
 
 **Build at:** `2/13/2021 2:18:49 PM`
@@ -75,7 +83,7 @@
 - Removed [Voltage](http://nexusmods.com/skyrimspecialedition/mods/15565)
 - Removed [Wabbajack.Theme.for.MO2.7z](https://github.com/wabbajack-tools/mod-lists/releases/download/1.0.0/Wabbajack.Theme.for.MO2.7z)
 
-**Custom Tweaks and Fixes:**
+**Custom Tweaks and Fixes**:
 
 - Swapped all Requiem Stew recipes to use water bottles from Sunhelm
 - Replaced all Requiem placed water bottles with water bottles from Sunhelm
