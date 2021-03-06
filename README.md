@@ -176,6 +176,8 @@ Serenity comes with a wide variety of new quest and encounters. A few are listed
 
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576?tab=files) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. Missives has been extended to Solstheim as well as Wyrmstooth.
 
+[Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) is a story about hunting a dragon for a bounty. Find out what its motives are and save the land of Wyrmstooth from its fury.
+
 ### Expanded Cities Towns and Villages
 
 Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289) along with all of the interior patches for it.
