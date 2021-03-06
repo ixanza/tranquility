@@ -1,5 +1,105 @@
 # Changelog
 
+## Serenity 2 v1.1.0
+
+**Build at:** `2/13/2021 2:18:49 PM`
+
+**Info**:
+
+- Download Size change: -3.1GB (Total: 62.7GB)
+- Install Size change: -3.9GB (Total: 88.3GB)
+
+**Download Changes**:
+
+- Added [Actual Orichalcum Orcish Equipment](http://nexusmods.com/skyrimspecialedition/mods/33653)
+- Added [Aevrigheim - Miraak's Sword and Staff Replacer](http://nexusmods.com/skyrimspecialedition/mods/34224)
+- Added [Barenziah's Glory SE](http://nexusmods.com/skyrimspecialedition/mods/6343)
+- Added [Better Falskaar and Wyrmstooth Map With Roads](http://nexusmods.com/skyrimspecialedition/mods/39501)
+- Added [Better Volkihar Secret Entrance](http://nexusmods.com/skyrimspecialedition/mods/34739)
+- Added [Black Bow Of Fate Retexture](http://nexusmods.com/skyrimspecialedition/mods/13803)
+- Added [Burned Book Retexture 4k - 2k](http://nexusmods.com/skyrimspecialedition/mods/37573)
+- Added [Cathedral - Armory - TPF Repack](http://nexusmods.com/skyrimspecialedition/mods/20199)
+- Added [Completionist - Quest Tracker](http://nexusmods.com/skyrimspecialedition/mods/46358)
+- Added [Dwemer pipework reworked](http://nexusmods.com/skyrimspecialedition/mods/46507)
+- Added [HD Dead Trees and Driftwoods 2K Mesh Fix](http://nexusmods.com/skyrimspecialedition/mods/46386)
+- Added [HD Falmer Armor - Weapons - Huts - Everything - Glow](http://nexusmods.com/skyrimspecialedition/mods/32301)
+- Added [HD Reflective Ebony Armor and Weapons - HD Reflective Ebony Mail](http://nexusmods.com/skyrimspecialedition/mods/37701)
+- Added [HD Reflective Ebony Armor and Weapons](http://nexusmods.com/skyrimspecialedition/mods/37701)
+- Added [HD Ruined Book Retexture 4k - 2k](http://nexusmods.com/skyrimspecialedition/mods/15742)
+- Added [Iconic's Bust Of The Gray Fox Retexture](http://nexusmods.com/skyrimspecialedition/mods/45595)
+- Added [Iconic's Falmer Eye Gem Retexture (4K-2K)](http://nexusmods.com/skyrimspecialedition/mods/44795)
+- Added [Iconic's Moon Crest Retexture](http://nexusmods.com/skyrimspecialedition/mods/45788)
+- Added [Iconic's Morthal Quest Coffin Retexture (4K-2K)](http://nexusmods.com/skyrimspecialedition/mods/44150)
+- Added [Iconic's Weathered Dragonstone Retexture (4K-2K)](http://nexusmods.com/skyrimspecialedition/mods/45110)
+- Added [Ingredients](http://nexusmods.com/skyrimspecialedition/mods/40777)
+- Added [Legacy of the Dragonborn - Quick Museum Shortcuts](http://nexusmods.com/skyrimspecialedition/mods/38898)
+- Added [LOTD Dragonmail Cuirass Enhanced](http://nexusmods.com/skyrimspecialedition/mods/43130)
+- Added [LOTD Museum Shipment Crates Patch and Even More Crates for Mods](http://nexusmods.com/skyrimspecialedition/mods/34795)
+- Added [Missives - Carriage and Ferry Travel Overhaul Patch](http://nexusmods.com/skyrimspecialedition/mods/44498)
+- Added [Missives - Worldspace Additions - Wyrmstooth Patch](http://nexusmods.com/skyrimspecialedition/mods/26788)
+- Added [Mourning Restored](http://nexusmods.com/skyrimspecialedition/mods/46305)
+- Added [Natural Hair Colors](http://nexusmods.com/skyrimspecialedition/mods/46299)
+- Added [No grass in caves](http://nexusmods.com/skyrimspecialedition/mods/12431)
+- Added [No Grass In Objects](http://nexusmods.com/skyrimspecialedition/mods/42161)
+- Added [Particle Lights For ENB SE - Ingredients](http://nexusmods.com/skyrimspecialedition/mods/44022)
+- Added [Quit it with the bullying Braith](http://nexusmods.com/skyrimspecialedition/mods/46267)
+- Added [Qwafee Keys](http://nexusmods.com/skyrimspecialedition/mods/34719)
+- Added [Rally's Jurgen Windcaller Tomb](http://nexusmods.com/skyrimspecialedition/mods/28800)
+- Added [Realistic HD Pickaxe Remastered](http://nexusmods.com/skyrimspecialedition/mods/20168)
+- Added [Realistic HD Woodcutter's Axe Remastered](http://nexusmods.com/skyrimspecialedition/mods/20239)
+- Added [Remiros' Bloodskal Blade HD](http://nexusmods.com/skyrimspecialedition/mods/18626)
+- Added [Requiem - Wyrmstooth Patch](http://nexusmods.com/skyrimspecialedition/mods/46608)
+- Added [Rudy HQ - Hay SE](http://nexusmods.com/skyrimspecialedition/mods/25125)
+- Added [Smooth Jump Attack Animation](http://nexusmods.com/skyrimspecialedition/mods/46418)
+- Added [The Phoenix Flavour - Repack Repository - Majestic Mountains - Rapid Rocks Mesh](http://nexusmods.com/skyrimspecialedition/mods/46437)
+- Added [The Phoenix Flavour - Repack Repository - Project Clarity - Weapons - TPF Repack](http://nexusmods.com/skyrimspecialedition/mods/46437)
+- Added [Upgraded Moondial](http://nexusmods.com/skyrimspecialedition/mods/45875)
+- Added [Vampires Cast No Shadow 2](http://nexusmods.com/skyrimspecialedition/mods/46107)
+- Added [White Phial Replacer SE](http://nexusmods.com/skyrimspecialedition/mods/6113)
+- Added [Wiseman303's Flora Fixes for Bruma and Wyrmstooth SE](http://nexusmods.com/skyrimspecialedition/mods/29177)
+- Added [Wyrmstooth](http://nexusmods.com/skyrimspecialedition/mods/45565)
+- Added [Wyrmstooth Upscaled Textures](http://nexusmods.com/skyrimspecialedition/mods/39992)
+- Added [xLODGen.74.7z](https://mega.nz/file/5ABX1AZR#yMyM236eRB6UguY96ryZWIZBWOSBBH1CnbY2IyQ7hwA)
+- Updated [aMidianBorn Armor Variants Lite](http://nexusmods.com/skyrimspecialedition/mods/45160)
+- Updated [Armor and Clothing Extension](http://nexusmods.com/skyrimspecialedition/mods/19002)
+- Updated [Blended Roads Redone SE](http://nexusmods.com/skyrimspecialedition/mods/26270)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [High Poly Project](http://nexusmods.com/skyrimspecialedition/mods/12029)
+- Updated [Horses for Followers](http://nexusmods.com/skyrimspecialedition/mods/45500)
+- Updated [JK's Skyrim](http://nexusmods.com/skyrimspecialedition/mods/6289)
+- Updated [Landscape Fixes For Grass Mods](http://nexusmods.com/skyrimspecialedition/mods/9005)
+- Updated [Patches by Phoenix and Umgak](http://nexusmods.com/skyrimspecialedition/mods/26092)
+- Updated [Requiem - aMidianBorn Armor Variants Lite Patch](http://nexusmods.com/skyrimspecialedition/mods/45568)
+- Updated [Requiem - Dragonborn Patch](http://nexusmods.com/skyrimspecialedition/mods/34829)
+- Updated [Requiem - small tweaks SE - NPC Statefix](http://nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Requiem - small tweaks SE - Vampire Collection](http://nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [SSE Display Tweaks](http://nexusmods.com/skyrimspecialedition/mods/34705)
+- Updated [Storm Lightning for SSE and VR (Minty Lightning 2019)](http://nexusmods.com/skyrimspecialedition/mods/29243)
+- Updated [Legacy of The Dragonborn museum dome improved](http://nexusmods.com/skyrimspecialedition/mods/45655)
+- Removed [Auriels Bow - HD Retexture](http://nexusmods.com/skyrim/mods/44333)
+- Removed [Auriels Shield - HD Retexture](http://nexusmods.com/skyrim/mods/51148)
+- Removed [Bloodskal Blade Redone](http://nexusmods.com/skyrim/mods/54229)
+- Removed [Ebony Weapons 2017 Retexture](http://nexusmods.com/skyrim/mods/82468)
+- Removed [Elven Weapons for Silence SE](http://nexusmods.com/skyrimspecialedition/mods/27994)
+- Removed [Falmer Weapons for aMidianBorn Book of Silence users](http://nexusmods.com/skyrim/mods/83950)
+- Removed [Frankly HD Silver Sword](http://nexusmods.com/skyrim/mods/29563)
+- Removed [Ghosus Auriels Quiver Retexture](http://nexusmods.com/skyrim/mods/58218)
+- Removed [Ghosu - Auriels Quiver Replacer](http://nexusmods.com/skyrim/mods/51822)
+- Removed [HD Reworked Falmer Architecture 4K](http://nexusmods.com/skyrimspecialedition/mods/41088)
+- Removed [HD Reworked Shellbug](http://nexusmods.com/skyrimspecialedition/mods/41191)
+- Removed [High Poly Vanilla Hair](http://nexusmods.com/skyrimspecialedition/mods/41863)
+- Removed [Iron Things SE](http://nexusmods.com/skyrimspecialedition/mods/26947)
+- Removed [Male Horns for Female Iron Helmet](http://nexusmods.com/skyrimspecialedition/mods/38672)
+- Removed [Mild Hair Colors](http://nexusmods.com/skyrimspecialedition/mods/27013)
+- Removed [Practical Female Armors SE](http://nexusmods.com/skyrimspecialedition/mods/2628)
+- Removed [Rapid Rocks](http://nexusmods.com/skyrimspecialedition/mods/26532)
+- Removed [Sunhallowed and Bloodcursed Arrows - HD Retexture](http://nexusmods.com/skyrimspecialedition/mods/13649)
+
+**Custom Tweaks and Fixes**:
+
+- Fixed a lot of black face bugs
+- Generated grass cache, may be more performant now
+
 ## Serenity 2 v1.0.1
 
 Build at: `2/14/2021 10:23:49 AM`
