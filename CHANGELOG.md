@@ -75,7 +75,7 @@
 - Updated [Requiem - small tweaks SE - Vampire Collection](http://nexusmods.com/skyrimspecialedition/mods/42633)
 - Updated [SSE Display Tweaks](http://nexusmods.com/skyrimspecialedition/mods/34705)
 - Updated [Storm Lightning for SSE and VR (Minty Lightning 2019)](http://nexusmods.com/skyrimspecialedition/mods/29243)
-- Updated [Legacy of The Dragonborn museum dome improved](http://nexusmods.com/skyrimspecialedition/mods/45655)
+- Updated [Legacy of The Dragonborn museum dome improved](http://nexusmods.com/skyrimspecialedition/mods/45655)
 - Removed [Auriels Bow - HD Retexture](http://nexusmods.com/skyrim/mods/44333)
 - Removed [Auriels Shield - HD Retexture](http://nexusmods.com/skyrim/mods/51148)
 - Removed [Bloodskal Blade Redone](http://nexusmods.com/skyrim/mods/54229)
