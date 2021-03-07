@@ -201,6 +201,23 @@ Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimsp
 
 [Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6308) adds around 100 new weapons into the game that is evenly distributed to all the enemies and NPCs.
 
+|                 Perks                |  Races  |            Magic            |               Quests              |   City & Interior Overhauls   |
+|:------------------------------------:|:-------:|:---------------------------:|:---------------------------------:|:-----------------------------:|
+| Requiem                              | Requiem | Requiem                     | Legacy of the Dragonborn          | JK's Skyrim                   |
+| Requiem - Unarmed Combat Enhancement |         | Requiem - Expanded Grimoire | Wyrmstooth                        | JK's Angeline's Aromatics     |
+| Requiem - Special Feats              |         | Requiem - Illusion Redone   | Missives                          | JK's Arcadia's Cauldron       |
+| Requiem - Illusion Redone            |         |                             | Interesting NPCs                  | JK's Belethor's General Goods |
+|                                      |         |                             | Finding Derkeethus                | JK's Bits and Pieces          |
+|                                      |         |                             | Finding Helgi and Laelette        | JK's Blue Palace              |
+|                                      |         |                             | Finding Valehk Sain               | JK's Dragonsreach             |
+|                                      |         |                             | Finding Susana Alive              | JK's Radiant Raiment          |
+|                                      |         |                             | Andrealphus' Gameplay Tweaks      | JK's Sleeping Giant Inn       |
+|                                      |         |                             | The Choice is Yours               | JK's The Bannered Mare        |
+|                                      |         |                             | No Theives Guild Grind            | JK's The Drunken Huntsman     |
+|                                      |         |                             | The Parthuurnax Resolution        | JK's The Winking Skeever      |
+|                                      |         |                             | Save the Icerunner                | JK's Warmaidens               |
+|                                      |         |                             | A Lovely Letter - Alternate Route |                               |
+
 ## How to start up Serenity
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
