@@ -19,6 +19,7 @@
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
+    - [Game Folder](#game-folder)
     - [ENB](#enb)
   - [Noteworthy Mods](#noteworthy-mods)
     - [Requiem](#requiem)
@@ -123,19 +124,19 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist.
 
-**x is not a whitelisted download**:
-
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
-
 **Wabbajack could not find my game folder**:
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
-**Windows is reporting that a virus has been detected**:
+**Path is a zero length string error**:
 
-Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+This error occurs when you don't specify an installation folder in the installation before hitting run
 
 ## Post-Installation
+
+### Game Folder
+
+The installation will create a copy of your Skyrim Special Edition game in `Instalation Folder/Stock Games`. This will then contain all the necessary files such as SKSE, ENB Binaries, Reshade Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game
 
 ### ENB
 
@@ -199,6 +200,13 @@ Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimsp
 [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369) provides cloaks to various NPCs. For the purpose of balance and not to be overpowered with Requiem, the regular cloaks cannot be enchanted and the pre-enchanted cloaks have been toned down a level or two.
 
 [Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6308) adds around 100 new weapons into the game that is evenly distributed to all the enemies and NPCs.
+
+|                                                  Perks                                                 |                            Races                           |                                       Magic                                      |                                                                                                                                                                   Quests                                                                                                                                                                   |                                                                                                                                               City & Interior Overhauls                                                                                                                                              |
+|:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| - Requiem - Requiem - Unarmed Combat Enhancement - Requiem - Special Feats - Requiem - Illusion Redone | - Requiem                                                  | - Requiem - Requiem - Expanded Grimoire - Requiem - Illusion Redone              | - Legacy of the Dragonborn - Wyrmstooth - Interesting NPCs - Missives - Finding Derkeethus - Finding Helgi and Laelette - Finding Valehk Sain - Finding Susana Alive - Andrealphus' Gameplay Tweaks - The Choice is Yours - No Theives Guild Grind - The Parthuurnax Resolution  - Save the Icerunner - A Lovely Letter -  Alternate Route | - JK's Skyrim - JK's Angeline's Aromatics - JK's Arcadia's Cauldron - JK's Belethor's General Goods - JK's Bits and Pieces - JK's Blue Palace - JK's Dragonsreach - JK's Radiant Raiment - JK's Sleeping Giant Inn - JK's The Bannered Mare - JK's The Drunken Huntsman - JK's The Winking Skeever - JK's Warmaidens |
+|                                                 Weather                                                |                      NPCs & Followers                      |                                  Follower Tweaks                                 |                                                                                                                                                                 Equipables                                                                                                                                                                 |                                                                                                                                               Combat & Encounter Tweaks                                                                                                                                              |
+|:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| - Cathedral Weathers - Storm Lightning - Real Rain SE - Lucid Rain - Wonders of Weather                | - Interesting NPCs - INIGO - Lucien - Inconsequential NPCs | - Horses for Followers - Followers Trap Safety - Better Stealth AI for Followers | - aMidianBorn Armor Variants Lite - Cloaks of Skyrim - Heavy Armoury - Volkihar Knight - Witchplate Armour - Faction Crossbows - Ulag's Legacy - Blackened Steel Armour and Weapon - Armor and Clothing Extension                                                                                                                          | - Requiem - Requiem - NPC Statefix - Requiem - Regeneration Tweaks - Requiem - Vampire Collection - More Werewolves                                                                                                                                                                                                  |
 
 ## How to start up Serenity
 
