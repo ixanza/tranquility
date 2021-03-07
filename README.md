@@ -248,7 +248,7 @@ If you have an ultrawide monitor (21:9), the UI will be off and look weird. You 
    4) Extended UI - Widescreen Fix
    5) Even Wider Rescaled MCM Menu for SkyUI - Widescreen Fix
    6) SkyHud - High Resolution Widescreen Fix
-4) Install all of these mods and let them load at the bottom. You should now have a working UI with widescreen support
+4) Install all of these mods, activate them and the plugins and let them load at the bottom. You should now have a working UI with widescreen support
 
 ### Tweaking the Game Settings
 
