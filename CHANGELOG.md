@@ -1,5 +1,58 @@
 # Changelog
 
+## Serenity 2 v1.1.2
+
+**Build at:** `3/18/2021 12:10:16 AM`
+
+**Info**:
+
+- Download Size change: 63.8MB (Total: 62.5GB)
+- Install Size change: -222.2MB (Total: 88.4GB)
+
+**Download Changes**:
+
+- Added [FleshFX](http://nexusmods.com/skyrimspecialedition/mods/27456)
+- Added [Legacy of The Dragonborn Perk Menus](http://nexusmods.com/skyrimspecialedition/mods/47028)
+- Added [Only Dead Lovers Cause Inheritance Letters](http://nexusmods.com/skyrimspecialedition/mods/46758)
+- Added [Stones of Barenziah - Alternate locations - Wyrmstooth](http://nexusmods.com/skyrimspecialedition/mods/46689)
+- Added [xLODGen.75.7z](https://mega.nz/file/FYh2ybjR#62hOmtcm6xqaQoU5vnYdlS2AygqK28bpWum-zEt3zXo)
+- Added [Practical Female Armors SE](http://nexusmods.com/skyrimspecialedition/mods/2628)
+- Added [Custom Skills Framework](http://nexusmods.com/skyrimspecialedition/mods/41780)
+- Added [Horse Stamina HUD - Script-Free](http://nexusmods.com/skyrimspecialedition/mods/47076)
+- Added [Improved Sparks](http://nexusmods.com/skyrimspecialedition/mods/19831)
+- Added [Rally's Hooks and Saws](http://nexusmods.com/skyrimspecialedition/mods/32652)
+- Added [Realistic HD Blacksmith Remastered](http://nexusmods.com/skyrimspecialedition/mods/22228)
+- Added [Realistic HD Woodcutter's Axe Remastered](http://nexusmods.com/skyrimspecialedition/mods/20239)
+- Added [Armor Mesh Fixes SE](http://nexusmods.com/skyrimspecialedition/mods/39704)
+- Added [Canticle Tree - Bark - and Draw Knife Retexture](http://nexusmods.com/skyrimspecialedition/mods/45548)
+- Added [Improved Sparks](http://nexusmods.com/skyrimspecialedition/mods/19831)
+- Added [JS Circlet Replacer - USKP - USSEP Patch](http://nexusmods.com/skyrimspecialedition/mods/42431)
+- Added [Rally's Farming Tools](http://nexusmods.com/skyrimspecialedition/mods/32679)
+- Added [Rally's Fishing Poles](http://nexusmods.com/skyrimspecialedition/mods/33248)
+- Added [Super Fast Get Up Animation](http://nexusmods.com/skyrimspecialedition/mods/46714)
+- Added [Smooth Random Blocking Animation](http://nexusmods.com/skyrimspecialedition/mods/44390)
+- Updated [Cathedral - Armory](http://nexusmods.com/skyrimspecialedition/mods/20199)
+- Updated [Completionist - Quest Tracker](http://nexusmods.com/skyrimspecialedition/mods/46358)
+- Updated [ELFX Fixes](http://nexusmods.com/skyrimspecialedition/mods/25498)
+- Updated [JK's Interiors Patch Collection](http://nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [JK's Skyrim](http://nexusmods.com/skyrimspecialedition/mods/6289)
+- Updated [Lucien - Immersive Fully Voiced Male Follower](http://nexusmods.com/skyrimspecialedition/mods/20035)
+- Updated [Missives - Worldspace Additions](http://nexusmods.com/skyrimspecialedition/mods/26788)
+- Updated [Realistic Water Two SE](http://nexusmods.com/skyrimspecialedition/mods/2182)
+- Updated [SunHelm Survival and needs](http://nexusmods.com/skyrimspecialedition/mods/39414)
+- Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](http://nexusmods.com/skyrimspecialedition/mods/38845)
+- Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn - Dwemer Pipe Rework Patch](http://nexusmods.com/skyrimspecialedition/mods/38845)
+- Updated [Dwemer pipework reworked](http://nexusmods.com/skyrimspecialedition/mods/46507)
+- Updated [BeastHHBB - Beast Hair Horn Beard and Brow - Vanilla based character creation options and NPC replacer for Khajiit and Argonians](http://nexusmods.com/skyrimspecialedition/mods/38480)
+- Updated [Smooth Jump Attack Animation](http://nexusmods.com/skyrimspecialedition/mods/46418)
+- Updated [Smooth Random Sprint Animation](http://nexusmods.com/skyrimspecialedition/mods/46193)
+- Removed [Forgotten Retex Project](http://nexusmods.com/skyrimspecialedition/mods/7849)
+- Removed [D13 Faster GET UP STAND UP animation vanilla friendly SSE](http://nexusmods.com/skyrimspecialedition/mods/5890)
+
+**Custom tweaks and fixes**:
+
+- Reduced the effectiveness of Lord's Mail and Adamantium Helm of Tohan's enchantments by half - Too easy to get and was tooo powerful
+
 ## Serenity 2 v1.1.0
 
 **Build at:** `2/13/2021 2:18:49 PM`
