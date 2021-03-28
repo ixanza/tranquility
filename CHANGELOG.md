@@ -1,5 +1,52 @@
 # Changelog
 
+## Serenity 2 v1.2.0
+
+**Build at:** `3/28/2021 2:49:36 PM`
+
+**Info**:
+
+This update requires a new save game
+
+- Download Size change: -1.1GB (Total: 63.6GB)
+- Install Size change: -2.1GB (Total: 90.5GB)
+
+**Download Changes**:
+
+- Added [Bears of the North](http://nexusmods.com/skyrimspecialedition/mods/47541)
+- Added [Boreal Boats SE](http://nexusmods.com/skyrimspecialedition/mods/47608)
+- Added [Complete Replica Fixes for Legacy of the Dragonborn](http://nexusmods.com/skyrimspecialedition/mods/46575)
+- Added [Dawnguard Arsenal SSE](http://nexusmods.com/skyrimspecialedition/mods/25094)
+- Added [Dragon Claws Auto-Unlock](http://nexusmods.com/skyrimspecialedition/mods/47329)
+- Added [Konahrik's Accoutrements Upscaled Textures](http://nexusmods.com/skyrimspecialedition/mods/34417)
+- Added [Konahrik's Accoutrements](http://nexusmods.com/skyrimspecialedition/mods/22206)
+- Added [Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch](http://nexusmods.com/skyrimspecialedition/mods/47192)
+- Added [Legacy of The Dragonborn - Museum Exterior Fixes](http://nexusmods.com/skyrimspecialedition/mods/47321)
+- Added [Requiem - My custom patch collection - Dawnguard Arsenal](http://nexusmods.com/skyrimspecialedition/mods/39119)
+- Updated [Dwemer pipework reworked](http://nexusmods.com/skyrimspecialedition/mods/46507)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [JK's Interiors Patch Collection](http://nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [Legacy of the Dragonborn  - The Curators Companion](http://nexusmods.com/skyrimspecialedition/mods/38529)
+- Updated [Legacy of the Dragonborn Patches (Official)](http://nexusmods.com/skyrimspecialedition/mods/30980)
+- Updated [Legacy of the Dragonborn SSE](http://nexusmods.com/skyrimspecialedition/mods/11802)
+- Updated [Lucien - Immersive Fully Voiced Male Follower](http://nexusmods.com/skyrimspecialedition/mods/20035)
+- Updated [Missives - Worldspace Additions](http://nexusmods.com/skyrimspecialedition/mods/26788)
+- Updated [Requiem - Expanded Grimoire](http://nexusmods.com/skyrimspecialedition/mods/39214)
+- Updated [Requiem - Unarmed Combat Enhancer](http://nexusmods.com/skyrimspecialedition/mods/42541)
+- Updated [Smoking Torches and Candles](http://nexusmods.com/skyrimspecialedition/mods/8607)
+- Updated [SSE Display Tweaks](http://nexusmods.com/skyrimspecialedition/mods/34705)
+- Updated [Storm Lightning for SSE and VR (Minty Lightning 2019)](http://nexusmods.com/skyrimspecialedition/mods/29243)
+- Removed [Boreal Boats LE](http://nexusmods.com/skyrim/mods/100562)
+- Removed [Keyboard Shortcuts Fix](http://nexusmods.com/skyrimspecialedition/mods/3620)
+
+**Custom Tweaks and Fixes**:
+
+- Adjusted recipe for Blackened Hood and Cowl. Now requires 2 Steel Ingots. Fixes #25
+- Corrected the text for the Carry weight perks in Legacy of the Dragonborn Skill Tree to reflect the changes made in Requiem - Legacy of the Dragonborn. Fixes #23
+- Fixed missing arms from wearing Alik'r Armor in first person. Fixes #24
+- Most Dragon Priest equipment added in Konahrik Accoutrments are not marked as Daedric. This is done to ensure Deities from Immersive Divine Blessings doesn't smite you for looting Dragon Priests. The exeption to this is the Heart Stone Set and the Miraak Set
+- Removed the custom Requiem - Curator's Companion Patch as it isn't working with the latest Curator's Companion Update. It might get added in the future. IDK, I am unable to build a new patch for it
+
 ## Serenity 2 v1.1.2
 
 **Build at:** `3/18/2021 12:10:16 AM`

@@ -179,6 +179,8 @@ Serenity comes with a wide variety of new quest and encounters. A few are listed
 
 [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) is a story about hunting a dragon for a bounty. Find out what its motives are and save the land of Wyrmstooth from its fury.
 
+[Konahrik Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) expands the dragon priest armory by adding new armorsets to go along the dragon preist masks and provide new powers to your character from their unique enchants
+
 ### Expanded Cities Towns and Villages
 
 Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289) along with all of the interior patches for it.
@@ -200,6 +202,8 @@ Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimsp
 [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369) provides cloaks to various NPCs. For the purpose of balance and not to be overpowered with Requiem, the regular cloaks cannot be enchanted and the pre-enchanted cloaks have been toned down a level or two.
 
 [Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6308) adds around 100 new weapons into the game that is evenly distributed to all the enemies and NPCs.
+
+[Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) expands the Dawnguard weaponry with new weapons such as swords, maces to help you destroy those vampires and undead
 
 ## How to start up Serenity
 
