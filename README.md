@@ -51,12 +51,15 @@ Serenity 2 is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh 
 
 ## System Requirements
 
+Download Size: 63.9GB
+Install Size: 91.2GB
+
 Serenity is a mid to high end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p
 
-I made this list with my specs in mind and I am able to get 60FPS in riverwood and whiterun outdoors with Silent Horizon's ENB using the Game Ambient Occlusion settings with these specs
+I made this list with my specs in mind and I am able to get 72FPS (capped so my GPU doesn't work harder than it needs to) in riverwood and whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs
 
 CPU: Ryzen 7 3700x
-GPU: MSI Gaming X Trio Nvidia RTX 2070 Super
+GPU: EVGA RTX 3080 FTW3 Ultra
 RAM: 4x8 3200Mhz G-Skill RAM
 SSD: Crucial M1 1TB NVME SSD
 
