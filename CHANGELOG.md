@@ -1,5 +1,60 @@
 # Changelog
 
+## Serenity 2 v1.3.0
+
+**Build at:** `3/28/2021 2:49:36 PM`
+
+**Info**:
+
+- Download Size change: -304.5MB (Total: 63.9GB)
+- Install Size change: -713.6MB (Total: 91.2GB)
+
+**Download Changes**:
+
+- Added [Assorted Tiny Tweaks - Falion is Rude](http://nexusmods.com/skyrimspecialedition/mods/43834)
+- Added [Assorted Tiny Tweaks - Roggvir's Amulet of Talos](http://nexusmods.com/skyrimspecialedition/mods/43834)
+- Added [Blue Frost Daedric Set (Standalone)- SSE CBBE BodySlide](http://nexusmods.com/skyrimspecialedition/mods/47961)
+- Added [Blue Frost Daedric set](http://nexusmods.com/skyrimspecialedition/mods/47361)
+- Added [Dovahkiin Netherscale Armor](http://nexusmods.com/skyrim/mods/69199)
+- Added [High Poly Soul Husks](http://nexusmods.com/skyrimspecialedition/mods/47891)
+- Added [Hooded Skeleton Corpse Fix for WACCF](http://nexusmods.com/skyrimspecialedition/mods/47985)
+- Added [Knights of the Order of the Azure Glade by Piyarz - SSE Port](http://nexusmods.com/skyrimspecialedition/mods/47124)
+- Added [Lanterns Of Wyrmstooth (Unofficial  LOS II addon for Wyrmstooth)](http://nexusmods.com/skyrimspecialedition/mods/47782)
+- Added [Scrambled Bugs](http://nexusmods.com/skyrimspecialedition/mods/43532)
+- Added [Survival Control Panel](http://nexusmods.com/skyrimspecialedition/mods/41891)
+- Added [True Teacher Durnehviir](http://nexusmods.com/skyrimspecialedition/mods/44969)
+- Added [Whiterun Mesh Fixes](http://nexusmods.com/skyrimspecialedition/mods/48120)
+- Updated [Better Windhelm Ground Meshes](http://nexusmods.com/skyrimspecialedition/mods/42746)
+- Updated [Boreal Boats SE](http://nexusmods.com/skyrimspecialedition/mods/47608)
+- Updated [Bug Fixes SSE](http://nexusmods.com/skyrimspecialedition/mods/33261)
+- Updated [Cathedral - Armory](http://nexusmods.com/skyrimspecialedition/mods/20199)
+- Updated [Cathedral Assets Optimizer](http://nexusmods.com/skyrimspecialedition/mods/23316)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Flinching - Script Free Edition](http://nexusmods.com/skyrimspecialedition/mods/42550)
+- Updated [High Poly Blackreach Mushrooms](http://nexusmods.com/skyrimspecialedition/mods/40418)
+- Updated [Horse Stamina HUD - Script-Free](http://nexusmods.com/skyrimspecialedition/mods/47076)
+- Updated [JK's Interiors Patch Collection](http://nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [Legacy of the Dragonborn  - The Curators Companion](http://nexusmods.com/skyrimspecialedition/mods/38529)
+- Updated [Legacy of the Dragonborn Patches (Official)](http://nexusmods.com/skyrimspecialedition/mods/30980)
+- Updated [Majestic Mountains](http://nexusmods.com/skyrimspecialedition/mods/11052)
+- Updated [Requiem - small tweaks SE](http://nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Requiem Patch Central](http://nexusmods.com/skyrim/mods/61621)
+- Updated [Skyrim Landscape and Water Fixes](http://nexusmods.com/skyrimspecialedition/mods/26138)
+- Updated [Skyrim Particle Patch for ENB](https://drive.google.com/open?id=12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw)
+- Updated [SunHelm Survival and needs](http://nexusmods.com/skyrimspecialedition/mods/39414)
+- Updated [Water for ENB](http://nexusmods.com/skyrimspecialedition/mods/37061)
+- Updated [Wiseman303's Flora Fixes - Revamped](http://nexusmods.com/skyrimspecialedition/mods/28197)
+- Updated [Wyrmstooth](http://nexusmods.com/skyrimspecialedition/mods/45565)
+- Updated [xLODGen.76.7z](https://mega.nz/file/oVplUSpZ#RuT0KTyW3TCqDs4NcIRy3-RtGjPOtHcGYOJkLmpv1TY)
+- Removed [Immersive Bookreading and Lockpicking](http://nexusmods.com/skyrimspecialedition/mods/4541)
+- Removed [Smooth Jump Attack Animation](http://nexusmods.com/skyrimspecialedition/mods/46418)
+- Removed [Wiseman303's Flora Fixes for Bruma and Wyrmstooth SE](http://nexusmods.com/skyrimspecialedition/mods/29177)
+
+**Custom Tweaks and fixes**:
+
+- Fixed Bound weapons from Expanded Grimoire not having infusion effects
+- Incorporated some Expanded Grimorie tweaks for infusion by Esvs
+
 ## Serenity 2 v1.2.0
 
 **Build at:** `3/28/2021 2:49:36 PM`
