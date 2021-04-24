@@ -1,5 +1,91 @@
 # Changelog
 
+## Serenity 2 v1.4.0
+
+**Build at:** `3/28/2021 ‏‎6:48:49 PM`
+
+**Info**:
+
+- Download Size change: -4.3GB (Total: 68.2GB)
+- Install Size change: -3.2GB (Total: 94.4GB)
+
+**Download Changes**:
+
+- Added [aMidianBorn Textures For Immersive Armors and Lore-Friendly Armor Pack](http://nexusmods.com/skyrim/mods/29167)
+- Added [Blended Roads - Medieval Bridges](http://nexusmods.com/skyrimspecialedition/mods/8834)
+- Added [Blended Roads](http://nexusmods.com/skyrimspecialedition/mods/8834)
+- Added [Cathedral Assets Optimizer](http://nexusmods.com/skyrimspecialedition/mods/23316)
+- Added [ELE patches](http://nexusmods.com/skyrimspecialedition/mods/42112)
+- Added [Enchantment Reload Fix SE](http://nexusmods.com/skyrimspecialedition/mods/21055)
+- Added [Enhanced Skyrim Factions - The Companions Guild](http://nexusmods.com/skyrim/mods/22650)
+- Added [Fluffy Snow](http://nexusmods.com/skyrimspecialedition/mods/8955)
+- Added [Fluffy Snow](http://nexusmods.com/skyrimspecialedition/mods/8955)
+- Added [Fluffy Snow](http://nexusmods.com/skyrimspecialedition/mods/8955)
+- Added [Hyperborean Snow SE](http://nexusmods.com/skyrimspecialedition/mods/29283)
+- Added [Immersive Armors - Heroic Imperial amidianborn fix](http://nexusmods.com/skyrim/mods/61920)
+- Added [Immersive Armors](http://nexusmods.com/skyrimspecialedition/mods/3479)
+- Added [Immersive Armours - SSE CBBE BodySlide](http://nexusmods.com/skyrimspecialedition/mods/22382)
+- Added [Immersive Armours - SSE CBBE BodySlide](http://nexusmods.com/skyrimspecialedition/mods/22382)
+- Added [Inconsequential NPCs - Crier Begone](http://nexusmods.com/skyrimspecialedition/mods/40790)
+- Added [Inconsequential NPCs Tweaks - Less Racist Windhelm](http://nexusmods.com/skyrimspecialedition/mods/46916)
+- Added [Inconsequential NPCs Tweaks - No College NPCs](http://nexusmods.com/skyrimspecialedition/mods/46916)
+- Added [Inconsequential NPCs Tweaks - No Winterhold Ghosts](http://nexusmods.com/skyrimspecialedition/mods/46916)
+- Added [Interesting NPCs and WACCF Outfits Patch](http://nexusmods.com/skyrimspecialedition/mods/31858)
+- Added [JaySuS Swords SE](http://nexusmods.com/skyrimspecialedition/mods/29415)
+- Added [loot_0.16.0-0-gb1094e6_0.16.0.7z](https://github.com/loot/loot/releases/download/0.16.0/loot_0.16.0-0-gb1094e6_0.16.0.7z)
+- Added [My Road Signs are Beautiful - Multilingual HD Retexture - SE](http://nexusmods.com/skyrimspecialedition/mods/46564)
+- Added [Nether's Follower Framework](http://nexusmods.com/skyrimspecialedition/mods/18076)
+- Added [Northern Shores SE](http://nexusmods.com/skyrimspecialedition/mods/27041)
+- Added [Papyrus Compiler App (Mod Organizer 2 Integration) SE](http://nexusmods.com/skyrimspecialedition/mods/23852)
+- Added [Quest and Reward Delay for Legacy of the Dragonborn](http://nexusmods.com/skyrimspecialedition/mods/44923)
+- Added [Requiem Patch Central](http://nexusmods.com/skyrim/mods/61621)
+- Added [Requiem SSE - Inigo SSE Patch](http://nexusmods.com/skyrimspecialedition/mods/44186)
+- Added [Septentrional Landscapes SE](http://nexusmods.com/skyrimspecialedition/mods/29842)
+- Added [SSE CreationKit Fixes](http://nexusmods.com/skyrimspecialedition/mods/20061)
+- Added [Veydosebrom Regions](http://nexusmods.com/skyrimspecialedition/mods/26293)
+- Added [Veydosebrom Regions](http://nexusmods.com/skyrimspecialedition/mods/26293)
+- Added [xLODGen.77.7z](https://mega.nz/file/tc5giZLT#BjwaiKq3JZ8-dAtvXp08yhY4yb3al2qsqn_e-1xEH6U)
+- Added [Yggdrasil Music and SoundFX Overhaul SE](http://nexusmods.com/skyrimspecialedition/mods/21578)
+- Added [Yggdrasil Music and SoundFX Overhaul SE](http://nexusmods.com/skyrimspecialedition/mods/21578)
+- Added [Your Choices Matter - A Dark Brotherhood Expansion SSE](http://nexusmods.com/skyrimspecialedition/mods/46871)
+- Updated [BeastHHBB - Beast Hair Horn Beard and Brow - Vanilla based character creation options and NPC replacer for Khajiit and Argonians](http://nexusmods.com/skyrimspecialedition/mods/38480)
+- Updated [Blended Roads Redone SE](http://nexusmods.com/skyrimspecialedition/mods/26270)
+- Updated [Blue Frost Daedric set](http://nexusmods.com/skyrimspecialedition/mods/47361)
+- Updated [Completionist - Quest Tracker](http://nexusmods.com/skyrimspecialedition/mods/46358)
+- Updated [Free Look](http://nexusmods.com/skyrimspecialedition/mods/42620)
+- Updated [JK's Interiors Patch Collection](http://nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [Legacy of the Dragonborn Patches (Official)](http://nexusmods.com/skyrimspecialedition/mods/30980)
+- Updated [Legacy of the Dragonborn SSE](http://nexusmods.com/skyrimspecialedition/mods/11802)
+- Updated [More Informative Console](http://nexusmods.com/skyrimspecialedition/mods/19250)
+- Updated [powerofthree's Papyrus Extender](http://nexusmods.com/skyrimspecialedition/mods/22854)
+- Updated [Rally's Raven Rock](http://nexusmods.com/skyrimspecialedition/mods/34292)
+- Updated [Requiem - Expanded Grimoire](http://nexusmods.com/skyrimspecialedition/mods/39214)
+- Updated [Requiem - small tweaks SE](http://nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Scrambled Bugs](http://nexusmods.com/skyrimspecialedition/mods/43532)
+- Updated [SSE Display Tweaks](http://nexusmods.com/skyrimspecialedition/mods/34705)
+- Updated [SunHelm Survival and needs](http://nexusmods.com/skyrimspecialedition/mods/39414)
+- Removed [Armor Mesh Fixes SE](http://nexusmods.com/skyrimspecialedition/mods/39704)
+- Removed [Better Stealth AI for Followers](http://nexusmods.com/skyrimspecialedition/mods/17600)
+- Removed [Cathedral - Armory](http://nexusmods.com/skyrimspecialedition/mods/20199)
+- Removed [Cathedral - Armory](http://nexusmods.com/skyrimspecialedition/mods/20199)
+- Removed [Cathedral Landscapes - Fixed Bridge Meshes](http://nexusmods.com/skyrimspecialedition/mods/45970)
+- Removed [Cathedral Landscapes - Recolored Vanilla Swamp Grass Addon](http://nexusmods.com/skyrimspecialedition/mods/44067)
+- Removed [Cathedral Landscapes - Windhelm Bridge Snow Fix](http://nexusmods.com/skyrimspecialedition/mods/44069)
+- Removed [Cathedral Landscapes](http://nexusmods.com/skyrimspecialedition/mods/21954)
+- Removed [Follower Trap Safety](http://nexusmods.com/skyrimspecialedition/mods/2755)
+- Removed [Requiem - small tweaks SE](http://nexusmods.com/skyrimspecialedition/mods/42633)
+- Removed [SunHelm Survival and needs](http://nexusmods.com/skyrimspecialedition/mods/39414)
+- Removed [Ulag's Legacy - Apotheus Light Armor - Blooded Heavy Armor - Duskward Light Armor](http://nexusmods.com/skyrimspecialedition/mods/20510)
+- Removed [Warmth - Light Armor Replacer SSE](http://nexusmods.com/skyrimspecialedition/mods/2959)
+- Removed [Witchplate Armor Set](http://nexusmods.com/skyrimspecialedition/mods/17053)
+
+**Custom Tweaks and Fixes**:
+
+- Added an optional file to revert changes made by Requiem - Immersive Divine Blessings
+- Added an optional music file - Yggdrasil for some Dark Folk Music. It may not be everyone's fancy so I have it disabled by default.
+- Added more variety to NPCs loot. NPCs should now carry weapons from Heavy Armory and JaySus Swords more commonly
+- Reworked Stews Recipes to not use bottled water anymore. This should fix the cases where you have types of water that can't be used
+
 ## Serenity 2 v1.3.0
 
 **Build at:** `3/28/2021 2:49:36 PM`
