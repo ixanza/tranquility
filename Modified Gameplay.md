@@ -37,27 +37,27 @@ Here you will find a list of major changes and additions to the game. This list 
 ## Gameplay Overhauls
 
 - Tranquillity uses the full suite of [Enai Siaion's](https://www.nexusmods.com/skyrimspecialedition/users/3959191?tab=user+files) mods to enhance all the core gameplay aspects of Skyrim. The list of mods included are
-- [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910) which overhauls the standing stones
-- [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090) for new spells
-- [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31378) which modifes werewolves and werebears
-- [Imperious - Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1315) which modifes races as well as add a "quest" to make your race choice even stronger
-- [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46516) to overhaul base game spells
-- [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137) which adds new perks allowing you to play as multiple new archetypes
-- [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928) which overhauls vampires and vampire lords
-- [Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6285) which adds new enchanments to the game
-- [Thunderchild - Epic Shouts and Immersion](https://www.nexusmods.com/skyrimspecialedition/mods/1460) which adds new shouts to the game as well as pillars that can improve shouts
-- [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) for a new class based spell addition
-- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368) which modifies the enemy AI and game difficulty making combat feel more alive
-- [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) which adds religion and worship as a gameplay aspect
+  - [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910) which overhauls the standing stones
+  - [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090) for new spells
+  - [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31378) which modifes werewolves and werebears
+  - [Imperious - Races of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1315) which modifes races as well as add a "quest" to make your race choice even stronger
+  - [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46516) to overhaul base game spells
+  - [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137) which adds new perks allowing you to play as multiple new archetypes
+  - [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928) which overhauls vampires and vampire lords
+  - [Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6285) which adds new enchanments to the game
+  - [Thunderchild - Epic Shouts and Immersion](https://www.nexusmods.com/skyrimspecialedition/mods/1460) which adds new shouts to the game as well as pillars that can improve shouts
+  - [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) for a new class based spell addition
+  - [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368) which modifies the enemy AI and game difficulty making combat feel more alive
+  - [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) which adds religion and worship as a gameplay aspect
 
 - [OMEGA](https://www.nexusmods.com/skyrimspecialedition/mods/33718) is a huge overhaul of the game's loot, equipment and encounter zones that aim to give the game some old school RPG feel. It removes glass and above items from dropping in the world and adds hand placed loot to various areas that reward exploration.
 - [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487) is used to overwrite OMEGA's encounter zone changes by bringing things more in line. In general, these will be the levels of various caves and dungeons
-- Level 05: Bandits
-- Level 10: Draugr, Animals, Spriggans
-- Level 15: Mages, Forsworn
-- Level 20: Falmer, Dwarves
-- Level 25: Vampires, Giants, Dragon Lairs
-- Level 30: Dragon Priest Dungeons, Daedra
+  - Level 05: Bandits
+  - Level 10: Draugr, Animals, Spriggans
+  - Level 15: Mages, Forsworn
+  - Level 20: Falmer, Dwarves
+  - Level 25: Vampires, Giants, Dragon Lairs
+  - Level 30: Dragon Priest Dungeons, Daedra
 - [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) aims to correct inconsistencies while overhauling the crafting system in Skyrim, allowing for item breakdowns as well as obtaining and understanding how to craft gear such as falmer and forsworn
 - [Complete Alchemy and Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19924) is a complete overhaul of Skyrim's food and alchemy system aimed to provide a consistent experience from harvesting ingredients to high end potion creation
 - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes the way the game grants you experience. In the base game, your character will level up when you level your skills enough. Through Experience, skill level is decoupled from player level. You now gain experience from discovering locations, completing quests and dungeons as well as killing enemies. Experience also adds skill caps based on player level. You wont be able to cheese smithing up to level 100 just by sitting at a forge for a few hours crafting iron daggers anymore
