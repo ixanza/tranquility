@@ -110,7 +110,7 @@ Here you will find a list of major changes and additions to the game. This list 
 - [Vagabond Armor](https://www.nexusmods.com/skyrim/mods/13230) adds a light armor set ingame that is distributed to NPCs
 - [Volkihar Knight](https://www.nexusmods.com/skyrimspecialedition/mods/4806) is a lore friendly vampire armor pack that adds 3 new vampire armor sets to the game
 - [Warchief Armor](https://www.nexusmods.com/skyrim/mods/13366) adds a warchief heavy armor set to the game that is distributed to bandit chiefs
-- [Witchplate Armor](https://www.nexusmods.com/skyrimspecialedition/mods/17053) adds a new set of armor that is distributed to bandit chiefs\
+- [Witchplate Armor](https://www.nexusmods.com/skyrimspecialedition/mods/17053) adds a new set of armor that is distributed to bandit chiefs
 
 ## Character Appearance
 
