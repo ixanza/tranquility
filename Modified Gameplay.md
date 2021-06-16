@@ -157,6 +157,6 @@ Tranquillity uses a mixture of multiple NPC overhauls. These NPCs are meant to l
 - [Serana Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/43430)
 - [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
 - [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376)
-- [Windong Immersive Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2136)
+- [Windsong Immersive Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2136)
 - [eeekie's Enhanced NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30757)
 - [eeekie's High-Poly Teldryn Sero](https://www.nexusmods.com/skyrimspecialedition/mods/43375?)
