@@ -21,7 +21,7 @@
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
     - [ENB](#enb)
-  - [The video game hs been modified](#the-video-game-hs-been-modified)
+  - [The video game has been modified](#the-video-game-has-been-modified)
   - [How to start up Tranquility](#how-to-start-up-tranquility)
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
@@ -147,7 +147,7 @@ A few other ENB suggestions are:
 - [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
 - [Re-engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
 
-## The video game hs been modified
+## The video game has been modified
 
 Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics.
 Please see [Modified Gameplay](Modified Gameplay.md) for a non exhaustive list of gameplay changes to Tranquility.
