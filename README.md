@@ -1,6 +1,6 @@
-# Tranquillity
+# Tranquility
 
-- [Tranquillity](#tranquillity)
+- [Tranquility](#tranquility)
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
   - [Installation](#installation)
@@ -20,7 +20,7 @@
     - [Game Folder](#game-folder)
     - [ENB](#enb)
   - [The video game has been modified](#the-video-game-has-been-modified)
-  - [How to start up Tranquillity](#how-to-start-up-tranquillity)
+  - [How to start up Tranquility](#how-to-start-up-tranquility)
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
@@ -37,7 +37,7 @@
 
 ## Preamble
 
-Tranquillity is a Skyrim SE modlist thats aimed at people looking for long lasting, and harder gameplay from traditional Skyrim. It uses several overhauls like Ordinator, Morrowloot, Skyrim Revamped to enhance roleplayability as well as provide a sufficient difficulty increase. Tranquillity is also built around Legacy of the Dragonborn, offering over 20 patches for the mod to fulfil your hoarding desires.
+Tranquility is a Skyrim SE modlist thats aimed at people looking for long lasting, and harder gameplay from traditional Skyrim. It uses several overhauls like Ordinator, Morrowloot, Skyrim Revamped to enhance roleplayability as well as provide a sufficient difficulty increase. tranquility is also built around Legacy of the Dragonborn, offering over 20 patches for the mod to fulfil your hoarding desires.
 
 The complete modlist can be found [here](https://loadorderlibrary.com/lists/tranquility)
 
@@ -46,7 +46,7 @@ The complete modlist can be found [here](https://loadorderlibrary.com/lists/tran
 Download Size: 102GB
 Install Size: 129GB
 
-Tranquillity is a mid to high end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p
+Tranquility is a mid to high end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p
 
 I made this list with my specs in mind and I am able to get 60FPS (capped so my GPU doesn't work harder than it needs to) in Riverwood and Whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs
 
@@ -108,7 +108,7 @@ Grab the modlist from the [releases](https://github.com/ixanza/tranquility/relea
 
 1. Open Wabbajack
 2. Click on browse Modlists and seelct the modlist you downloaded above
-3. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Programme Files, Desktop. Put it somewhere easy like `C:/Modlists/Tranquillity`). The downloads path should automatically fill in the installation path.
+3. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Programme Files, Desktop. Put it somewhere easy like `C:/Modlists/Tranquility`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
@@ -137,7 +137,7 @@ The installation will create a copy of your Skyrim Special Edition game in `Inst
 
 ### ENB
 
-Tranquillity comes with [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) included.
+Tranquility comes with [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) included.
 
 If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
@@ -150,9 +150,9 @@ A few other ENB suggestions are:
 ## The video game has been modified
 
 Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics.
-Please see [Modified Gameplay](https://github.com/ixanza/tranquillity/blob/master/Modified%20Gameplay.md) for a non exhaustive list of changes to Tranquillity.
+Please see [Modified Gameplay](https://github.com/ixanza/tranquility/blob/master/Modified%20Gameplay.md) for a non exhaustive list of changes to tranquility.
 
-## How to start up Tranquillity
+## How to start up Tranquility
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
@@ -168,7 +168,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Creating your Character
 
-Tranquillity uses Skyrim Unbound Reborn as its Alternate Start. When the game begins you will be looking over a destroyed Helgen. This is where initial scripts are started and should be left alone for about 10-15 seconds. Once it is done you can configure your desired start using the Skyrim Unbound MCM setting. When you are happy with your desired start choice, hit Begin in the MCM. **For the sake of compatibility, please do not create a non dragonborn character**. I am not going to stop you but do not expect the game to function 100% with a feature that disables a core part of Skyrim.
+Tranquility uses Skyrim Unbound Reborn as its Alternate Start. When the game begins you will be looking over a destroyed Helgen. This is where initial scripts are started and should be left alone for about 10-15 seconds. Once it is done you can configure your desired start using the Skyrim Unbound MCM setting. When you are happy with your desired start choice, hit Begin in the MCM. **For the sake of compatibility, please do not create a non dragonborn character**. I am not going to stop you but do not expect the game to function 100% with a feature that disables a core part of Skyrim.
 
 Once you begin you will be taken to character creation and then to your new game
 
@@ -183,7 +183,7 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 
 ### Optional Survival Config
 
-Included in Tranquillity is SunHelm Survival. It is disabled by default and will prompt to turn on when you sleep or if you manually activate it. If you're not a fan of this, just disable it in the MCM option. **DO NOT UNINSTALL THE MOD**
+Included in Tranquility is SunHelm Survival. It is disabled by default and will prompt to turn on when you sleep or if you manually activate it. If you're not a fan of this, just disable it in the MCM option. **DO NOT UNINSTALL THE MOD**
 
 ## Other Post Installation FAQ
 
@@ -226,7 +226,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and on my own discord [Xanza's Emporium](https://discord.gg/867QtkVuUa), I would advise checking the [Issues](https://github.com/ixanza/tranquillity/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and on my own discord [Xanza's Emporium](https://discord.gg/867QtkVuUa), I would advise checking the [Issues](https://github.com/ixanza/tranquility/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Contributing
 
