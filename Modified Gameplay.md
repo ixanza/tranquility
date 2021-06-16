@@ -62,14 +62,100 @@ Here you will find a list of major changes and additions to the game. This list 
 - [Complete Alchemy and Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19924) is a complete overhaul of Skyrim's food and alchemy system aimed to provide a consistent experience from harvesting ingredients to high end potion creation
 - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes the way the game grants you experience. In the base game, your character will level up when you level your skills enough. Through Experience, skill level is decoupled from player level. You now gain experience from discovering locations, completing quests and dungeons as well as killing enemies. Experience also adds skill caps based on player level. You wont be able to cheese smithing up to level 100 just by sitting at a forge for a few hours crafting iron daggers anymore
 - [Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/7900) is a full overhaul to hunting and looting animals and monsters. No longer will you be able to obtain pristine pelts from killing wolves and sabre cats. Instead you will need a hunting knive to skin the animal, butcher its meat and harvest ingredients from it
+- [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is a needs and hypothermia mod that requires you to eat, sleep and drink. This mod is disabled by default in Tranquility and if you wish to play with it just enable it in the MCM
+- [Spellforge](https://www.nexusmods.com/skyrimspecialedition/mods/46482) adds a new engaging method of spell acquisition through spell crafting. You can place a spellforge in any location and begin spellcrafting and with enough effort you will obtain new spells. In order to incentivize the use of this mechanic. All adept+ Spellbooks have been removed from the wild and all spellbooks sold in vendors have their prices increased 3x
 
 ## Combat and Enemy Tweaks
 
 - [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598) is a combat difficulty mod that changes enemy AI, spell preference and attack diversity. Enemies will be much more aggressive than vanilla and will have abilities to show for it
 - [Skyrim Revamped - Rebalanced and Releveled](https://www.nexusmods.com/skyrimspecialedition/mods/27201) is a tweak to Skyrim Revamped which modifies boss encounters to scale with the players level instead of being a static level. This ensures the fights are still challenging and will scale as you get stronger
 - [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807) adds a trait system to change resistances and weaknesses of creatures and armors to magic, pysical attacks, arrows and diseases.
+- [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881) limits yours and your enemies attack range by limiting the turning radius while attacking. You will now be commmited to your attacks and will no longer be able to swing and spin 360 degrees wildly. Plan your attacks and win
 - [Ordinator for Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/42022) distributes perks from Ordinator to various npcs and encounters making higher level combat harder as the enemies now have access to the same perks as you do
 - [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) distributes spells, potions, shouts to enemies from Apocalypse, Odin, Triumvirate and Thunderchild to make combat with them feel fresh and difficult
 - [SkyTEST - Realistic Animals and Predators](https://www.nexusmods.com/skyrimspecialedition/mods/1104) is an AI and difficulty tweak to animals in Skyrim. Wolves will now be smarter and try to kite the player while being afraid of fire
+- [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/45966) overhauls humanoids, centurions, giants, dragon priest AI and provides new attacks. Enemies will be able to dodge your attacks
 - [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723), [Diverse Dragon Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) and [Splendor - Dragon Variants](https://www.nexusmods.com/skyrimspecialedition/mods/9670) overhauls dragons by making them more difficult as well as adding a lot more variety to the types of dragons that will spawn
 - [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188), [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238) and [Draugr Upgrades and Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/21775) overhaul draugrs by giving them new skills, new variations as well as new bosses to fight. These draugrs ensure your time spent in dungeons will be filled with joy and frustration ;)
+
+## Cities & Towns Overhaul
+
+- [Dawn of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9074) covers the closed off cities such as Whiterun, Solitude, Riften, Markarth and Windhelm
+- [Expanded Towns and Cities SE](https://www.nexusmods.com/skyrimspecialedition/mods/13552) covers Dawnstar, Darkwater Crossing, Rorikstead and Riverwood
+- [Expanded Towns and Cities LE](https://www.nexusmods.com/skyrim/mods/13608) covers Ivarstead, Kynesgrove, Karthwasten, Dragon Bridge, Falkreath, Stonehills, Shors Stone, Raven Rock, Morthal and Winterhold. It also adds an expansion outside of Whiterun for a marketplace and modifies orc strongholds
+- [Greater Skaal Village](https://www.nexusmods.com/skyrimspecialedition/mods/642) modifies the Skaal village in Solstheim
+- [Better Tel Mithryn](https://www.nexusmods.com/skyrimspecialedition/mods/643) expands Tel Mithryn with new buildings and a dock
+- [Whistling Mine](https://www.nexusmods.com/skyrimspecialedition/mods/367) expands the village of Whistling Mine
+- [Soljund's Sinkhole](https://www.nexusmods.com/skyrimspecialedition/mods/358) expands the village of Soljund's Sinkhole
+
+## New Equipment
+
+- [Amulets of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/487) adds over 230 amulets and rings to Skyrim and gives these to various Skyrim NPCs and majority of them are handplaced in the world at appropriate locations
+- [aMidianBorn Armour Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160) adds and distributes all of the variant choices in [aMidianBorn Book of Silence](https://www.nexusmods.com/skyrimspecialedition/mods/35382) as new armors to the game
+- [Animated Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/35978) adds new weapons with new animations to the game that can be used by both the player and enemies
+- [Black Mage Armor](https://www.nexusmods.com/skyrimspecialedition/mods/356) adds a new cloth, light and heavy armor set as well as an alternative look for the archmage robes
+- [Bosmer Armor Pack](https://www.nexusmods.com/skyrimspecialedition/mods/5597) adds 5 new armor sets that can be crafted ingame
+- [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369) and [Winter is Coming](https://www.nexusmods.com/skyrimspecialedition/mods/4933) adds cloaks and capes to the game that are distributed around Skyrim as well as to NPCs
+- [Crimson Ranger Armor](https://www.nexusmods.com/skyrimspecialedition/mods/11091) is a set of armor from the Witcher 2 that can be crafted ingame
+- [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) adds new Dawnguard item variety to the game that can be sold
+- [Faction Crossbows](https://www.nexusmods.com/skyrimspecialedition/mods/4047) adds crossbows to the various factions in Skyrim that are distributed
+- [Heavy Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/18479) adds over 100 new variation of weapons to Skyrim that can be found on NPCs
+- [JaySus Swords](https://www.nexusmods.com/skyrimspecialedition/mods/29415) adds 50 handcrafted weapons that can be found on NPCs, handplaced in areas
+- [Legendary Skyrim Crossbows and Bows](https://www.nexusmods.com/skyrimspecialedition/mods/8273) adds leveled crossbows to the game and are distibuted to NPCs
+- [Mantle of the Silver Hand](https://www.nexusmods.com/skyrim/mods/34615) adds 2 headpieces with cloaks to the silver hand to show off their accomplishments in killing werevwolves
+- [Nibenean Armors and Outfit](https://www.nexusmods.com/skyrimspecialedition/mods/50785) adds 2 sets of armor (heavy and light) that can be crafted ingame
+- [Oblivion Artifacts Pack](https://www.nexusmods.com/skyrimspecialedition/mods/10644) brings back many of the classic uniques from Oblivion into Skyrim
+- [Stormlord Armor and Hevno Dovah](https://www.nexusmods.com/skyrimspecialedition/mods/36407) gives Ulfric a new outfit and adds a new weapon for Galmar
+- [Ulag's Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/20510) adds 3 new sets of armor that can be crafted ingame. Note the quest and journal requirement has been removed
+- [Vagabond Armor](https://www.nexusmods.com/skyrim/mods/13230) adds a light armor set ingame that is distributed to NPCs
+- [Volkihar Knight](https://www.nexusmods.com/skyrimspecialedition/mods/4806) is a lore friendly vampire armor pack that adds 3 new vampire armor sets to the game
+- [Warchief Armor](https://www.nexusmods.com/skyrim/mods/13366) adds a warchief heavy armor set to the game that is distributed to bandit chiefs
+- [Witchplate Armor](https://www.nexusmods.com/skyrimspecialedition/mods/17053) adds a new set of armor that is distributed to bandit chiefs\
+
+## Character Appearance
+
+- [Caliente's Beautiful Bodies Edition](https://www.nexusmods.com/skyrimspecialedition/mods/198) is the female body of choice in Tranquility. The default body choice is never nude and curvy
+- [Tempered Skin for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902) is the male body of choice.  The default body is never nude
+- [Masculine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/185) as well as [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184) covers Argonian body
+- [Masculine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/186) as well as [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183)  covers Khajiits
+- [Bijin Skin](https://www.nexusmods.com/skyrimspecialedition/mods/20078) is the default skin texture
+- [Beards](https://www.nexusmods.com/skyrimspecialedition/mods/1067) and [Brows](https://www.nexusmods.com/skyrimspecialedition/mods/1062) provide new Beard and Brow options
+- [KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/6817) provide custom hair for male and female characters
+- [Northborn Scars](https://www.nexusmods.com/skyrimspecialedition/mods/720) provide new scars
+
+## NPC Overhauls
+
+Tranquility uses a mixture of multiple NPC overhauls. These NPCs are meant to look beautiful and pretty. If you are a fan of ugly NPCs in skyrim, I apologise but this isn't the list for you. The list of NPC overhauls used are :
+
+- [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/5291?tab=files)
+- [Windong Immersive Character Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2136)
+- [Northbourne NPCs of Falkreath Hold](https://www.nexusmods.com/skyrimspecialedition/mods/37528?)
+- [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349)
+- [Northbourne NPCs of Whiterun Hold](https://www.nexusmods.com/skyrimspecialedition/mods/35404?)
+- [Northbourne NPCs of Haafingar](https://www.nexusmods.com/skyrimspecialedition/mods/48481?)
+- [Northbourne NPCs of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/43413?)
+- [Metalsabers Beautiful Orcs of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22025)
+- [Improved Bards](https://www.nexusmods.com/skyrimspecialedition/mods/7956?)
+- [Followers, Hirelings and Housecarls](https://www.nexusmods.com/skyrimspecialedition/mods/19200)
+- [BeastHHBB](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
+- [Pandorable NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012)
+- [Pandorable NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
+- [Pandorable NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680?)
+- [Pandorable NPCs - Males](https://www.nexusmods.com/skyrimspecialedition/mods/42043)
+- [Pandorable NPCs - Males 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617)
+- [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376)
+- [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247?)
+- [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789)
+- [Bijin Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825)
+- [Bijin Wives](https://www.nexusmods.com/skyrimspecialedition/mods/11247)
+- [Bijin NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287)
+- [Pandorable's Black Briar Ladies](https://www.nexusmods.com/skyrimspecialedition/mods/33731)
+- [Pandorable's Initiates](https://www.nexusmods.com/skyrimspecialedition/mods/30665)
+- [Pandorable's Valerica](https://www.nexusmods.com/skyrimspecialedition/mods/35799?)
+- [GLAM Karliah](https://www.nexusmods.com/skyrimspecialedition/mods/42917)
+- [Serana Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/43430)
+- [Elisif Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/50378)
+- [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
+- [eeekie's Enhanced NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30757)
+- [eeekie's High-Poly Teldryn Sero](https://www.nexusmods.com/skyrimspecialedition/mods/43375?)
+- [RS Children Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/2650)
