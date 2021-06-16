@@ -150,7 +150,7 @@ A few other ENB suggestions are:
 ## The video game has been modified
 
 Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics.
-Please see [Modified Gameplay](Modified Gameplay.md) for a non exhaustive list of gameplay changes to Tranquility.
+Please see [[Modified Gameplay](https://github.com/ixanza/tranquility/blob/master/Modified%20Gameplay.md) for a non exhaustive list of gameplay changes to Tranquility.
 
 ## How to start up Tranquility
 
