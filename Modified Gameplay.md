@@ -45,8 +45,31 @@ Here you will find a list of major changes and additions to the game. This list 
   - [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928) which overhauls vampires and vampire lords
   - [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31378)  which modifes werewolves and werebears
   - [Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6285) which adds new enchanments to the game
-  - [Andromeda - Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910) which overhauls the standing stones
+  - [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910) which overhauls the standing stones
   - [Thunderchild - Epic Shouts and Immersion](https://www.nexusmods.com/skyrimspecialedition/mods/1460) which adds new shouts to the game as well as pillars that can improve shouts
-  - [wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) which adds religion and worship as a gameplay aspect
+  - [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) which adds religion and worship as a gameplay aspect
   - [Wildcat - Combat of  Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368) which modifies the enemy AI and game difficulty making combat feel more alive
 
+- [OMEGA](https://www.nexusmods.com/skyrimspecialedition/mods/33718) is a huge overhaul of the game's loot, equipment and encounter zones that aim to give the game some old school RPG feel. It removes glass and above items from dropping in the world and adds hand placed loot to various areas that reward exploration.
+- [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487) is used to overwrite OMEGA's encounter zone changes by bringing things more in line. In general, these will be the levels of various caves and dungeons
+  - Level 05: Bandits
+  - Level 10: Draugr, Animals, Spriggans
+  - Level 15: Mages, Forsworn
+  - Level 20: Falmer, Dwarves
+  - Level 25: Vampires, Giants, Dragon Lairs
+  - Level 30: Dragon Priest Dungeons, Daedra
+- [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) aims to correct inconsistencies while overhauling the crafting system in Skyrim, allowing for item breakdowns as well as obtaining and understanding how to craft gear such as falmer and forsworn
+- [Complete Alchemy and Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19924) is a complete overhaul of Skyrim's food and alchemy system aimed to provide a consistent experience from harvesting ingredients to high end potion creation
+- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) changes the way the game grants you experience. In the base game, your character will level up when you level your skills enough. Through Experience, skill level is decoupled from player level. You now gain experience from discovering locations, completing quests and dungeons as well as killing enemies. Experience also adds skill caps based on player level. You wont be able to cheese smithing up to level 100 just by sitting at a forge for a few hours crafting iron daggers anymore
+- [Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/7900) is a full overhaul to hunting and looting animals and monsters. No longer will you be able to obtain pristine pelts from killing wolves and sabre cats. Instead you will need a hunting knive to skin the animal, butcher its meat and harvest ingredients from it
+
+## Combat and Enemy Tweaks
+
+- [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598) is a combat difficulty mod that changes enemy AI, spell preference and attack diversity. Enemies will be much more aggressive than vanilla and will have abilities to show for it
+- [Skyrim Revamped - Rebalanced and Releveled](https://www.nexusmods.com/skyrimspecialedition/mods/27201) is a tweak to Skyrim Revamped which modifies boss encounters to scale with the players level instead of being a static level. This ensures the fights are still challenging and will scale as you get stronger
+- [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807) adds a trait system to change resistances and weaknesses of creatures and armors to magic, pysical attacks, arrows and diseases.
+- [Ordinator for Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/42022) distributes perks from Ordinator to various npcs and encounters making higher level combat harder as the enemies now have access to the same perks as you do
+- [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) distributes spells, potions, shouts to enemies from Apocalypse, Odin, Triumvirate and Thunderchild to make combat with them feel fresh and difficult
+- [SkyTEST - Realistic Animals and Predators](https://www.nexusmods.com/skyrimspecialedition/mods/1104) is an AI and difficulty tweak to animals in Skyrim. Wolves will now be smarter and try to kite the player while being afraid of fire
+- [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723), [Diverse Dragon Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) and [Splendor - Dragon Variants](https://www.nexusmods.com/skyrimspecialedition/mods/9670) overhauls dragons by making them more difficult as well as adding a lot more variety to the types of dragons that will spawn
+- [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188), [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238) and [Draugr Upgrades and Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/21775) overhaul draugrs by giving them new skills, new variations as well as new bosses to fight. These draugrs ensure your time spent in dungeons will be filled with joy and frustration ;)
