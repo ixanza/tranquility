@@ -1,7 +1,5 @@
 # Tranquillity
 
-![build-status](https://img.shields.io/endpoint?label=%20Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2FTranquility%2Fbadge.json)
-
 - [Tranquillity](#tranquillity)
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
