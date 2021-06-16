@@ -104,7 +104,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-Grab the modlist from the [releases](https://github.com/ixanza/tranquillity/releases) tab
+Grab the modlist from the [releases](https://github.com/ixanza/tranquility/releases) tab
 
 1. Open Wabbajack
 2. Click on browse Modlists and seelct the modlist you downloaded above
