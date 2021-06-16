@@ -39,6 +39,8 @@
 
 Tranquillity is a Skyrim SE modlist thats aimed at people looking for long lasting, and harder gameplay from traditional Skyrim. It uses several overhauls like Ordinator, Morrowloot, Skyrim Revamped to enhance roleplayability as well as provide a sufficient difficulty increase. Tranquillity is also built around Legacy of the Dragonborn, offering over 20 patches for the mod to fulfil your hoarding desires.
 
+The complete modlist can be found [here](https://loadorderlibrary.com/lists/tranquility)
+
 ## System Requirements
 
 Download Size: 102GB
