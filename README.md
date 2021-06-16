@@ -50,10 +50,10 @@ Tranquility is a mid to high end list in terms of graphics. A minimum of 6GB VRA
 
 I made this list with my specs in mind and I am able to get 60FPS (capped so my GPU doesn't work harder than it needs to) in Riverwood and Whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs
 
-CPU: Ryzen 7 3700x
-GPU: EVGA RTX 3080 FTW3 Ultra
-RAM: 4x8 3200Mhz G-Skill RAM
-SSD: Crucial M1 1TB NVME SSD
+- CPU: Ryzen 7 3700x
+- GPU: EVGA RTX 3080 FTW3 Ultra
+- RAM: 4x8 3200Mhz G-Skill RAM
+- SSD: Corsair Force MP510 1TB NVME SSD
 
 ## Installation
 
@@ -150,7 +150,7 @@ A few other ENB suggestions are:
 ## The video game has been modified
 
 Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics.
-Please see [[Modified Gameplay](https://github.com/ixanza/tranquility/blob/master/Modified%20Gameplay.md) for a non exhaustive list of gameplay changes to Tranquility.
+Please see [Modified Gameplay](https://github.com/ixanza/tranquility/blob/master/Modified%20Gameplay.md) for a non exhaustive list of gameplay changes to Tranquility.
 
 ## How to start up Tranquility
 
