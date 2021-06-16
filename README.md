@@ -1,8 +1,8 @@
-# Tranquility
+# Tranquillity
 
 ![build-status](https://img.shields.io/endpoint?label=%20Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2FTranquility%2Fbadge.json)
 
-- [Tranquility](#tranquility)
+- [Tranquillity](#tranquillity)
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
   - [Installation](#installation)
@@ -10,7 +10,7 @@
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
       - [Steam Config](#steam-config)
         - [Disable the Steam Overlay](#disable-the-steam-overlay)
-      - [Change Steams Update Behavior](#change-steams-update-behavior)
+      - [Change Steams Update Behaviour](#change-steams-update-behaviour)
       - [Set the Game language to English](#set-the-game-language-to-english)
       - [Clean Skyrim](#clean-skyrim)
       - [Start Skyrim](#start-skyrim)
@@ -22,7 +22,7 @@
     - [Game Folder](#game-folder)
     - [ENB](#enb)
   - [The video game has been modified](#the-video-game-has-been-modified)
-  - [How to start up Tranquility](#how-to-start-up-tranquility)
+  - [How to start up Tranquillity](#how-to-start-up-tranquillity)
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
@@ -39,14 +39,14 @@
 
 ## Preamble
 
-Tranquility is a Skyrim SE modlist thats aimed at people looking for long lasting, and harder gameplay from traditional Skyrim. It uses several overhauls like Ordinator, Morrowloot, Skyrim Revamped to enhance roleplayability as well as provide a sufficient difficulty increase. Tranquility is also built around Legacy of the Dragonborn, offering over 20 patches for the mod to fulfill your hoarding desires.
+Tranquillity is a Skyrim SE modlist thats aimed at people looking for long lasting, and harder gameplay from traditional Skyrim. It uses several overhauls like Ordinator, Morrowloot, Skyrim Revamped to enhance roleplayability as well as provide a sufficient difficulty increase. Tranquillity is also built around Legacy of the Dragonborn, offering over 20 patches for the mod to fulfil your hoarding desires.
 
 ## System Requirements
 
 Download Size: 102GB
 Install Size: 129GB
 
-Tranquility is a mid to high end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p
+Tranquillity is a mid to high end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p
 
 I made this list with my specs in mind and I am able to get 60FPS (capped so my GPU doesn't work harder than it needs to) in Riverwood and Whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs
 
@@ -73,7 +73,7 @@ The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-#### Change Steams Update Behavior
+#### Change Steams Update Behaviour
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
@@ -91,24 +91,24 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 #### Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
+After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics cheque. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack
 
 #### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Programme Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
 #### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-Grab the modlist from the [releases](https://github.com/ixanza/tranquility/releases) tab
+Grab the modlist from the [releases](https://github.com/ixanza/tranquillity/releases) tab
 
 1. Open Wabbajack
 2. Click on browse Modlists and seelct the modlist you downloaded above
-3. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tranquility`). The downloads path should automatically fill in the installation path.
+3. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Programme Files, Desktop. Put it somewhere easy like `C:/Modlists/Tranquillity`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
@@ -137,7 +137,7 @@ The installation will create a copy of your Skyrim Special Edition game in `Inst
 
 ### ENB
 
-Tranquility comes with [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) included.
+Tranquillity comes with [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) included.
 
 If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
@@ -150,15 +150,15 @@ A few other ENB suggestions are:
 ## The video game has been modified
 
 Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics.
-Please see [Modified Gameplay](https://github.com/ixanza/tranquility/blob/master/Modified%20Gameplay.md) for a non exhaustive list of gameplay changes to Tranquility.
+Please see [Modified Gameplay](https://github.com/ixanza/tranquillity/blob/master/Modified%20Gameplay.md) for a non exhaustive list of changes to Tranquillity.
 
-## How to start up Tranquility
+## How to start up Tranquillity
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
 ## Updating
 
-If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+If this Modlist receives an update please cheque the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
@@ -168,7 +168,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Creating your Character
 
-Tranquility uses Skyrim Unbound Reborn as its Alternate Start. When the game begins you will be looking over a destroyed Helgen. This is where initial scripts are started and should be left alone for about 10-15 seconds. Once it is done you can configure your desired start using the Skyrim Unbound MCM setting. When you are happy with your desired start choice, hit Begin in the MCM. **For the sake of compatibility, please do not create a non dragonborn character**. I am not going to stop you but do not expect the game to function 100% with a feature that disables a core part of Skyrim.
+Tranquillity uses Skyrim Unbound Reborn as its Alternate Start. When the game begins you will be looking over a destroyed Helgen. This is where initial scripts are started and should be left alone for about 10-15 seconds. Once it is done you can configure your desired start using the Skyrim Unbound MCM setting. When you are happy with your desired start choice, hit Begin in the MCM. **For the sake of compatibility, please do not create a non dragonborn character**. I am not going to stop you but do not expect the game to function 100% with a feature that disables a core part of Skyrim.
 
 Once you begin you will be taken to character creation and then to your new game
 
@@ -183,7 +183,7 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 
 ### Optional Survival Config
 
-Included in Tranquility is SunHelm Survival. It is disabled by default and will prompt to turn on when you sleep or if you manually activate it. If you're not a fan of this, just disable it in the MCM option. **DO NOT UNINSTALL THE MOD**
+Included in Tranquillity is SunHelm Survival. It is disabled by default and will prompt to turn on when you sleep or if you manually activate it. If you're not a fan of this, just disable it in the MCM option. **DO NOT UNINSTALL THE MOD**
 
 ## Other Post Installation FAQ
 
@@ -193,8 +193,7 @@ If you have an ultrawide monitor (21:9), the UI will be off and look weird. You 
 
 1) Find the Mod Dear Diary on the left pane of MO2 and reinstall with your desired Widescreen aspect ratio
 2) Head over to [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778)
-3)Under Optional File grab
-   - SkyHud - High Resolution Widescreen Fix
+3) Under Optional File grab `SkyHud - High Resolution Widescreen Fix`
 Install the mod, activate it and let it load at the bottom. You should now have a working UI with widescreen support
 
 ### Tweaking the Game Settings
@@ -211,9 +210,9 @@ This can be caused by Window's Display Scaling feature. This usually is set to a
 
 - Set the display scaling back to 100% in the Screen Resolution Settings for Windows
 - Edit the mod SSE Display Tweaks.
-  - Under `[Render]`
-    - Set Fullscreen to `True`
-    - Set Borderless to `False`
+- Under `[Render]`
+- Set Fullscreen to `True`
+- Set Borderless to `False`
 
 ### Removing the Modlist
 
@@ -227,7 +226,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and on my own discord [Xanza's Emporium](https://discord.gg/867QtkVuUa), I would advise checking the [Issues](https://github.com/ixanza/tranquility/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and on my own discord [Xanza's Emporium](https://discord.gg/867QtkVuUa), I would advise checking the [Issues](https://github.com/ixanza/tranquillity/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Contributing
 
