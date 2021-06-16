@@ -1,6 +1,6 @@
 # The video game has been modified
 
-Nearly every aspect of Tranquillity is modified in some way. If something seems different from Vanilla, it's because its made to be that way.
+Nearly every aspect of Tranquility is modified in some way. If something seems different from Vanilla, it's because its made to be that way.
 Here you will find a list of major changes and additions to the game. This list is non-exhaustive, there may be stuff I missed out or left out because I didn't feel it was important enough.
 
 ## Legacy of the Dragonborn
