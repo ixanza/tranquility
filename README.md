@@ -190,6 +190,8 @@ Included in Tranquility is SunHelm Survival. It is disabled by default and will 
 
 ![keyboardmapping](images/keyboard-layout.png)
 
+Note: Nightvision is only available to Khajiits, Vampires and Werewolves. Hunter Vision is only available to Vampires and Werewolves
+
 ## Other Post Installation FAQ
 
 ### Ultrawide Options
