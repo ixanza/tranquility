@@ -38,9 +38,9 @@
 
 ## Preamble
 
-Tranquility is a Skyrim SE modlist thats aimed at people looking for long-lasting and harder gameplay from traditional Skyrim. It uses several overhauls like Ordinator, Morrowloot, Skyrim Revamped, and many others to enhance roleplayability as well as provide a sufficient difficulty increase. Tranquility is also built around Legacy of the Dragonborn, offering over 20 patches for the mod to fulfil your hoarding desires.
+Tranquility is a Skyrim SE modlist aimed at people looking for long-lasting and harder gameplay from traditional Skyrim. It uses several overhauls such as Ordinator, Morrowloot, Skyrim Revamped, and many others to enhance roleplayability as well as provide a sufficient difficulty increase. Tranquility is also built around Legacy of the Dragonborn, offering over 20 patches for the mod to fulfil your hoarding desires.
 
-The complete modlist can be found [here](https://loadorderlibrary.com/lists/tranquility)
+The complete modlist can be found [here](https://loadorderlibrary.com/lists/tranquility).
 
 ## System Requirements
 
@@ -49,7 +49,7 @@ Install Size: 129GB
 
 Tranquility is a mid- to high-end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p.
 
-I made this list with my specs in mind, and I am able to get 60FPS (capped so my GPU doesn't work harder than it needs to) in Riverwood and Whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs:
+I made this list with my specs in mind, and I am able to get 60FPS (capped so my GPU doesn't work harder than it needs to) in Riverwood and Whiterun outdoors with Rudy ENB for Cathedral Weathers and these specs:
 
 - CPU: Ryzen 7 3700x
 - GPU: EVGA RTX 3080 FTW3 Ultra
@@ -72,13 +72,13 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
+Open the Properties window (right-click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
 #### Change Steams Update Behaviour
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
 #### Set the Game language to English
 
@@ -88,35 +88,35 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. Alternatively you can use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to remove everything modding related from your Skyrim folder. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
+I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting its contents. Alternatively you can use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to remove everything modding-related from your hard drive.
 
 #### Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics cheque. Do not worry about this part as the installation will replace this graphics settings.
+After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the Tranquility will overwrite these graphics settings.
 Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack
 
 #### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Programme Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Programme Files folder. It's best to create a Wabbajack folder near the root level of your drive, e.g. `C:/Wabbajack`.
 
 #### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-Grab the modlist from the [releases](https://github.com/ixanza/tranquility/releases) tab
+Grab the modlist from the [releases](https://github.com/ixanza/tranquility/releases) tab.
 
-1. Open Wabbajack
-2. Click on browse Modlists and seelct the modlist you downloaded above
+1. Open Wabbajack.
+2. Click on browse Modlists and seelct the modlist you downloaded above.
 3. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Programme Files, Desktop. Put it somewhere easy like `C:/Modlists/Tranquility`). The downloads path should automatically fill in the installation path.
-4. Click the Go/Begin button
-5. Wait for Wabbajack to finish
+4. Click the Go/Begin button.
+5. Wait for Wabbajack to finish.
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
 ##### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend restarting Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
 **Could not download x**:
 
@@ -134,13 +134,13 @@ This error occurs when you don't specify an installation folder in the installat
 
 ### Game Folder
 
-The installation will create a copy of your Skyrim Special Edition game in `Instalation Folder/Stock Games`. This will then contain all the necessary files such as SKSE, ENB Binaries, Reshade Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game
+The installation will create a copy of your Skyrim Special Edition game in `Installation Folder/Stock Games`. This will then contain all the necessary files such as SKSE, ENB Binaries, Reshade Binaries, and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game
 
 ### ENB
 
 Tranquility comes with [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) included.
 
-If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed: Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings, etc.
+If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed: Delete the enbcache folder, enbseries folder, and enbseries.ini, and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, VSYNC settings, etc.
 
 A few other ENB suggestions are:
 
@@ -151,7 +151,7 @@ A few other ENB suggestions are:
 ## The video game has been modified
 
 Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics.
-Please see [Modified Gameplay](https://github.com/ixanza/tranquility/blob/master/Modified%20Gameplay.md) for a non-exhaustive list of changes to Tranquility.
+Please see [Modified Gameplay](https://github.com/ixanza/tranquility/blob/master/Modified%20Gameplay.md) for a non-exhaustive list of changes in Tranquility.
 
 ## How to start up Tranquility
 
@@ -159,7 +159,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 ## Updating
 
-If this Modlist receives an update please cheque the Changelog before doing anything. Always backup your saves or start a new game after updating.
+If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
@@ -169,7 +169,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Creating your Character
 
-Tranquility uses Skyrim Unbound Reborn as its Alternate Start. When the game begins you will be looking over a destroyed Helgen. This is where initial scripts are started and should be left alone for about 10-15 seconds. Once it is done you can configure your desired start using the Skyrim Unbound MCM setting. When you are happy with your desired start choice, hit Begin in the MCM. **For the sake of compatibility, please do not create a non dragonborn character**. I am not going to stop you but do not expect the game to function 100% with a feature that disables a core part of Skyrim.
+Tranquility uses Skyrim Unbound Reborn as its alternate start mod. When the game begins you will be looking over a destroyed Helgen. This is where initial scripts are started and should be left alone for about 10-15 seconds. Once it is done you can configure your desired start using the Skyrim Unbound MCM setting. When you are happy with your desired start choice, hit Begin in the MCM. **For the sake of compatibility, please do not create a non dragonborn character**. I am not going to stop you but do not expect the game to function 100% with a feature that disables a core part of Skyrim.
 
 Once you begin you will be taken to character creation and then to your new game
 
@@ -190,18 +190,20 @@ Included in Tranquility is SunHelm Survival. It is disabled by default and will 
 
 ![keyboardmapping](images/keyboard-layout.png)
 
-Note: Nightvision is only available to Khajiits, Vampires and Werewolves. Hunter Vision is only available to Vampires and Werewolves
+Note: Night vision is only available to Khajiit, Vampires, and Werewolves. Hunter Vision is only available to Vampires and Werewolves.
 
 ## Other Post Installation FAQ
 
 ### Ultrawide Options
 
-If you have an ultrawide monitor (21:9), the UI will be off and look weird. You will want to install a set of mods meant to help with widescreen monitors
+If you have an ultrawide monitor (21:9), the UI will look off. You will want to install a set of mods meant to help with widescreen monitors:
 
-1) Find the Mod Dear Diary on the left pane of MO2 and reinstall with your desired Widescreen aspect ratio
-2) Head over to [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778)
-3) Under Optional File grab `SkyHud - High Resolution Widescreen Fix`
-Install the mod, activate it and let it load at the bottom. You should now have a working UI with widescreen support
+1) Find the mod Dear Diary in the left pane of MO2 and reinstall it with your desired Widescreen aspect ratio.
+2) Head over to [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778).
+3) Under Optional Files, grab `SkyHud - High Resolution Widescreen Fix`.
+4) Install the mod, activate it, and let it load at the bottom.
+ 
+You should now have a working UI with widescreen support.
 
 ### Tweaking the Game Settings
 
@@ -209,17 +211,17 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 
 - `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
 - `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
-- `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
+- `Remove Shadows`: If you really struggle, use this. This will disable all shadows (not recommended).
 
 ### Zoomed in Display
 
 This can be caused by Window's Display Scaling feature. This usually is set to above 100% when using very large (32 inch++) sized monitors and TVs. There are two solutions to this
 
-- Set the display scaling back to 100% in the Screen Resolution Settings for Windows
-- Edit the mod SSE Display Tweaks.
-- Under `[Render]`
-- Set Fullscreen to `True`
-- Set Borderless to `False`
+- Set the display scaling back to 100% in the Screen Resolution Settings for Windows.
+
+Or edit the mod SSE Display Tweaks:
+
+- Under `[Render]` set Fullscreen to `True` and Borderless to `False`.
 
 ### Removing the Modlist
 
