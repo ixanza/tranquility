@@ -38,7 +38,7 @@
 
 ## Preamble
 
-Tranquility is a Skyrim SE modlist thats aimed at people looking for long lasting, and harder gameplay from traditional Skyrim. It uses several overhauls like Ordinator, Morrowloot, Skyrim Revamped to enhance roleplayability as well as provide a sufficient difficulty increase. tranquility is also built around Legacy of the Dragonborn, offering over 20 patches for the mod to fulfil your hoarding desires.
+Tranquility is a Skyrim SE modlist thats aimed at people looking for long-lasting and harder gameplay from traditional Skyrim. It uses several overhauls like Ordinator, Morrowloot, Skyrim Revamped, and many others to enhance roleplayability as well as provide a sufficient difficulty increase. Tranquility is also built around Legacy of the Dragonborn, offering over 20 patches for the mod to fulfil your hoarding desires.
 
 The complete modlist can be found [here](https://loadorderlibrary.com/lists/tranquility)
 
@@ -47,9 +47,9 @@ The complete modlist can be found [here](https://loadorderlibrary.com/lists/tran
 Download Size: 102GB
 Install Size: 129GB
 
-Tranquility is a mid to high end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p
+Tranquility is a mid- to high-end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p.
 
-I made this list with my specs in mind and I am able to get 60FPS (capped so my GPU doesn't work harder than it needs to) in Riverwood and Whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs
+I made this list with my specs in mind, and I am able to get 60FPS (capped so my GPU doesn't work harder than it needs to) in Riverwood and Whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs:
 
 - CPU: Ryzen 7 3700x
 - GPU: EVGA RTX 3080 FTW3 Ultra
@@ -116,7 +116,7 @@ Grab the modlist from the [releases](https://github.com/ixanza/tranquility/relea
 
 ##### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
 **Could not download x**:
 
@@ -128,7 +128,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 **Path is a zero length string error**:
 
-This error occurs when you don't specify an installation folder in the installation before hitting run
+This error occurs when you don't specify an installation folder in the installation before hitting run.
 
 ## Post-Installation
 
@@ -140,7 +140,7 @@ The installation will create a copy of your Skyrim Special Edition game in `Inst
 
 Tranquility comes with [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) included.
 
-If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed: Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings, etc.
 
 A few other ENB suggestions are:
 
@@ -151,7 +151,7 @@ A few other ENB suggestions are:
 ## The video game has been modified
 
 Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics.
-Please see [Modified Gameplay](https://github.com/ixanza/tranquility/blob/master/Modified%20Gameplay.md) for a non exhaustive list of changes to tranquility.
+Please see [Modified Gameplay](https://github.com/ixanza/tranquility/blob/master/Modified%20Gameplay.md) for a non-exhaustive list of changes to Tranquility.
 
 ## How to start up Tranquility
 
@@ -233,7 +233,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and on my own discord [Xanza's Emporium](https://discord.gg/867QtkVuUa), I would advise checking the [Issues](https://github.com/ixanza/tranquility/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and on my own Discord [Xanza's Emporium](https://discord.gg/867QtkVuUa), I would advise checking the [Issues](https://github.com/ixanza/tranquility/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Contributing
 
