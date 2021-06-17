@@ -202,7 +202,7 @@ If you have an ultrawide monitor (21:9), the UI will look off. You will want to 
 2) Head over to [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778).
 3) Under Optional Files, grab `SkyHud - High Resolution Widescreen Fix`.
 4) Install the mod, activate it, and let it load at the bottom.
- 
+
 You should now have a working UI with widescreen support.
 
 ### Tweaking the Game Settings

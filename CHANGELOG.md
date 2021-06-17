@@ -20,11 +20,12 @@
 
 **Fixes**:
 
-- Tweaked Faction Crossbows to be more inline with the other crossbows (20 damamge imperial crossbows were too strong)
-- Nerfed Auri's bows and arrows to steel tier and her enchantment on the bow to rank 1 (was rank 5)
+- Tweaked Faction Crossbows to be more inline with the other crossbows (20 damage imperial crossbows were too strong)
+- Nerfed Auri's bows and arrows to steel tier and removed the enchantment on her bow
 - Fixed some NPCs spawning without a bow
 - Fixed floating cabbages in Falkreath
 - Removed Lockpicking level requirement from Lock Overhaul
+- Nerfed Experience gained from discovering locations by half across the board
 
 ## 0.1.1
 
