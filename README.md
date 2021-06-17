@@ -25,6 +25,7 @@
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
     - [Optional Survival Config](#optional-survival-config)
+    - [Keyboard Mapping](#keyboard-mapping)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -184,6 +185,10 @@ All the required MCM options have been automated for you. Enjoy the game or twea
 ### Optional Survival Config
 
 Included in Tranquility is SunHelm Survival. It is disabled by default and will prompt to turn on when you sleep or if you manually activate it. If you're not a fan of this, just disable it in the MCM option. **DO NOT UNINSTALL THE MOD**
+
+### Keyboard Mapping
+
+![keyboardmapping](images/keyboard-layout.png)
 
 ## Other Post Installation FAQ
 
