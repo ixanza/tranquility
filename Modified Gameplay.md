@@ -5,11 +5,11 @@ Here you will find a list of major changes and additions to the game. This list 
 
 ## Legacy of the Dragonborn
 
-- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) adds a new museum to the city of Solitude. Tranquillity was built around Legacy of the Dragonborn and fully expects you to engage with it. This mod lets you display your accomplishments by showing off weapons, armours, dragon masks, Daedric artifacts, and more that you've obtained on your travels. It also contains a fully-featured player home equipped with a Craftloot system that lets you store and retrieve ingredients from containers for crafting.
+- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) adds a new museum to the city of Solitude. Tranquility was built around Legacy of the Dragonborn and fully expects you to engage with it. This mod lets you display your accomplishments by showing off weapons, armours, dragon masks, Daedric artifacts, and more that you've obtained on your travels. It also contains a fully-featured player home equipped with a Craftloot system that lets you store and retrieve ingredients from containers for crafting.
 
 ## Modified and Expanded Quests
 
-- [Andrealphus' Harder Quests](https://www.nexusmods.com/skyrimspecialedition/mods/27939?) makes a few of the vanilla quests and requirements harder by increasing the requirement or changing the conditions. The quests that are affected in Tranquillity are the Temple of Mara and Bloodkin Questlines.
+- [Andrealphus' Harder Quests](https://www.nexusmods.com/skyrimspecialedition/mods/27939?) makes a few of the vanilla quests and requirements harder by increasing the requirement or changing the conditions. The quests that are affected in Tranquility are the Temple of Mara and Bloodkin Questlines.
 - [Enhanced Skyrim Factions - The Companions Guild](https://www.nexusmods.com/skyrim/mods/22650) overhauls the Companions Questline by adding level and skill requirements for progressing through the ranks. It also adds new, unvoiced dialogue as well as AI behaviour changes such as questgivers waiting for you outside of Jorrvaskr for your return.
 - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localised quests through Missive Boards which you can find in cities.
 - [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427?) modifies the level requirements for each type of radiant quest. You will no longer be asked to clear out a vampire den or a giant's camp at level 1. These will only be assigned at higher levels.
@@ -36,7 +36,7 @@ Here you will find a list of major changes and additions to the game. This list 
 
 ## Gameplay Overhauls
 
-- Tranquillity uses the full suite of [Enai Siaion's](https://www.nexusmods.com/skyrimspecialedition/users/3959191?tab=user+files) mods to enhance all the core gameplay aspects of Skyrim. The list of mods included are
+- Tranquility uses the full suite of [Enai Siaion's](https://www.nexusmods.com/skyrimspecialedition/users/3959191?tab=user+files) mods to enhance all the core gameplay aspects of Skyrim. The list of mods included are
   - [Andromeda - Unique Standing Stones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/14910) which overhauls the Standing Stones.
   - [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090) for new spells.
   - [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31378) which modifes werewolves and werebears.
@@ -66,7 +66,7 @@ Here you will find a list of major changes and additions to the game. This list 
 - [Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/7900) is a full overhaul to hunting and looting animals and monsters. No longer will you be able to obtain pristine pelts from killing wolves and sabre cats. Instead, you will need a hunting knife to skin the animal, butcher its meat, and harvest ingredients from it.
 - [Lock Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14927) overhauls the lockpicking system in Skyrim. You now need to invest into your Lockpicking tree to be able to pick locks, or you can smash locks or unlock them via magic if you're specialised enough in those skill trees.
 - [Spellforge](https://www.nexusmods.com/skyrimspecialedition/mods/46482) adds a new, engaging method of spell acquisition through spell crafting. You can place a spellforge in any location and begin spellcrafting, and with enough effort you will obtain new spells. In order to incentivise the use of this mechanic all Adept+ spellbooks have been removed from the wild and all spellbooks sold by vendors have their prices tripled.
-- [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is a needs and hypothermia mod that requires you to eat, sleep, and drink. This mod is disabled by default in Tranquillity. If you wish to play with it just enable it in the MCM.
+- [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is a needs and hypothermia mod that requires you to eat, sleep, and drink. This mod is disabled by default in Tranquility. If you wish to play with it just enable it in the MCM.
 
 ## Combat and Enemy Tweaks
 
@@ -119,7 +119,7 @@ Here you will find a list of major changes and additions to the game. This list 
 
 - [Beards](https://www.nexusmods.com/skyrimspecialedition/mods/1067) and [Brows](https://www.nexusmods.com/skyrimspecialedition/mods/1062) provide new Beard and Brow options.
 - [Bijin Skin](https://www.nexusmods.com/skyrimspecialedition/mods/20078) is the default skin texture.
-- [Caliente's Beautiful Bodies Edition](https://www.nexusmods.com/skyrimspecialedition/mods/198) is the female body of choice in Tranquillity. The default body choice is never nude and curvy.
+- [Caliente's Beautiful Bodies Edition](https://www.nexusmods.com/skyrimspecialedition/mods/198) is the female body of choice in Tranquility. The default body choice is never nude and curvy.
 - [KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/6817) provide custom hair for male and female characters.
 - [Masculine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/185) as well as [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184) covers the Argonian bodies.
 - [Masculine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/186) as well as [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183) covers the Khajiit bodies.
@@ -128,7 +128,7 @@ Here you will find a list of major changes and additions to the game. This list 
 
 ## NPC Overhauls
 
-Tranquillity uses a combination of multiple NPC overhauls. These NPCs are meant to look beautiful and pretty. If you are a fan of ugly NPCs in Skyrim, I apologise but this isn't the list for you. The list of NPC overhauls used are:
+Tranquility uses a combination of multiple NPC overhauls. These NPCs are meant to look beautiful and pretty. If you are a fan of ugly NPCs in Skyrim, I apologise but this isn't the list for you. The list of NPC overhauls used are:
 
 - [BeastHHBB](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
 - [Bijin NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287)
