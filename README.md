@@ -92,7 +92,7 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 #### Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the Tranquility will overwrite these graphics settings.
+After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will overwrite these graphics settings.
 Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack

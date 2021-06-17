@@ -1,5 +1,18 @@
 # Changelog
 
+## Tranquility v0.2
+
+**Build at:** `Unreleased`
+
+**Fixes**:
+
+- Tweaked Faction Crossbows to be more inline with the other crossbows (20 damamge imperial crossbows were too strong)
+- Nerfed Auri's bows and arrows to steel tier and her enchantment on the bow to rank 1 (was rank 5)
+- Fixed some NPCs spawning without a bow
+- Removed Lockpicking level requirement from Lock Overhaul
+
+## Tranquility v0.1.1
+
 **Build at:** `6/17/2021 12:08:30 PM`
 
 **Info**:
