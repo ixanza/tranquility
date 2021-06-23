@@ -117,6 +117,7 @@ Here you will find a list of major changes and additions to the game. This list 
 - [Amulets of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/487) adds over 230 amulets and rings to Skyrim, and distributes them to various Skyrim NPCs. The majority of them is handplaced in the world at appropriate locations.
 - [aMidianBorn Armour Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160) adds and distributes all of the variant choices in [aMidianBorn Book of Silence](https://www.nexusmods.com/skyrimspecialedition/mods/35382) as new armours to the game.
 - [Animated Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/35978) adds new weapons with new animations to the game that can be used by both the player and NPCs.
+- [Belsky Swords](https://www.nexusmods.com/skyrimspecialedition/mods/51413) adds new steel swords from billyro.
 - [Black Mage Armour](https://www.nexusmods.com/skyrimspecialedition/mods/356) adds a new cloth, light and heavy armour set as well as an alternative look for the Archmage Robes.
 - [Bosmer Armour Pack](https://www.nexusmods.com/skyrimspecialedition/mods/5597) adds five new armour sets that can be crafted in-game.
 - [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369) and [Winter is Coming](https://www.nexusmods.com/skyrimspecialedition/mods/4933) adds cloaks and capes to the game that are distributed around Skyrim as well as to NPCs.
@@ -126,14 +127,18 @@ Here you will find a list of major changes and additions to the game. This list 
 - [Heavy Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/18479) adds over 100 new variation of weapons to Skyrim that can be found on NPCs.
 - [JaySus Swords](https://www.nexusmods.com/skyrimspecialedition/mods/29415) adds fifty hand-crafted weapons that can be found on NPCs, hand-placed in certain areas.
 - [Legendary Skyrim Crossbows and Bows](https://www.nexusmods.com/skyrimspecialedition/mods/8273) adds levelled crossbows to the game which are also distibuted to NPCs.
+- [Lustmord Vampire Armor](https://www.nexusmods.com/skyrimspecialedition/mods/16676) adds a new vampire armor set and crossbow. This is Serana's default outfit.
 - [Mantle of the Silver Hand](https://www.nexusmods.com/skyrim/mods/34615) adds two head pieces with cloaks to the Silver Hand to show off their accomplishments in killing werewolves.
 - [Nibenean Armours and Outfit](https://www.nexusmods.com/skyrimspecialedition/mods/50785) adds two sets of armour (heavy and light) that can be crafted in-game.
+- [Nordic Wanderer Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/7943) adds a steel plate tier armor and steel weapons.
 - [Oblivion Artifacts Pack](https://www.nexusmods.com/skyrimspecialedition/mods/10644) brings back many of the classic uniques from Oblivion into Skyrim.
+- [Simple Bound Weapon Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/21013) adds more bound weapon types that were missing in the base game.
 - [Stormlord Armour and Hevno Dovah](https://www.nexusmods.com/skyrimspecialedition/mods/36407) gives Ulfric a new outfit and adds a new weapon for Galmar.
 - [Ulag's Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/20510) adds three new sets of armour that can be crafted ingame. Note that the quest and journal requirement has been removed.
 - [Vagabond Armour](https://www.nexusmods.com/skyrim/mods/13230) adds a light armour set ingame that is distributed to NPCs.
 - [Volkihar Knight](https://www.nexusmods.com/skyrimspecialedition/mods/4806) is a lore friendly vampire armour pack that adds 3 new vampire armour sets to the game.
 - [Warchief Armour](https://www.nexusmods.com/skyrim/mods/13366) adds a warchief heavy armour set to the game that is distributed to bandit chiefs.
+- [Warmonger Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/17809) adds new lore friendly armour, weapons and clothes to the vanilla game and DLCs. It also adds belt-worn Dragon Priest masks.
 - [Witchplate Armour](https://www.nexusmods.com/skyrimspecialedition/mods/17053) adds a new set of armour that is distributed to bandit chiefs.
 
 ## Character Appearance
