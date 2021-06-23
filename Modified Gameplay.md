@@ -3,6 +3,27 @@
 Nearly every aspect of Tranquility is modified in some way. If something seems different from Vanilla, it's because it's made to be that way.
 Here you will find a list of major changes and additions to the game. This list is non-exhaustive; there may be stuff I missed or left out because I didn't feel it was important enough.
 
+## Main Questline, Daedric Quests, Miscellaneous Quests and DLCs
+
+- [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) is the alternate start choice of Tranquility. The main quest has been altered slightly due to this mod. You do not have to go and gather the Dragonstone for Farengar. After a few weeks, Dragons will start spawning in the world and slaying your first Dragon will progress the main quest as normal.
+- [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) modifies the level and quest requirements to begin the DLCs, Daedric questlines, and some miscellaneous quests. These are the new triggers to begin the respective quests:
+  - Dawnguard Recruitment: Level 30
+  - Hearthfire: Level 20
+  - Dragonborn: Starts after Horn of Jurgen Windcaller and Level 50
+  - The Cursed Tribe: Level 25
+  - The Break of Dawn: Level 45. Must not be a Vampire
+  - The Only Cure: Level 40
+  - A Night to Remember: Level 30
+  - Discerning the Transmundane: Level 60
+  - The Whispering Door: Level 40
+  - Pieces of The Past: Level 35
+  - Boethiah's Calling: Level 40
+  - The Wolf Queen Awakened: Level 47
+  - Unfathomable Depths: Level 32
+  - Grimsever's Return: Level 32
+  - Deathbrand: Level 36
+  - Ebony Warrior: Level 75
+
 ## Legacy of the Dragonborn
 
 - [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) adds a new museum to the city of Solitude. Tranquility was built around Legacy of the Dragonborn and fully expects you to engage with it. This mod lets you display your accomplishments by showing off weapons, armours, dragon masks, Daedric artifacts, and more that you've obtained on your travels. It also contains a fully-featured player home equipped with a Craftloot system that lets you store and retrieve ingredients from containers for crafting.
@@ -10,7 +31,7 @@ Here you will find a list of major changes and additions to the game. This list 
 ## Modified and Expanded Quests
 
 - [Andrealphus' Harder Quests](https://www.nexusmods.com/skyrimspecialedition/mods/27939?) makes a few of the vanilla quests and requirements harder by increasing the requirement or changing the conditions. The quests that are affected in Tranquility are the Temple of Mara and Bloodkin Questlines.
-- [Enhanced Skyrim Factions - The Companions Guild](https://www.nexusmods.com/skyrim/mods/22650) overhauls the Companions Questline by adding level and skill requirements for progressing through the ranks. It also adds new, unvoiced dialogue as well as AI behaviour changes such as questgivers waiting for you outside of Jorrvaskr for your return.
+- [Enhanced Skyrim Factions - The Companions Guild](https://www.nexusmods.com/skyrim/mods/22650) overhauls the Companions questline by adding level and skill requirements for progressing through the ranks. It also adds new, unvoiced dialogue as well as AI behaviour changes such as questgivers waiting for you outside of Jorrvaskr for your return.
 - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localised quests through Missive Boards which you can find in cities.
 - [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427?) modifies the level requirements for each type of radiant quest. You will no longer be asked to clear out a vampire den or a giant's camp at level 1. These will only be assigned at higher levels.
 - [Save The Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681) adds a few alternative paths to the Lights out quest, giving you more options such as reporting Jaree-Ra.

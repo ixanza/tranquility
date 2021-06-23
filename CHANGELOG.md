@@ -1,5 +1,21 @@
 # Changelog
 
+## Tranquility v0.2.1
+
+**Fixes & Tweaks**:
+
+- Adjusted all MCM Automation to start after 10 seconds instead of 5 seconds to maybe be more consistent on lower end machines
+- Fixed 5 more black face bugs for Ancano,Bothela(this fixes the crash entering Hag's Cure), Captain Lonely Gale, Idesa Sadri, Drevis Neloren
+- Disabled a tree that was placed underground in Shor's Stone
+- Fixed getting teleported into a farmhouse when taking a carriage to Dawnsta
+- Tweaked Sunhelm's Carry Weight Penalty to -50 instead of -150 to take into account the carry weight nerf from NPC Stat Rescaler.
+- Disabled Hunterborn needing a Skinning Knife and disabled distribution of skinning knives
+- Replaced the 10 jarrin root in a barrel in Whiterun with 3 apples
+- Fixed a janky ceiling seam in Embershard Mine Revisited
+- Fixed Altano's dialog from Vigilant playing at the wrong time. Vigilant should now properly be available at level 25 onwards
+- Nerfed Auri again
+- Randomised Word Walls again
+
 ## Tranquility v0.2
 
 **Build at:** `6/17/2021 11:35:20 PM`
