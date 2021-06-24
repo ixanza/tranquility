@@ -1,6 +1,81 @@
 # Changelog
 
-## Tranquility v0.2.1
+## Tranquility v0.4
+
+**Build at:** `6/24/2021 11:39:59 AM`
+
+## This update requires a new game (sorry about that)
+
+**Info**:
+
+- Download Size change: -170.2MB (Total: 95.9GB)
+- Install Size change: -306.1MB (Total: 121.2GB)
+
+**Download Changes**:
+
+- Added [TESL Loading Screens - Tweaks and Addons](http://nexusmods.com/skyrimspecialedition/mods/40919)
+- Updated [Legacy of the Dragonborn SSE](http://nexusmods.com/skyrimspecialedition/mods/11802)
+- Updated [Legacy of the Dragonborn  - The Curators Companion](http://nexusmods.com/skyrimspecialedition/mods/38529)
+- Updated [powerofthree's Tweaks](http://nexusmods.com/skyrimspecialedition/mods/51073)
+
+**Fixes & Tweaks**:
+
+- Fixed Knight of Chorrol Helmet being invisible
+- Fixed not being able to regenerate magicka and stamina in combat
+- Adjusted starting health, magicka, stamina and carry weight based on Imperious values for NPC Stat Rescaler
+- Disabled recipe for crafting the Improved Targe of the Blooded
+- Hopefully fixed weird lighting/water records due to the randomized word wall patch reverting RW2 and Luminosity
+- Hopefully fixed screenshot location so screenshots actually get saved now
+
+## Tranquility v0.3
+
+**Build at:** `6/24/2021 12:34:25 AM`
+
+## This update requires a new game
+
+**Info**:
+
+- Download Size change: -767.3MB (Total: 95.8GB)
+- Install Size change: 2.6GB (Total: 120.9GB)
+
+**Download Changes**:
+
+- Added [Belsky Swords](http://nexusmods.com/skyrimspecialedition/mods/51413)
+- Added [C.O.I.N. - Coins of Interesting Natures](http://nexusmods.com/skyrimspecialedition/mods/51439)
+- Added [Courier Shows Delivery SE](http://nexusmods.com/skyrimspecialedition/mods/51447)
+- Added [Dynamic Things Alternative](http://nexusmods.com/skyrimspecialedition/mods/49250)
+- Added [Honed Metal Revoiced](http://nexusmods.com/skyrimspecialedition/mods/34393)
+- Added [Lustmord Vampire Armor - SSE CBBE BodySlide (with Physics)](http://nexusmods.com/skyrimspecialedition/mods/16676)
+- Added [Nordic Wanderer Equipment SSE](http://nexusmods.com/skyrimspecialedition/mods/7943)
+- Added [Nordic Wanderer Equipment Beast Race Helmets SSE](http://nexusmods.com/skyrimspecialedition/mods/44455)
+- Added [Open Face Guard Helmets](http://nexusmods.com/skyrimspecialedition/mods/13943)
+- Added [Open World Loot - Encounter Zone and Loot Overhaul](http://nexusmods.com/skyrimspecialedition/mods/49681)
+- Added [Simple Bound Weapons Expansion](http://nexusmods.com/skyrimspecialedition/mods/21013)
+- Added [Warmonger Armory - Unofficial Fixed SSE Port](http://nexusmods.com/skyrimspecialedition/mods/17809)
+- Added [Warmonger Armory Tweaks - Loremonger Edition](http://nexusmods.com/skyrimspecialedition/mods/35899)
+- Added [BURP - Book Unity and Revamp Project](http://nexusmods.com/skyrimspecialedition/mods/50109)
+- Added [Assorted mesh fixes](http://nexusmods.com/skyrimspecialedition/mods/32117)
+- Added [Belsky Swords](http://nexusmods.com/skyrimspecialedition/mods/51413)
+- Added [High Poly Canticle Tree](http://nexusmods.com/skyrimspecialedition/mods/51433)
+- Added [Nordic Wanderer Equipment SSE](http://nexusmods.com/skyrimspecialedition/mods/7943)
+- Added [Particle Lights for ENB - Staff Enchanter](http://nexusmods.com/skyrimspecialedition/mods/51454)
+- Added [Warmonger Armory Tweaks - Loremonger Edition](http://nexusmods.com/skyrimspecialedition/mods/35899)
+- Added [Warmonger's Armory Bodyslide Fil3s](http://nexusmods.com/skyrimspecialedition/mods/31034)
+- Updated [Reliquary of Myth - Artifact Overhaul](http://nexusmods.com/skyrimspecialedition/mods/31612)
+- Updated [Shadows Of Sunlight - In Small Exterior World Spaces](http://nexusmods.com/skyrimspecialedition/mods/41368)
+- Updated [Undeath - Classical Lichdom](http://nexusmods.com/skyrimspecialedition/mods/40802)
+- Updated [Vigilant - NPC Overhaul](http://nexusmods.com/skyrimspecialedition/mods/22146)
+- Updated [kryptopyr's Patch Hub](http://nexusmods.com/skyrimspecialedition/mods/19518)
+- Updated [Wintersun - Faiths of Skyrim](http://nexusmods.com/skyrimspecialedition/mods/22506)
+- Updated [Dear Diary - Paper SkyUI Menus Replacer SE](http://nexusmods.com/skyrimspecialedition/mods/23010)
+- Updated [Bright Waterfall Fix for ENB](http://nexusmods.com/skyrimspecialedition/mods/37956)
+- Updated [powerofthree's Tweaks](http://nexusmods.com/skyrimspecialedition/mods/51073)
+- Updated [Scrambled Bugs](http://nexusmods.com/skyrimspecialedition/mods/43532)
+- Updated [Simple Dual Sheath](http://nexusmods.com/skyrimspecialedition/mods/50049)
+- Updated [Markarth - A Reflective Experience](http://nexusmods.com/skyrimspecialedition/mods/43864)
+- Updated [Savage Skyrim](http://nexusmods.com/skyrimspecialedition/mods/37768)
+- Updated [Bright Waterfall Fix for ENB](http://nexusmods.com/skyrimspecialedition/mods/37956)
+- Updated [Whiterun Mesh Fixes](http://nexusmods.com/skyrimspecialedition/mods/48120)
 
 **Fixes & Tweaks**:
 
