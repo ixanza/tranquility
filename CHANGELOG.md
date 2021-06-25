@@ -1,5 +1,13 @@
 # Changelog
 
+## Tranquility v0.4.1
+
+**Build at:** `6/25/2021 9:29:31 AM`
+
+**Fixes & Tweaks:**
+
+- Fixed an issue with steel plate leveled lists causing some npcs to appear naked or only have 1 piece of an armor instead of the full set. If you see an NPC with this problem before the update. click on them in the console and do `resetinventory` to update their outfits.
+
 ## Tranquility v0.4
 
 **Build at:** `6/24/2021 11:39:59 AM`
