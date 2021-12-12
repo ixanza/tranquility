@@ -38,7 +38,7 @@
 
 ## Preamble
 
-Tranquility is a Skyrim SE modlist aimed at people looking for long-lasting and harder gameplay from traditional Skyrim. It uses several overhauls such as Ordinator, Morrowloot, Skyrim Revamped, and many others to enhance roleplayability as well as provide a sufficient difficulty increase. Tranquility is also built around Legacy of the Dragonborn, offering over 20 patches for the mod to fulfil your hoarding desires.
+Tranquility is a Skyrim SE [Insert Text Here].
 
 The complete modlist can be found [here](https://loadorderlibrary.com/lists/tranquility).
 
@@ -138,14 +138,14 @@ The installation will create a copy of your Skyrim Special Edition game in `Inst
 
 ### ENB
 
-Tranquility comes with [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) included.
+Tranquility comes with [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113) included.
 
 If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed: Delete the enbcache folder, enbseries folder, and enbseries.ini, and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, VSYNC settings, etc.
 
 A few other ENB suggestions are:
 
 - [Serio's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30506)
-- [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
+- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 - [Re-engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
 
 ## The video game has been modified
