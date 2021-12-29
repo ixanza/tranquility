@@ -38,7 +38,7 @@
 
 ## Preamble
 
-Tranquility is a Skyrim SE [Insert Text Here].
+Just some jank with JK's Skyrim, full Simonrim suite, full Creation Club content and custom difficulty modification. Shilling $20 to Bethesda for the Anniversary Upgrade is **REQUIRED**.
 
 The complete modlist can be found [here](https://loadorderlibrary.com/lists/tranquility).
 
@@ -74,12 +74,6 @@ The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right-click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-#### Change Steams Update Behaviour
-
-SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
-
-To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
-
 #### Set the Game language to English
 
 Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
@@ -88,12 +82,13 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting its contents. Alternatively you can use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to remove everything modding-related from your hard drive.
+I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting its contents.
+A fully updated Skyrim (1.6.342 at the current version of Tranquility) is required. Do not run the Downgrade Patcher or the list will not install. 
 
 #### Start Skyrim
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will overwrite these graphics settings.
-Start the game and exit once you're in the main menu.
+Start the game. Log in to the Creation Club and download all of the Creation Club content.
 
 ### Using Wabbajack
 
@@ -169,41 +164,21 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Creating your Character
 
-Tranquility uses Skyrim Unbound Reborn as its alternate start mod. When the game begins you will be looking over a destroyed Helgen. This is where initial scripts are started and should be left alone for about 10-15 seconds. Once it is done you can configure your desired start using the Skyrim Unbound MCM setting. When you are happy with your desired start choice, hit Begin in the MCM. **For the sake of compatibility, please do not create a non dragonborn character**. I am not going to stop you but do not expect the game to function 100% with a feature that disables a core part of Skyrim.
-
-Once you begin you will be taken to character creation and then to your new game
+Tranquility uses Alternate Perspective as its alternate start mod. When the game begins you will be in an inn room. This is where initial scripts are started and should be left alone for about 10-15 seconds. Once it is done you can speak to the dragon to choose your desired start. Once you're ready, walk out of the door and your adventure will begin.
 
 ## In-Game MCM Options
 
-All the required MCM options have been automated for you. Enjoy the game or tweak the following to your liking:
-
-- iHud
-- SkyUI
-- Lucien (If you set a nickname that's supported he can call you by that name)
-- XP32 Skeleton Styles
+All the required MCM options have been automated for you. Enjoy the game or tweak any of the MCMs to your liking
 
 ### Optional Survival Config
 
 Included in Tranquility is SunHelm Survival. It is disabled by default and will prompt to turn on when you sleep or if you manually activate it. If you're not a fan of this, just disable it in the MCM option. **DO NOT UNINSTALL THE MOD**
 
-### Keyboard Mapping
-
-![keyboardmapping](images/keyboard-layout.png)
-
-Note: Night vision is only available to Khajiit, Vampires, and Werewolves. Hunter Vision is only available to Vampires and Werewolves.
-
 ## Other Post Installation FAQ
 
 ### Ultrawide Options
 
-If you have an ultrawide monitor (21:9), the UI will look off. You will want to install a set of mods meant to help with widescreen monitors:
-
-1) Find the mod Dear Diary in the left pane of MO2 and reinstall it with your desired Widescreen aspect ratio.
-2) Head over to [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778).
-3) Under Optional Files, grab `SkyHud - High Resolution Widescreen Fix`.
-4) Install the mod, activate it, and let it load at the bottom.
-
-You should now have a working UI with widescreen support.
+TO BE UPDATED
 
 ### Tweaking the Game Settings
 
@@ -235,7 +210,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and on my own Discord [Xanza's Emporium](https://discord.gg/867QtkVuUa), I would advise checking the [Issues](https://github.com/ixanza/tranquility/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and on my own Discord [Emporio's Emporium](https://discord.gg/867QtkVuUa), I would advise checking the [Issues](https://github.com/ixanza/tranquility/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Contributing
 
