@@ -1,40 +1,42 @@
 # Tranquility
 
+<!-- TOC -->
+
 - [Tranquility](#tranquility)
-  - [Preamble](#preamble)
-  - [System Requirements](#system-requirements)
-  - [Installation](#installation)
-    - [Pre-Installation](#pre-installation)
-      - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-      - [Steam Config](#steam-config)
-        - [Disable the Steam Overlay](#disable-the-steam-overlay)
-      - [Change Steams Update Behaviour](#change-steams-update-behaviour)
-      - [Set the Game language to English](#set-the-game-language-to-english)
-      - [Clean Skyrim](#clean-skyrim)
-      - [Start Skyrim](#start-skyrim)
-    - [Using Wabbajack](#using-wabbajack)
-      - [Preparations](#preparations)
-      - [Downloading and Installing](#downloading-and-installing)
-        - [Problems with Wabbajack](#problems-with-wabbajack)
-  - [Post-Installation](#post-installation)
-    - [Game Folder](#game-folder)
-    - [ENB](#enb)
-  - [The video game has been modified](#the-video-game-has-been-modified)
-  - [How to start up Tranquility](#how-to-start-up-tranquility)
-  - [Updating](#updating)
-  - [Creating your Character](#creating-your-character)
-  - [In-Game MCM Options](#in-game-mcm-options)
-    - [Optional Survival Config](#optional-survival-config)
-    - [Keyboard Mapping](#keyboard-mapping)
-  - [Other Post Installation FAQ](#other-post-installation-faq)
-    - [Ultrawide Options](#ultrawide-options)
-    - [Tweaking the Game Settings](#tweaking-the-game-settings)
-    - [Zoomed in Display](#zoomed-in-display)
-    - [Removing the Modlist](#removing-the-modlist)
-  - [Credits and Thanks](#credits-and-thanks)
-  - [Contact](#contact)
-  - [Contributing](#contributing)
-  - [Changelog](#changelog)
+    - [Preamble](#preamble)
+    - [System Requirements](#system-requirements)
+    - [Installation](#installation)
+        - [Pre-Installation](#pre-installation)
+            - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+            - [Steam Config](#steam-config)
+                - [Disable the Steam Overlay](#disable-the-steam-overlay)
+            - [Set the Game language to English](#set-the-game-language-to-english)
+            - [Clean Skyrim](#clean-skyrim)
+            - [Start Skyrim](#start-skyrim)
+        - [Using Wabbajack](#using-wabbajack)
+            - [Preparations](#preparations)
+            - [Downloading and Installing](#downloading-and-installing)
+                - [Problems with Wabbajack](#problems-with-wabbajack)
+    - [Post-Installation](#post-installation)
+        - [Game Folder](#game-folder)
+        - [ENB](#enb)
+    - [The video game has been modified](#the-video-game-has-been-modified)
+    - [How to start up Tranquility](#how-to-start-up-tranquility)
+    - [Updating](#updating)
+    - [Creating your Character](#creating-your-character)
+    - [In-Game MCM Options](#in-game-mcm-options)
+        - [Optional Survival Config](#optional-survival-config)
+    - [Other Post Installation FAQ](#other-post-installation-faq)
+        - [Ultrawide Options](#ultrawide-options)
+        - [Tweaking the Game Settings](#tweaking-the-game-settings)
+        - [Zoomed in Display](#zoomed-in-display)
+        - [Removing the Modlist](#removing-the-modlist)
+    - [Credits and Thanks](#credits-and-thanks)
+    - [Contact](#contact)
+    - [Contributing](#contributing)
+    - [Changelog](#changelog)
+
+<!-- /TOC -->
 
 ## Preamble
 
@@ -83,7 +85,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 #### Clean Skyrim
 
 I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting its contents.
-A fully updated Skyrim (1.6.342 at the current version of Tranquility) is required. Do not run the Downgrade Patcher or the list will not install. 
+A fully updated Skyrim (1.6.342 at the current version of Tranquility) is required. Do not run the Downgrade Patcher or the list will not install.
 
 #### Start Skyrim
 
