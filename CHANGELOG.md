@@ -8,6 +8,7 @@
 
 - Download Size change: -1.9GB (Total: 90.6GB)
 - Install Size change: 1.7GB (Total: 129.8GB)
+- This update is not save game compatible
 
 **Download Changes**:
 
@@ -39,11 +40,9 @@
 - Added [Rebalancing Anniversary Edition - Quest Requirements.](https://www.nexusmods.com/skyrimspecialedition/mods/61004/?tab=files&file_id=253328)
 - Added [Stendarr Rising - The Hall of the Vigilant Rebuild](https://www.nexusmods.com/skyrimspecialedition/mods/49346/?tab=files&file_id=239574)
 - Added [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384/?tab=files&file_id=252729)
-- Added [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384/?tab=files&file_id=254202)
 - Added [Vanity Mirror SE](https://www.nexusmods.com/skyrimspecialedition/mods/25251/?tab=files&file_id=152265)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=252925)
 - Updated [Alternate Perspective - Prologue Retold](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=252975)
-- Updated [Alternate Perspective - Prologue Retold](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=252976)
 - Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=253359)
 - Updated [Better Windhelm Ground Meshes - With Parallax Support](https://www.nexusmods.com/skyrimspecialedition/mods/42746/?tab=files&file_id=253607)
 - Updated [Carriages HD UHD](https://www.nexusmods.com/skyrimspecialedition/mods/60403/?tab=files&file_id=254659)
@@ -63,7 +62,6 @@
 - Updated [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339/?tab=files&file_id=253209)
 - Updated [Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790/?tab=files&file_id=254932)
 - Updated [Highly Improved Male Body Overhaul -HIMBO-](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=254333)
-- Updated [Highly Improved Male Body Overhaul -HIMBO-](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=254337)
 - Updated [JK's Riverwood Trader](https://www.nexusmods.com/skyrimspecialedition/mods/55959/?tab=files&file_id=250775)
 - Updated [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095/?tab=files&file_id=251588)
 - Updated [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=252854)
@@ -85,6 +83,13 @@
 - Removed [Rudy HQ - More Lights for ENB SE - Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/22704/?tab=files&file_id=163210) - Replaced with A Tragedy in Black
 - Removed [RUSTIC SOULGEMS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5785/?tab=files&file_id=12944) - Replaced with A Tragedy in Black
 - Removed [WEBS S.E.](https://www.nexusmods.com/skyrimspecialedition/mods/4873/?tab=files&file_id=10871) - Using Lux's Webs instead
+
+**Tweaks & Fixes:**
+
+- Added a custom Stagger cooldown of 5 seconds to all NPCs to prevent them being staggerlocked by power attacks over and over
+- Fixed a nasty freeze when approaching Rorikstead and some Forsworn related areas
+- Modified enemy difficulty through the inclusion of Adamant Perks for NPCs, Mysticism spells for NPCs and Oreo's custom Simonrim for NPCs
+- Updated Base BSAs and ESMs to Skyrim Special Edition 1.6.353
 
 ## Tranquility v1.0.0
 
