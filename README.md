@@ -8,6 +8,7 @@
     - [Installation](#installation)
         - [Pre-Installation](#pre-installation)
             - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+            - [Installing Microsoft .Net Framework 5.0 Runtime](#installing-microsoft-net-framework-50-runtime)
             - [Steam Config](#steam-config)
                 - [Disable the Steam Overlay](#disable-the-steam-overlay)
             - [Set the Game language to English](#set-the-game-language-to-english)
@@ -40,14 +41,14 @@
 
 ## Preamble
 
-Just some jank with JK's Skyrim, full Simonrim suite, full Creation Club content and custom difficulty modification. Shilling $20 to Bethesda for the Anniversary Upgrade is **REQUIRED**.
+A complete overhaul of Skyrim, Tranquility is a modlist aimed at people wanting an easy to learn but hard to master playthrough. It features the full Simonrim suite of mods, no nudity, complete Creation Club support ($20 for Anniversary Upgrade is required), body and armor physics.
 
 The complete modlist can be found [here](https://loadorderlibrary.com/lists/tranquility).
 
 ## System Requirements
 
-Download Size: 102GB
-Install Size: 129GB
+Download Size: 90.6GB
+Install Size: 129.8GB
 
 Tranquility is a mid- to high-end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p.
 
@@ -66,7 +67,11 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+
+#### Installing Microsoft .Net Framework 5.0 Runtime
+
+This package is required for the mod Scrambled Bugs to work. Without this installed, the game would not launch. Download and install the x64 version under "Run desktop apps" from [Microsoft](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime). [Direct Link](https://download.visualstudio.microsoft.com/download/pr/2bfb80f2-b8f2-44b0-90c1-d3c8c1c8eac8/409dd3d3367feeeda048f4ff34b32e82/windowsdesktop-runtime-5.0.13-win-x64.exe)
 
 #### Steam Config
 
@@ -85,7 +90,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 #### Clean Skyrim
 
 I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting its contents.
-A fully updated Skyrim (1.6.342 at the current version of Tranquility) is required. Do not run the Downgrade Patcher or the list will not install.
+A fully updated Skyrim (1.6.353 at the current version of Tranquility) is required. Do not run the Downgrade Patcher or the list will not install.
 
 #### Start Skyrim
 
