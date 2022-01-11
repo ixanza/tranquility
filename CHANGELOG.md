@@ -1,5 +1,43 @@
 # Changelog
 
+## Tranquility 1.1.1
+
+**Build at:** `1/11/2022 8:41:55 PM`
+
+**Info**:
+
+- Download Size change: 28.3MB (Total: 90.5GB)
+- Install Size change: 35.9MB (Total: 129.7GB)
+
+**Download Changes**:
+
+- Added [3BA 3BBB CBPC Realistic Firm Breasts Butt and Thighs (3BA RFBBT)](https://www.nexusmods.com/skyrimspecialedition/mods/59123/?tab=files&file_id=246165)
+- Added [SkyUI Weapons Pack SE](https://www.nexusmods.com/skyrimspecialedition/mods/37231/?tab=files&file_id=146790)
+- Added [XNFRain's Civil War Map Flag Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/61520/?tab=files&file_id=255225)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=255808)
+- Updated [CBBE 3BA (3BBB)](https://www.nexusmods.com/skyrimspecialedition/mods/30174/?tab=files&file_id=255282)
+- Updated [CBPC - Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=255262)
+- Updated [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044/?tab=files&file_id=255593)
+- Updated [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839/?tab=files&file_id=255812)
+- Updated [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339/?tab=files&file_id=255271)
+- Updated [Janquel's Arguably Needed Quixotically Unifying ESP Library](https://www.nexusmods.com/skyrimspecialedition/mods/57365/?tab=files&file_id=255814)
+- Updated [JKs Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416/?tab=files&file_id=255779)
+- Updated [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=255005)
+- Updated [Mu Joint Fix (Knee Fix dll edition)](https://www.nexusmods.com/skyrimspecialedition/mods/61479/?tab=files&file_id=255852)
+- Updated [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681/?tab=files&file_id=255366)
+- Updated [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=255184)
+- Updated [SunHelm Survival and needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414/?tab=files&file_id=255571)
+- Updated [Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=255162)
+- Removed [CBBE 3BA (3BBB) - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56875/?tab=files&file_id=253421) - Not needed
+- Removed [Fixes for 4thUnknown's Dark Brotherhood Armor SE](https://www.nexusmods.com/skyrimspecialedition/mods/60533/?tab=files&file_id=250999) - Not needed
+- Removed [Wall mounted dead animals fixes](https://www.nexusmods.com/skyrimspecialedition/mods/58511/?tab=files&file_id=241749) - Not needed
+
+**Fixes & Tweaks**:
+
+- Fixed some man boobs with HIMBO (I hope)
+- Boob physics should be a lot firmer now
+- Weapon Icons for Animated Armoury  weapons should now show up properly in SKYUI
+
 ## Tranquility 1.1.0
 
 **Build at:** `1/8/2022 4:19:13 PM`
