@@ -1,5 +1,18 @@
 # Changelog
 
+## Tranquility 1.1.2
+
+**Build at:** `1/12/2022 11:02:33 AM`
+
+**Info**:
+
+- Download Size change: 147.8KB (Total: 90.5GB)
+- Install Size change: 362.4KB (Total: 129.7GB)
+
+**Download Changes**:
+
+- Removed [Mu Joint Fix (Knee Fix dll edition)](https://www.nexusmods.com/skyrimspecialedition/mods/61479/?tab=files&file_id=255852)
+
 ## Tranquility 1.1.1
 
 **Build at:** `1/11/2022 8:41:55 PM`
