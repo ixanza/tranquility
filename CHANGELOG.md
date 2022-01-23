@@ -1,5 +1,75 @@
 # Changelog
 
+## Tranquility 1.2.0
+
+**Build at:** `1/23/2022 9:16:29 AM`
+
+**Info**:
+
+- Download Size change: -479.3MB (Total: 91GB)
+- Install Size change: -1.3GB (Total: 131GB)
+- This update is not save game compatible
+
+**Download Changes**:
+
+
+- Added [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429/?tab=files&file_id=11022)
+- Added [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=11606)
+- Added [Contraband Confiscation - No Crime Teleport Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62367/?tab=files&file_id=258596)
+- Added [Cover your head - Sacrosanct or Sacrilege or Scion](https://www.nexusmods.com/skyrimspecialedition/mods/53466/?tab=files&file_id=222699)
+- Added [Fix Toggle Walk Run (SKSE plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/61671/?tab=files&file_id=256132)
+- Added [Immersive Equipment Displays - Mura Presets](https://www.nexusmods.com/skyrimspecialedition/mods/62360/?tab=files&file_id=258575)
+- Added [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001/?tab=files&file_id=258488)
+- Added [Improved Loading Screen Colors](https://www.nexusmods.com/skyrimspecialedition/mods/61712/?tab=files&file_id=255727)
+- Added [JK's High Hrothgar](https://www.nexusmods.com/skyrimspecialedition/mods/62219/?tab=files&file_id=258369)
+- Added [Pause Menu After Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/62031/?tab=files&file_id=258345)
+- Added [Skyrim Platform](https://www.nexusmods.com/skyrimspecialedition/mods/54909/?tab=files&file_id=257634)
+- Added [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891/?tab=files&file_id=171458)
+- Added [Ultra Widescreen Patch for Forget Spell (Temporary Upload)](https://www.nexusmods.com/skyrimspecialedition/mods/54854/?tab=files&file_id=225118)
+- Added [Wash That Blood Off 2](https://www.nexusmods.com/skyrimspecialedition/mods/62358/?tab=files&file_id=258552)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=256101)
+- Updated [Better Windhelm Ground Meshes - With Parallax Support](https://www.nexusmods.com/skyrimspecialedition/mods/42746/?tab=files&file_id=256874)
+- Updated [CBPC - Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=256395)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files&file_id=257896)
+- Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=257352)
+- Updated [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=256134)
+- Updated [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339/?tab=files&file_id=257487)
+- Updated [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653/?tab=files&file_id=257654)
+- Updated [JK's Blue Palace](https://www.nexusmods.com/skyrimspecialedition/mods/45324/?tab=files&file_id=256551)
+- Updated [JK's Haelga's Bunkhouse](https://www.nexusmods.com/skyrimspecialedition/mods/60085/?tab=files&file_id=258390)
+- Updated [JK's Jorrvaskr](https://www.nexusmods.com/skyrimspecialedition/mods/60738/?tab=files&file_id=256556)
+- Updated [JK's Understone Keep](https://www.nexusmods.com/skyrimspecialedition/mods/55571/?tab=files&file_id=258388)
+- Updated [JKs Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416/?tab=files&file_id=258437)
+- Updated [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095/?tab=files&file_id=257905)
+- Updated [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=257880)
+- Updated [Mysticism Spells For Npcs](https://www.nexusmods.com/skyrimspecialedition/mods/53682/?tab=files&file_id=257195)
+- Updated [Oblivion Interaction Icons](https://www.nexusmods.com/skyrimspecialedition/mods/52743/?tab=files&file_id=258124)
+- Updated [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=256077)
+- Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=258071)
+- Updated [Rebalancing Anniversary Edition - Quest Requirements.](https://www.nexusmods.com/skyrimspecialedition/mods/61004/?tab=files&file_id=258554)
+- Updated [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=257742)
+- Updated [Smooth Magic Casting Animation](https://www.nexusmods.com/skyrimspecialedition/mods/45799/?tab=files&file_id=258039)
+- Updated [Smooth Staff Animation](https://www.nexusmods.com/skyrimspecialedition/mods/54883/?tab=files&file_id=256725)
+- Updated [Stackable Stones of Barenziah with Optional Quest Markers](https://www.nexusmods.com/skyrimspecialedition/mods/22395/?tab=files&file_id=257036)
+- Updated [SunHelm Survival and needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414/?tab=files&file_id=256290)
+- Updated [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384/?tab=files&file_id=256268)
+- Updated [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975/?tab=files&file_id=257426)
+- Updated [XPMSSE - Nemesis - Papyrus Stack Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60363/?tab=files&file_id=257770)
+- Removed [K747 Patches for Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/38655/?tab=files&file_id=236605) - Removed Mountains Enhanced as it was making a lot of areas inaccessible
+- Removed [Lexy's LOTD Special Edition Guide OMEGA Patches](https://www.nexusmods.com/skyrimspecialedition/mods/20148/?tab=files&file_id=241412) - Removed Lexy's Experience preset
+- Removed [Pandorable's Lethal Ladies - Jenassa Karliah](https://www.nexusmods.com/skyrimspecialedition/mods/36827/?tab=files&file_id=143712) - We weren't using any of this
+- Removed [Unequip Quiver SE](https://www.nexusmods.com/skyrimspecialedition/mods/44031/?tab=files&file_id=249195) - Incompatible with Immersive Equipment Displays
+- Removed [Weapons Repositioner SE](https://www.nexusmods.com/skyrimspecialedition/mods/58273/?tab=files&file_id=246683) - Incompatible with Immersive Equipment Displays
+
+**Custom Tweaks and Fixes**:
+
+- Fixed an armor addon error from Praedyth's Skeletons
+- Fixed a script conflict with Contraband Confiscation and No Crime Teleport
+- Fixed some enchanted weapons reverting to vanilla instead of using Thaumaturgy + WACCF stuff
+- Forwarded USSEP scripts where needed on NPC records
+- Removed potentially all 3D loading screens in favour of the 2D Load screen art
+- Tweaked main Experience ini to be slower
+
 ## Tranquility 1.1.2
 
 **Build at:** `1/12/2022 11:02:33 AM`
