@@ -107,10 +107,8 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-Grab the modlist from the [releases](https://github.com/ixanza/tranquility/releases) tab.
-
 1. Open Wabbajack.
-2. Click on browse Modlists and seelct the modlist you downloaded above.
+2. Click on browse Modlists and select Tranquility.
 3. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Programme Files, Desktop. Put it somewhere easy like `C:/Modlists/Tranquility`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button.
 5. Wait for Wabbajack to finish.
@@ -185,7 +183,7 @@ Included in Tranquility is SunHelm Survival. It is disabled by default and will 
 
 ### Ultrawide Options
 
-TO BE UPDATED
+Tranquility comes with an Ultrawide preset created "Cashtro" on the discord. If you use a widescreen monitor, just tick the 'Tranquility Widescreen Add-On' option at the bottom of the modlist
 
 ### Tweaking the Game Settings
 
