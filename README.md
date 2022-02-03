@@ -120,7 +120,15 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist.
+The following files have updated and are no longer accessible however they have open distribution permissions so grab it from here:
+- FFXIV Reshade Shaders: https://mega.nz/file/cZBHzYiT#e1wKnVSP1xsp4Vf07vqzpR4TxDlK2S14rorLy2jICeg
+
+The following folder contains mirrors of my generated files for DynDOLOD, Bodyslide, Nemesis, if Wabbajack fails to download these, download them manually from this folder:
+- https://mega.nz/folder/RYBVmIjZ#Qntk7ENLrrgX4fcBx82YkA
+
+The files downloaded from the links above should be placed in the downloads location set in Step 3 of [Downloading and Installing](#downloading-and-installing).
+
+If a mod is no longer accessible and it isn't listed above, Notify me and I will more than likely have to upload a mirror if it has open permissions or I would have to recompile the list.
 
 **Wabbajack could not find my game folder**:
 
