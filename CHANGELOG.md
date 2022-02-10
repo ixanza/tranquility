@@ -1,5 +1,31 @@
 # Changelog
 
+## Tranquility 1.2.2
+
+**Build at:** `2/10/2022 9:25:08 PM`
+
+**Info**:
+
+- Download Size change: -1.2MB (Total: 91GB)
+- Install Size change: -3.6MB (Total: 131GB)
+
+**Download Changes**:
+
+- Added [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
+- Added [Weapon Speed Effects Fix](https://www.nexusmods.com/skyrimspecialedition/mods/27677/?tab=files&file_id=100552)
+
+**Custom Tweaks and Fixes**:
+- Added a check to clear any bounty with the Volkihar Clan during Awakening and Bloodstone Chalice to prevent them getting hostile
+- Disabled BigRange in ENB's ComplexParticleLights settings. Candles shouldn't destroy FPS now (fixes #13)
+- Downgraded Skyrim Platform to 2.4 to hopefully fix any crashes with it
+- Fixed Alternate Perspective Quest not completing (fixes #12)
+- Fixed an issue where Missive quests asking for Salmon Meat couldn't be completed due to Apothecary Fishing patch changing the harvested salmon output
+- Fixed an issue with QuickDraw, Fluorish and Dual Flurry slowing down your attack speed instead of increasing it
+- Fixed glowing creep clusters (fixes 10)
+- Fixed New Beginnings start options not showing up
+- Potentially fixed an issue with Thieves Guild quest not progressing after Loud and Clear
+- Temporarily reverted the meshes in Obscure's College of Winterhold to fix clipping through the ground with Lux Orbis (fixes #11)
+
 ## Tranquility 1.2.0
 
 **Build at:** `1/23/2022 9:16:29 AM`
