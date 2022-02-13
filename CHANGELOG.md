@@ -1,5 +1,18 @@
 # Changelog
 
+## Tranquility 1.2.3
+
+**Build at:** `2/13/2022 2:51:39 PM`
+
+**Info**:
+
+- Download Size change: 0B (Total: 91GB)
+- Install Size change: -3.8MB (Total: 131GB)
+
+**Custom Tweaks and Fixes**:
+- Actually fixed glowing creep clusters this time
+- Fixed Myrwatch dropping you into the void
+
 ## Tranquility 1.2.2
 
 **Build at:** `2/10/2022 9:25:08 PM`
