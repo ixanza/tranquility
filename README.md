@@ -1,3 +1,10 @@
+# Temporary fix for installing the modlist due to Mods being removed from Nexus
+
+Download this version of the wabbajack file:
+<https://mega.nz/file/sIRRCIzZ#6yHv1Ixcr6XCaBBwJRvLRTHPH-I3YqtQWLaGesypHhE>
+
+This version removes all references to "The Dwemer" and thus you might get some small weirdness with Dwemer related stuff.
+
 # Tranquility
 
 <!-- TOC -->
@@ -44,14 +51,6 @@
 A complete overhaul of Skyrim, Tranquility is a modlist aimed at people wanting an easy to learn but hard to master playthrough. It features the full Simonrim suite of mods, no nudity, complete Creation Club support ($20 for Anniversary Upgrade is required), body and armor physics.
 
 The complete modlist can be found [here](https://loadorderlibrary.com/lists/tranquility).
-
-
-## Temporary fix for installing the modlist due to Mods being removed from Nexus
-
-Download this version of the wabbajack file:
-<https://mega.nz/file/sIRRCIzZ#6yHv1Ixcr6XCaBBwJRvLRTHPH-I3YqtQWLaGesypHhE>
-
-This version removes all references to "The Dwemer" and thus you might get some small weirdness with Dwemer related stuff.
 
 ## System Requirements
 
